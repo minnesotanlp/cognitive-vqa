@@ -1,0 +1,1150 @@
+[
+  {
+    "question": "At what point in the video did the experimenter explain their choice of glassware to accommodate the action currently being performed?",
+    "correct_answer": "118s-148s",
+    "incorrect_answer1": "478s-537s",
+    "incorrect_answer2": "1414s-1442s",
+    "annotation_id": "9eedc022-53a1-4739-bca0-92341859cbe3",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1103s-1229s"
+  },
+  {
+    "question": "At what point in the video did the experimenter prepare the liquid currently being added to ensure it would not introduce oxygen into the system?",
+    "correct_answer": "148s-176s",
+    "incorrect_answer1": "1078s-1103s",
+    "incorrect_answer2": "1792s-1810s",
+    "annotation_id": "4d318251-8cf9-4d71-8fbb-b18181e29219",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1103s-1278s"
+  },
+  {
+    "question": "When did the experimenter state their intention to connect the reaction flask to the vacuum line?",
+    "correct_answer": "176s-216s",
+    "incorrect_answer1": "460s-478s",
+    "incorrect_answer2": "1414s-1428s",
+    "annotation_id": "41111dc8-af66-42d9-bdeb-164939aa823f",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "718s-756s"
+  },
+  {
+    "question": "While watching the experimenter perform these vacuum and argon cycles on the flask, at what earlier point did they explicitly state their intention to use the Schlenk line to purge the system of air and make it entirely inert?",
+    "correct_answer": "176s-216s",
+    "incorrect_answer1": "658s-696s",
+    "incorrect_answer2": "788s-798s",
+    "annotation_id": "56a0ef23-03c7-43df-a210-e2bd2765b4d6",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "908s-1062s"
+  },
+  {
+    "question": "The experimenter is now adding a liquid to the reaction flask. At what point earlier in the video were they holding this flask and planning the setup for this specific addition?",
+    "correct_answer": "176s-216s",
+    "incorrect_answer1": "478s-537s",
+    "incorrect_answer2": "460s-478s",
+    "annotation_id": "c8c45b4c-8a91-4b5e-8bf8-63293c51a1aa",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1103s-1229s"
+  },
+  {
+    "question": "The experimenter just added a large portion of powder to the scale. At what point did they observe the powder's density to determine that adding this much would not exceed their target weight?",
+    "correct_answer": "316s-365s",
+    "incorrect_answer1": "1878s-1891s",
+    "incorrect_answer2": "118s-148s",
+    "annotation_id": "59f15fb3-bb97-4782-ab18-dd1d8a6966fd",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "321s-329s"
+  },
+  {
+    "question": "Why does the experimenter pour the green powder onto the weigh paper rather than transferring it directly from the vial into the flask?",
+    "correct_answer": "The powder does not transfer well directly from the vial.",
+    "incorrect_answer1": "He must precisely measure the powder's mass before transferring it.",
+    "incorrect_answer2": "The green powder transfers easily, but requires exposure to oxygen.",
+    "rationale": "The experimenter notes that the starting material 'doesn't transfer very well from the vial,' so they use the weigh paper as an intermediate step to make adding it to the flask easier.",
+    "annotation_id": "61a0b88a-79c5-4994-9858-11ec843af17c",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the video did the experimenter prepare for this transfer by placing the material on weighing paper to prevent it from getting stuck in the vial?",
+    "correct_answer": "380s-409s",
+    "incorrect_answer1": "216s-238s",
+    "incorrect_answer2": "118s-148s",
+    "annotation_id": "61a0b88a-79c5-4994-9858-11ec843af17c",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "248s-498s"
+  },
+  {
+    "question": "Why does the experimenter choose to transfer the bulk of the solid material into the vial all at once?",
+    "correct_answer": "To minimize the risk of losing any of the material during the transfer process.",
+    "incorrect_answer1": "To limit the time the oxygen and water sensitive reagents are exposed to air.",
+    "incorrect_answer2": "To ensure the green solid completely oxidizes in the air before adding acetic acid.",
+    "rationale": "The experimenter explicitly states that they are adding the bulk of the material right now to avoid losing any.",
+    "annotation_id": "3309d8d5-0e96-4699-b13e-e4a0680b0a91",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is washing down the sides of the flask with solvent to ensure all solid material is fully incorporated into the reaction mixture. At what earlier point in the video did the experimenter initially transfer this solid material into the flask to prevent any loss?",
+    "correct_answer": "380s-409s",
+    "incorrect_answer1": "1744s-1772s",
+    "incorrect_answer2": "590s-628s",
+    "annotation_id": "3309d8d5-0e96-4699-b13e-e4a0680b0a91",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1103s-1229s"
+  },
+  {
+    "question": "The powder is not sticking statically to the vial during the transfer. At what point did the experimenter take action to prevent the powder from sticking?",
+    "correct_answer": "427s-460s",
+    "incorrect_answer1": "925s-1030s",
+    "incorrect_answer2": "216s-238s",
+    "annotation_id": "6851fb0d-3054-4c83-83f8-6e2d5a07ee7e",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "441s-498s"
+  },
+  {
+    "question": "At what moment does the experimenter visually confirm that their intervention to reduce static cling has been successful?",
+    "correct_answer": "441s-442s",
+    "incorrect_answer1": "1664s-1665s",
+    "incorrect_answer2": "642s-643s",
+    "rationale": "The experimenter infers that the deionizer is working based on the increased amount of powder dispensing from the vial. This question tests the viewer's ability to identify the visual cue that indicates the intervention's success.",
+    "annotation_id": "61a73a07-b9d5-41da-acd3-36863113f19b",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is currently performing vacuum and argon cycles on the reaction flask. At what point in the past did they add the solid starting materials to the flask, which must be completed before purging the system?",
+    "correct_answer": "460s-478s",
+    "incorrect_answer1": "176s-216s",
+    "incorrect_answer2": "118s-148s",
+    "annotation_id": "272707a4-292b-4cc3-8e28-de6a2624d59e",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "908s-1062s"
+  },
+  {
+    "question": "When did the experimenter prepare the glassware that prevents the solvent from escaping as vapor during this heating process?",
+    "correct_answer": "478s-537s",
+    "incorrect_answer1": "1287s-1340s",
+    "incorrect_answer2": "925s-1030s",
+    "annotation_id": "5c9a8b06-cb5f-45bd-acf8-c48ca12f4a44",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "At what point did the experimenter prepare the equipment to ensure the boiling solvent would recondense and remain in the flask?",
+    "correct_answer": "478s-537s",
+    "incorrect_answer1": "2226s-2254s",
+    "incorrect_answer2": "1287s-1340s",
+    "annotation_id": "0e6eced5-142b-4637-85d8-3673ae428190",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "Why does the experimenter apply grease to the joint of the condenser before attaching it to the flask?",
+    "correct_answer": "To ensure an airtight seal, which is necessary to maintain the inert atmosphere required for this sensitive reaction.",
+    "incorrect_answer1": "To prevent the ground glass joints from fusing together when exposed to the acidic solvent and heating.",
+    "incorrect_answer2": "To create a breathable barrier that allows oxygen to escape while keeping the acetic acid solvent from evaporating.",
+    "rationale": "The experimenter states they are adding grease to make sure everything is sealed because the setup must remain under an inert environment.",
+    "annotation_id": "34ea6ecf-776a-4cc4-bd2b-4e8a214d1b96",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter prepare the condenser to ensure it would maintain a sealed environment?",
+    "correct_answer": "478s-537s",
+    "incorrect_answer1": "2248s-2268s",
+    "incorrect_answer2": "658s-696s",
+    "annotation_id": "34ea6ecf-776a-4cc4-bd2b-4e8a214d1b96",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "The experimenter is adding acetic acid to the reaction flask. At what point did they secure the condenser and point out the septum that would allow for vacuum cycling before this addition?",
+    "correct_answer": "559s-590s",
+    "incorrect_answer1": "1152s-1180s",
+    "incorrect_answer2": "798s-830s",
+    "annotation_id": "f489ced0-32fc-4ef5-ab32-a7f5f312b453",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "1103s-1229s"
+  },
+  {
+    "question": "Why is the experimenter cycling the apparatus between vacuum and argon at this point?",
+    "correct_answer": "To establish an inert atmosphere before adding the solvent, protecting the sensitive reaction from oxygen and moisture.",
+    "incorrect_answer1": "To thoroughly degas the solid starting materials already in the flask before introducing the acetic acid solvent.",
+    "incorrect_answer2": "To purge vaporized acetic acid solvent from the green solid before sealing the flask with a septum.",
+    "rationale": "The experimenter states they are cycling the system to prepare for the addition of acetic acid. Test whether the student understands that this process is necessary to create the required inert conditions before introducing the solvent for the sensitive reaction.",
+    "annotation_id": "5fee48c1-2bdd-47f3-b281-49efc4312b46",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the experimenter's goal when adjusting the manifold at the end of the clip?",
+    "correct_answer": "To start the flow of argon gas, which is necessary to establish an inert atmosphere for the reaction.",
+    "incorrect_answer1": "To apply a vacuum to the reaction flask, which is required to remove residual oxygen and moisture.",
+    "incorrect_answer2": "To apply a vacuum to the manifold, which is necessary to remove water produced by the imine condensation.",
+    "rationale": "The experimenter states that the vacuum is currently on, but they need to get the argon flow moving as well.",
+    "annotation_id": "79713ebf-2c2e-483d-a65b-d87f8ef227ff",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "When the experimenter turns the stopcock upwards, what is the attached tubing being exposed to?",
+    "correct_answer": "The vacuum line.",
+    "incorrect_answer1": "The inert gas.",
+    "incorrect_answer2": "The inert gas line.",
+    "rationale": "The experimenter notes that turning the stopcock upwards connects the tubing to the vacuum line.",
+    "annotation_id": "330ae109-a86b-4dc3-97f7-2260dcec4412",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "How does the experimenter confirm that the vacuum is actively running when they open the stopcock on the manifold?",
+    "correct_answer": "By listening for the sound of air being drawn through the valve.",
+    "incorrect_answer1": "By observing a sudden drop in pressure on the manifold's digital gauge.",
+    "incorrect_answer2": "By watching the yellow oil bubble vigorously in the lower glass chamber.",
+    "rationale": "The experimenter explicitly notes that they can hear the vacuum coming through when they open the stopcock, confirming it is on.",
+    "annotation_id": "4fa6dce9-1709-432e-8c86-ef326af5cc39",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter plan to leave the reaction setup under argon long term?",
+    "correct_answer": "To maintain an inert atmosphere, as the reaction is highly sensitive to oxygen and moisture.",
+    "incorrect_answer1": "To prevent the acetic acid solvent from evaporating over the course of the extended reaction.",
+    "incorrect_answer2": "To pressurize the flask, as the acetic acid solvent boils easily during the imine condensation.",
+    "rationale": "The experimenter states they will leave the reaction under argon long term. This tests whether the student understands that argon is used to provide an inert atmosphere to protect sensitive reactions from oxygen and water.",
+    "annotation_id": "01668be1-252d-4836-a930-335745bd74a5",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The reaction is now being left to run long-term. At what point did the experimenter insert the needle into the septum to begin preparing the system's atmosphere for this?",
+    "correct_answer": "658s-696s",
+    "incorrect_answer1": "1152s-1180s",
+    "incorrect_answer2": "1117s-1152s",
+    "annotation_id": "01668be1-252d-4836-a930-335745bd74a5",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "The experimenter is leaving the reaction to run overnight. At what point in the video did the experimenter demonstrate the mechanism that will prevent air from entering the system during this time?",
+    "correct_answer": "696s-718s",
+    "incorrect_answer1": "537s-559s",
+    "incorrect_answer2": "1037s-1063s",
+    "annotation_id": "fe553665-60f6-4179-b841-86115d8fe120",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "The experimenter is able to stir the dry powder inside the flask. At what previous point in the experiment was the magnetic stir bar added to the flask to make this possible?",
+    "correct_answer": "316s-365s",
+    "incorrect_answer1": "718s-756s",
+    "incorrect_answer2": "118s-148s",
+    "annotation_id": "ed8898e3-a254-4c1e-b397-b31fae0ffab4",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "718s-756s"
+  },
+  {
+    "question": "Why does the experimenter check the bubbler after adjusting the gas cylinder?",
+    "correct_answer": "To confirm that the gas flow is sufficient to maintain a slight positive pressure in the system.",
+    "incorrect_answer1": "To ensure that the gas is not flowing too rapidly, which might evaporate the acetic acid solvent.",
+    "incorrect_answer2": "To confirm that the argon gas is reacting with the hexaketocyclohexane to drive the condensation reaction forward.",
+    "rationale": "The experimenter states they are looking at the bubbler to see a flow of bubbles, which indicates a slight positive pressure of argon is being maintained.",
+    "annotation_id": "35814f81-eb8d-4a54-aec1-1b9be3d1c8a1",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the video did the experimenter adjust the argon flow to maintain the positive pressure required to keep the system inert for this overnight reaction?",
+    "correct_answer": "756s-790s",
+    "incorrect_answer1": "1103s-1117s",
+    "incorrect_answer2": "1030s-1037s",
+    "annotation_id": "35814f81-eb8d-4a54-aec1-1b9be3d1c8a1",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "Based on the component the experimenter points to, what parameter might they need to increase later?",
+    "correct_answer": "The flow rate of the inert gas.",
+    "incorrect_answer1": "The rotation speed of the magnetic stirrer.",
+    "incorrect_answer2": "The vacuum pressure of the Schlenk line.",
+    "rationale": "The experimenter points to the bubbler and states, 'If I need to increase, then I will increase later.' The bubbler is used to monitor the flow of inert gas through the system, indicating that the experimenter is considering the gas flow rate.",
+    "annotation_id": "4065898e-0255-4ac7-b26a-643765932d5f",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter points to the bubbler to show the current gas flow. At what point in the past did they initially set this flow rate, mentioning they might need to increase it later?",
+    "correct_answer": "788s-798s",
+    "incorrect_answer1": "1103s-1117s",
+    "incorrect_answer2": "1037s-1063s",
+    "annotation_id": "4065898e-0255-4ac7-b26a-643765932d5f",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "At what moment does the experimenter visually confirm that a slight, steady flow of inert gas has been established?",
+    "correct_answer": "798s-806s",
+    "incorrect_answer1": "1106s-1114s",
+    "incorrect_answer2": "1046s-1054s",
+    "rationale": "The experimenter assesses the gas flow rate by observing the bubbling rate in the bubbler. This question tests the viewer's ability to identify the standard visual cue used to monitor inert gas flow in a Schlenk line setup.",
+    "annotation_id": "3a308a46-65c2-438a-9cc2-9cfe4bf4941b",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what moment does the experimenter confirm that the reaction system is actively receiving an inert gas flow?",
+    "correct_answer": "822s-826s",
+    "incorrect_answer1": "705s-709s",
+    "incorrect_answer2": "1032s-1036s",
+    "rationale": "The experimenter infers that the reaction is under an inert atmosphere immediately after opening the corresponding valve on the manifold. Testing this ensures the viewer understands the function of the Schlenk line controls in establishing the reaction environment.",
+    "annotation_id": "5ad6846f-e839-475d-af37-eb65dcb052e7",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what point in the past did the experimenter leave the flask under vacuum to ensure that excess air was pulled out?",
+    "correct_answer": "830s-858s",
+    "incorrect_answer1": "658s-696s",
+    "incorrect_answer2": "1152s-1180s",
+    "annotation_id": "3c551f6d-7cd9-4ae4-b3e9-fc538cfc49a5",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "Why does the experimenter raise the flask and condenser assembly at the end of the clip?",
+    "correct_answer": "To create clearance to place a heating bath on the hot plate.",
+    "incorrect_answer1": "To cool the reaction mixture by removing it from the heat source.",
+    "incorrect_answer2": "To rapidly cool the green acetic acid mixture away from the hot plate.",
+    "rationale": "The experimenter mentions needing to get the oil heating up. Raising the apparatus provides the necessary space to place an oil bath on the hot plate underneath the flask.",
+    "annotation_id": "73166018-df44-475a-b780-8a74ab011b6f",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the video did the experimenter begin heating the bath that the reaction flask is now being lowered into?",
+    "correct_answer": "858s-892s",
+    "incorrect_answer1": "1030s-1037s",
+    "incorrect_answer2": "1485s-1513s",
+    "annotation_id": "73166018-df44-475a-b780-8a74ab011b6f",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1278s-1373s"
+  },
+  {
+    "question": "What is the experimenter's strategy for heating the reaction to its final target temperature?",
+    "correct_answer": "They will initially set the hotplate to a lower temperature and gradually increase it to the target.",
+    "incorrect_answer1": "They will preheat an oil bath to the exact final temperature before submerging the reaction flask completely.",
+    "incorrect_answer2": "They will immediately set the right knob to 200 to rapidly heat the clear bath directly.",
+    "rationale": "The experimenter states that they will start heating at 100 \u00b0C and work their way up to 150 \u00b0C.",
+    "annotation_id": "879d273e-f457-4237-b03d-7f4b83b4df83",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The reaction is now being heated to a high temperature. When did the experimenter prepare the apparatus to prevent solvent evaporation during this process?",
+    "correct_answer": "478s-537s",
+    "incorrect_answer1": "2226s-2254s",
+    "incorrect_answer2": "1287s-1340s",
+    "annotation_id": "879d273e-f457-4237-b03d-7f4b83b4df83",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "Why is it acceptable for the experimenter to increase the temperature setting so rapidly?",
+    "correct_answer": "The reaction is not sensitive to high temperatures, so an uneven heating rate is acceptable.",
+    "incorrect_answer1": "The acetic acid solvent has a high boiling point, so rapid initial heating is safe.",
+    "incorrect_answer2": "The hexa-ketocyclohexane reactant requires a sudden thermal shock, so rapidly heating to 100\u00b0C is acceptable.",
+    "rationale": "The experimenter notes that the reaction is not sensitive to high temperatures, so uneven heating is okay. Test whether the student understands why the experimenter is comfortable rapidly increasing the temperature setting.",
+    "annotation_id": "cf0af063-2973-44a1-ae35-a30215ce145e",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is adding liquid and washing down the sides of the flask to ensure all the solid material is incorporated. At what earlier point did they manually tap the flask to try and dislodge the powder from the sides?",
+    "correct_answer": "925s-1030s",
+    "incorrect_answer1": "718s-756s",
+    "incorrect_answer2": "427s-460s",
+    "annotation_id": "a1ee8420-7603-4df9-aa35-c283859447ef",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1103s-1229s"
+  },
+  {
+    "question": "Why is the experimenter leaving the apparatus under vacuum for a few minutes before proceeding to add the solvent and establish the argon flow?",
+    "correct_answer": "To ensure the complete removal of atmospheric oxygen and moisture, which could interfere with the sensitive reaction.",
+    "incorrect_answer1": "To eliminate any residual solvent from the synthesized starting material, which could negatively impact the condensation process.",
+    "incorrect_answer2": "To completely strip the protecting groups from the amine starting material before adding acetic acid solvent.",
+    "rationale": "The experimenter notes they will leave the setup under vacuum before adding the solvent and checking the argon flow. The context states the reaction is very oxygen and water sensitive. This tests whether the student understands that the purpose of the prolonged vacuum step is to thoroughly evacuate these contaminants before initiating the reaction under inert conditions.",
+    "annotation_id": "cfd5170a-d3f0-4bc5-a7a5-766f320c1425",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter prepare the reaction flask to ensure it would be under an inert argon atmosphere?",
+    "correct_answer": "1037s-1063s",
+    "incorrect_answer1": "658s-696s",
+    "incorrect_answer2": "176s-216s",
+    "annotation_id": "71300d40-dd5d-4ce8-b2aa-32c7d145cd97",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "Why must the experimenter ensure the system is under argon flow rather than vacuum before adding the solvent?",
+    "correct_answer": "If the solvent is added while the system is under vacuum, the powder inside the flask will be violently dispersed.",
+    "incorrect_answer1": "If the solvent is added while the system is under vacuum, the liquid will immediately flash boil and rapidly evaporate.",
+    "incorrect_answer2": "If the acetic acid is added while the system is under vacuum, the green powder will compress into a solid mass.",
+    "rationale": "The experimenter notes that adding the solvent while the system is under vacuum will cause the powder to shoot everywhere, so they must switch to argon flow first to manage this risk.",
+    "annotation_id": "7a55a5ed-b49d-498a-8db5-74d2d545e986",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter observe a condition in their equipment that reduces the accuracy of their volume measurement but determine it is acceptable?",
+    "correct_answer": "1117s-1138s",
+    "incorrect_answer1": "330s-351s",
+    "incorrect_answer2": "1902s-1923s",
+    "rationale": "The experimenter sees the air gap in the syringe and infers that while it makes the volumetric measurement less accurate, it is not a critical issue for this step. Testing this requires the student to notice the air gap and understand its implication for measurement precision.",
+    "annotation_id": "ee802e02-1ebb-4284-858f-5c4214af9457",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why does the experimenter trace the path of the tubing from the top of the condenser and pan the camera towards the side of the fume hood?",
+    "correct_answer": "To verify that the cooling water outlet is securely draining into the sink, preventing accidental flooding of the workspace.",
+    "incorrect_answer1": "To show that the system is properly connected to a bubbler, ensuring the inert atmosphere is maintained throughout the reaction.",
+    "incorrect_answer2": "To verify that the inert gas line is securely venting outside the sash, preventing accidental oxidation of acetic acid.",
+    "rationale": "The experimenter states: 'just flows water through there to make sure that the other side of my condenser is actually going to the sink. So that way I'm not pouring water all over my hood.'",
+    "annotation_id": "0c0fef1e-cf41-4d09-9081-d3b434694e2b",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "As the reaction runs, the condenser operates continuously without flooding the fume hood. At what point in the past did the experimenter check the water lines to ensure the outflow was safely directed into the sink?",
+    "correct_answer": "1287s-1340s",
+    "incorrect_answer1": "1463s-1485s",
+    "incorrect_answer2": "1063s-1078s",
+    "annotation_id": "0c0fef1e-cf41-4d09-9081-d3b434694e2b",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "At what moment does the experimenter visually confirm that the cooling water flow rate is at an optimal level?",
+    "correct_answer": "1336s-1339s",
+    "incorrect_answer1": "2278s-2281s",
+    "incorrect_answer2": "706s-709s",
+    "rationale": "The experimenter observes the water flowing through the condenser tubes and infers that the light flow rate is appropriate for the setup. This tests the viewer's ability to recognize when an operational parameter is being verified.",
+    "annotation_id": "e16dce1f-2ff7-4954-9421-61ad9b1876b0",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "As the reaction is left to run unattended overnight, at what prior point did the experimenter secure the condenser's water outflow to prevent the lab from flooding?",
+    "correct_answer": "1287s-1340s",
+    "incorrect_answer1": "1030s-1037s",
+    "incorrect_answer2": "696s-718s",
+    "annotation_id": "99ee41f8-ce9a-4a49-bae3-725ea2b18c9c",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "Observing the physical state of the reaction mixture in the flask, what parameter of the hotplate is the experimenter likely evaluating and considering adjusting?",
+    "correct_answer": "The stirring speed, as the current agitation appears minimal and might need to be increased for optimal mixing.",
+    "incorrect_answer1": "The temperature setting, as the solid reactants appear undissolved and might require additional heat to dissolve completely.",
+    "incorrect_answer2": "The temperature setting, as the acetic acid solvent is boiling too vigorously and needs to be lowered.",
+    "rationale": "The experimenter notes that the stirring is 'pretty low' and considers turning it up.",
+    "annotation_id": "146e32e8-10bd-487c-96aa-4890b0cd4b31",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is about to let the mixture react. At what point in the past did they prepare the equipment to ensure the solvent wouldn't boil away during this heated reaction?",
+    "correct_answer": "478s-537s",
+    "incorrect_answer1": "2226s-2254s",
+    "incorrect_answer2": "1287s-1340s",
+    "annotation_id": "a22e4f6b-d1d3-43b0-96cb-42bae37f08f7",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1388s-1390s"
+  },
+  {
+    "question": "At what timestamp did the experimenter turn on the water flow to the condenser to prevent the solvent from boiling off while the reaction ran overnight?",
+    "correct_answer": "1287s-1340s",
+    "incorrect_answer1": "478s-537s",
+    "incorrect_answer2": "2226s-2254s",
+    "annotation_id": "1470f423-d73c-4bc4-8bc1-e7092ce67aa6",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1422s-1428s"
+  },
+  {
+    "question": "Why does the experimenter press down on the white septum on the side neck of the flask?",
+    "correct_answer": "To ensure a tight seal is maintained, preventing ambient air from entering and compromising the inert atmosphere.",
+    "incorrect_answer1": "To provide steady counter-pressure while inserting a syringe needle, preventing the septum from slipping into the flask.",
+    "incorrect_answer2": "To temporarily break the seal and vent excess pressure generated by the hot acetic acid solvent.",
+    "rationale": "The experimenter notes that the atmosphere needs to be completely inert. Test whether the student understands that pressing the septum is a physical check to ensure the system remains sealed against the outside environment.",
+    "annotation_id": "4bf290dc-2c77-4584-9991-4e07160e6e56",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At 0:15, the experimenter points to the septum on the side neck of the flask, indicating an intention to further secure it. Why is this precaution considered for this specific reaction?",
+    "correct_answer": "To prevent any ambient oxygen or moisture from entering the flask, as the reaction is highly sensitive to both and must be kept under inert conditions.",
+    "incorrect_answer1": "To prevent the septum from popping off due to the positive pressure created by the inert gas flow, which is necessary to maintain the required inert conditions.",
+    "incorrect_answer2": "To prevent the volatile acetic acid solvent from evaporating out of the flask, as maintaining this protonated environment is necessary to drive the imine condensation.",
+    "rationale": "The experimenter notes that they will 'tape this up' (transcribed as 'take this up', referring to the septum) to be safe. The context explains that the reaction is very oxygen and water sensitive and must be run under inert conditions. The question tests if the student understands that securing the septum is a precaution to maintain these inert conditions.",
+    "annotation_id": "89f67c29-f840-455f-9e0a-e8a25bd0dc8c",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter consider increasing the water flow to the condenser to ensure the reaction could safely run unattended?",
+    "correct_answer": "1360s-1390s",
+    "incorrect_answer1": "559s-590s",
+    "incorrect_answer2": "1037s-1063s",
+    "annotation_id": "89f67c29-f840-455f-9e0a-e8a25bd0dc8c",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "1378s-1422s"
+  },
+  {
+    "question": "Why is the experimenter adding liquid from the squeeze bottle into the reaction flask?",
+    "correct_answer": "To quench the ongoing reaction.",
+    "incorrect_answer1": "To rinse the flask walls.",
+    "incorrect_answer2": "To dissolve the tritopic macromolecule.",
+    "rationale": "The experimenter explicitly states that they are adding water in order to quench the reaction.",
+    "annotation_id": "30e13817-3b46-4e95-aa12-520ad6e2a0fd",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the reaction considered to be quenched at this point, and what is the experimenter's primary objective?",
+    "correct_answer": "The reaction is quenched because it has been cooled down, and the objective is to isolate the product.",
+    "incorrect_answer1": "The reaction is quenched because water has been added, and the objective is to remove unreacted starting materials.",
+    "incorrect_answer2": "The reaction is quenched because acetic acid is added from the wash bottle, and the objective is to reverse the imine condensation.",
+    "rationale": "The experimenter notes that cooling the reaction has quenched it, and states that the current goal is product isolation. Test whether the student understands the effect of cooling on this reaction and the subsequent procedural goal.",
+    "annotation_id": "29c76537-77ed-4374-ac8f-b4398fe13729",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "After dismantling the apparatus, how will the experimenter likely proceed to isolate the product from the dark mixture in the flask?",
+    "correct_answer": "By transferring the mixture to a centrifuge tube to wash the solid and remove residual solvent.",
+    "incorrect_answer1": "By filtering the mixture through a B\u00fcchner funnel to isolate the solid from the acetic acid.",
+    "incorrect_answer2": "By attaching the two-neck flask to a rotary evaporator to boil off the acetic acid solvent.",
+    "rationale": "The experimenter states they will transfer the contents to a centrifuge tube to wash out residual acetic acid with water and then methanol.",
+    "annotation_id": "39c43b45-baac-4b34-a294-7224996ffaa8",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter transfer the reaction mixture to a centrifuge tube to wash it with water in preparation for this step?",
+    "correct_answer": "1513s-1548s",
+    "incorrect_answer1": "1744s-1772s",
+    "incorrect_answer2": "1807s-1820s",
+    "annotation_id": "39c43b45-baac-4b34-a294-7224996ffaa8",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2158s-2321s"
+  },
+  {
+    "question": "What is the experimenter's primary objective when preparing to use the spatula inside the flask?",
+    "correct_answer": "To scrape the walls and recover as much of the solid material as possible.",
+    "incorrect_answer1": "To break up large solid clumps so that the magnetic stir bar can spin.",
+    "incorrect_answer2": "To break apart the clumped dark solid before introducing the acetic acid solvent.",
+    "rationale": "The experimenter explicitly states that their focus is on scraping the walls to get all the solid out, maximizing the recovery of the product.",
+    "annotation_id": "269a4ce1-65c6-45fb-9a26-e9a5a9463215",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is sonicating and rinsing the round-bottom flask to maximize the transfer of the solid product. At what earlier point did they state their intention to focus on getting as much solid out of this flask as possible?",
+    "correct_answer": "1548s-1581s",
+    "incorrect_answer1": "1180s-1198s",
+    "incorrect_answer2": "1744s-1772s",
+    "annotation_id": "269a4ce1-65c6-45fb-9a26-e9a5a9463215",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1818s-1837s"
+  },
+  {
+    "question": "In this clip, the experimenter successfully transfers the mixture without the stir bar falling into the centrifuge tube. At what previous point in the experiment did they first prepare for this by introducing the technique to hold the stir bar in place?",
+    "correct_answer": "1581s-1600s",
+    "incorrect_answer1": "2190s-2205s",
+    "incorrect_answer2": "1744s-1772s",
+    "annotation_id": "f6ca4259-f853-410f-8298-f768c96e70f4",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "1807s-1814s"
+  },
+  {
+    "question": "At what moment does the experimenter visually confirm that the first centrifugation cycle successfully pelleted the solid product?",
+    "correct_answer": "1600s-1611s",
+    "incorrect_answer1": "1889s-1900s",
+    "incorrect_answer2": "1908s-1919s",
+    "rationale": "The experimenter observes the solid stuck at the bottom of the tube and concludes the centrifugation step worked as intended. The question tests whether the viewer can identify the visual evidence of successful pelleting.",
+    "annotation_id": "1c2eb213-8017-48d6-ae6f-7c6dff7ed73c",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what moment does the experimenter realize that the centrifugation step failed to completely pellet the solid product, complicating the removal of the supernatant?",
+    "correct_answer": "1611s-1618s",
+    "incorrect_answer1": "1891s-1898s",
+    "incorrect_answer2": "1754s-1761s",
+    "rationale": "The experimenter observes solid floating at the top of the liquid and infers that this will make pouring off the water difficult without losing some product. Testing this requires the viewer to notice the floating solid and understand its implication for the decanting step.",
+    "annotation_id": "eae9df3f-36c7-4f46-8cd3-af634a2b6983",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Based on the appearance of the tube, why is the solid failing to pellet effectively at the bottom?",
+    "correct_answer": "The solvent's viscosity is hindering the solid's movement during centrifugation.",
+    "incorrect_answer1": "The solid's density is too similar to the surrounding solvent.",
+    "incorrect_answer2": "The black solid is rapidly dissolving into the acetic acid.",
+    "rationale": "The experimenter notes that the solvent is fairly viscous compared to other solvents, which prevents the solid from moving and being centrifuged down to the bottom effectively.",
+    "annotation_id": "d3a3f787-cf3a-4487-a395-63bdb1559f23",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is reusing a pipette to remove the liquid. At what prior point did they decide to keep using this specific pipette to minimize the loss of solid product?",
+    "correct_answer": "1648s-1680s",
+    "incorrect_answer1": "1898s-1928s",
+    "incorrect_answer2": "1818s-1850s",
+    "annotation_id": "8eb1551c-a40d-495c-a8f2-8de3b9d35573",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1898s-1996s"
+  },
+  {
+    "question": "Why is the experimenter choosing to wash the solid by centrifugation and pipetting rather than by filtration?",
+    "correct_answer": "Centrifugation is faster and more effective than filtration when washing large amounts of solid with a relatively high-viscosity solvent.",
+    "incorrect_answer1": "Centrifugation in sealed tubes minimizes atmospheric exposure, which is crucial because the reaction product is highly oxygen and water sensitive.",
+    "incorrect_answer2": "Centrifugation in the plastic tube keeps the oxygen-sensitive grey solid under inert conditions, avoiding the air exposure of filtration.",
+    "rationale": "The experimenter notes that centrifugation is the quickest and most effective way to wash compared to filtration, especially when using a higher viscosity solvent like water and dealing with a lot of solid. Test whether the student understands this practical laboratory decision.",
+    "annotation_id": "fb68e4de-94c1-43bf-81d4-73c40740b839",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "After pouring the mixture into the centrifuge tube, what does the appearance of the round-bottom flask indicate about the transfer process?",
+    "correct_answer": "The minimal amount of solid remaining in the flask indicates an efficient transfer, which is crucial for maximizing the recovery of the product.",
+    "incorrect_answer1": "A significant amount of solid stuck to the walls indicates an incomplete transfer, suggesting that additional solvent washes are needed to recover material.",
+    "incorrect_answer2": "The significant dark solid coating the 100 mL flask indicates that the imine condensation failed, resulting in insoluble polymeric byproducts sticking to the glass.",
+    "rationale": "The experimenter remarks that it is \"good\" that there is very little material left in the flask. This question tests the student's understanding that minimizing residual material during a transfer is a key indicator of a successful step that preserves yield.",
+    "annotation_id": "bd47058c-91e3-4e96-a900-421cc599d6fe",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that the transfer process is efficiently removing the desired material from the flask?",
+    "correct_answer": "1777s-1786s",
+    "incorrect_answer1": "2146s-2155s",
+    "incorrect_answer2": "2118s-2127s",
+    "rationale": "The experimenter observes the small amount of residue left in the flask after the first wash and infers that the transfer is proceeding well. This tests the ability to connect the visual state of the emptied vessel to an assessment of transfer efficiency.",
+    "annotation_id": "bd47058c-91e3-4e96-a900-421cc599d6fe",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "After sonicating the flask and pouring the contents into the tube, the experimenter decides to stop the transfer process. What is the most likely reason for this decision?",
+    "correct_answer": "They judge that the transfer is sufficiently quantitative and further rinses would yield diminishing returns.",
+    "incorrect_answer1": "They decide to minimize the transfer time to prevent exposing the sensitive mixture to oxygen.",
+    "incorrect_answer2": "They notice the centrifuge tube is nearly full, forcing them to abandon further necessary solvent rinses.",
+    "rationale": "The experimenter states they will \"call it here in terms of amount I'm transferring\" after the sonication. Test whether the student understands that this means they are satisfied with the completeness of the transfer and are stopping to avoid diminishing returns.",
+    "annotation_id": "02bd07cd-ad13-4292-80b4-076d3e3082c2",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is performing multiple solvent rinses to transfer every bit of solid and maximize their yield. At what earlier point did they use an ultrasonic bath to dislodge residual product from the original reaction flask for the same reason?",
+    "correct_answer": "1818s-1850s",
+    "incorrect_answer1": "1548s-1581s",
+    "incorrect_answer2": "2043s-2068s",
+    "annotation_id": "af326fe2-fbe4-46c3-8a0d-af655184e3f0",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2133s-2153s"
+  },
+  {
+    "question": "The experimenter is smelling the contents of the tube to check for the presence of a specific solvent. At what point in the experiment was this solvent originally added to the reaction?",
+    "correct_answer": "1198s-1287s",
+    "incorrect_answer1": "1063s-1078s",
+    "incorrect_answer2": "1928s-1972s",
+    "annotation_id": "50d6cc01-80c1-45dc-83eb-6bbaa08fa840",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1868s-1883s"
+  },
+  {
+    "question": "At what moment does the experimenter evaluate whether the final centrifugation successfully pelleted all of the solid product?",
+    "correct_answer": "1900s-1904s",
+    "incorrect_answer1": "1608s-1612s",
+    "incorrect_answer2": "1632s-1636s",
+    "rationale": "The experimenter observes the distribution of the solid in the tube to assess the outcome of the centrifugation. Testing this requires the student to recognize the visual cues of incomplete separation (solid floating on top) and link it to the evaluation of the step's success.",
+    "annotation_id": "296ae2c1-c239-430d-8bf4-3d40340366bb",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why would the experimenter choose to perform a subsequent long-term wash of this solid in methanol?",
+    "correct_answer": "To ensure the extraction and removal of any remaining organic and slightly water-soluble impurities.",
+    "incorrect_answer1": "To displace residual acetic acid from the solid matrix and accelerate the drying process.",
+    "incorrect_answer2": "To initiate the deprotection of the outer amine groups on the synthesized tritopic macromolecule.",
+    "rationale": "The experimenter explicitly states in their commentary that the purpose of the upcoming long-term methanol wash is to get 'any other organic impurities and potentially slightly water-soluble impurities out'.",
+    "annotation_id": "267da252-d835-4769-8e69-724fb279142d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past was the experimenter preparing for this heated wash by removing the water supernatant?",
+    "correct_answer": "1928s-1972s",
+    "incorrect_answer1": "1648s-1680s",
+    "incorrect_answer2": "1680s-1744s",
+    "annotation_id": "9078d240-8a8f-4c57-9d31-32fb7bd4c673",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2158s-2321s"
+  },
+  {
+    "question": "Why is the purification process being performed here not considered a recrystallization?",
+    "correct_answer": "The product is not soluble in the solvent being used, whereas a recrystallization requires the product to be fully dissolved before precipitating.",
+    "incorrect_answer1": "The procedure involves washing the solid with a solvent to remove impurities, rather than slowly growing a new crystal lattice from a saturated solution.",
+    "incorrect_answer2": "The pipette dispenses too little clear liquid to dissolve the grey solid, whereas a recrystallization requires it to fully dissolve before precipitating.",
+    "rationale": "The experimenter explicitly notes that this is not a recrystallization because the product is not being dissolved; rather, it is being heated in a solvent in which it is insoluble to remove impurities.",
+    "annotation_id": "1fe95f6d-53aa-405e-9d07-80a2e43385af",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that the residual liquid remaining with the isolated product is not a concern?",
+    "correct_answer": "2015s-2016s",
+    "incorrect_answer1": "1452s-1453s",
+    "incorrect_answer2": "2178s-2179s",
+    "rationale": "The experimenter observes the state of the pellet and the remaining liquid, inferring that this condition is acceptable for proceeding. This tests the viewer's ability to identify when a visual check results in a judgment about the acceptability of an intermediate state.",
+    "annotation_id": "f98dc82d-bb10-4517-846e-ca0f1761b30e",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the primary purpose of rinsing the walls of the centrifuge tube with solvent in this step?",
+    "correct_answer": "To facilitate the complete transfer of the residual solid material adhering to the tube.",
+    "incorrect_answer1": "To wash away any soluble impurities from the desired product before the next centrifugation.",
+    "incorrect_answer2": "To use methanol to chemically quench the acetic acid and prevent premature imine condensation.",
+    "rationale": "The experimenter states that rinsing the walls with methanol is 'doing a really good job of helping kind of transfer all this,' indicating the goal is quantitative transfer of the material.",
+    "annotation_id": "8b2ac6f4-aaa7-4b8d-8ffd-a87ea234d1f6",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that the multiple solvent washes have successfully transferred the bulk of the material?",
+    "correct_answer": "2126s-2134s",
+    "incorrect_answer1": "1778s-1786s",
+    "incorrect_answer2": "1830s-1838s",
+    "rationale": "The experimenter infers the success of the transfer by visually inspecting the amount of residue left in the source container. Test whether the student can identify the visual state that prompts this conclusion.",
+    "annotation_id": "73fefd9a-55ef-417d-9ca1-f9d9f2b90ff0",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that they have recovered a sufficient amount of the liquid, accepting that a complete transfer is impractical?",
+    "correct_answer": "2159s-2164s",
+    "incorrect_answer1": "1662s-1667s",
+    "incorrect_answer2": "2018s-2023s",
+    "rationale": "The experimenter visually assesses the difficulty of extracting the final drops and infers that the amount already collected is adequate for the next steps. This tests the viewer's ability to recognize practical decision-making during a transfer process.",
+    "annotation_id": "adf8f025-f3c0-4447-978d-d2716d452e9d",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why does the experimenter plan to stir the mixture vigorously?",
+    "correct_answer": "Because the procedure is intended to be a long-term wash.",
+    "incorrect_answer1": "Because the starting materials are poorly soluble in acetic acid.",
+    "incorrect_answer2": "Because the imine condensation requires heavy oxygenation of the hexaketocyclohexane.",
+    "rationale": "The experimenter explicitly states that they will set the mixture to stir vigorously because they are performing a long-term wash.",
+    "annotation_id": "d7ebf46f-acb5-41d3-b512-a19362ca6800",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the video did the experimenter add the stir bar to the flask to prepare for this vigorous stirring?",
+    "correct_answer": "2166s-2190s",
+    "incorrect_answer1": "1581s-1600s",
+    "incorrect_answer2": "118s-148s",
+    "annotation_id": "d7ebf46f-acb5-41d3-b512-a19362ca6800",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2158s-2321s"
+  },
+  {
+    "question": "The experimenter is setting up the flask on a hotplate stirrer, but does not add a stir bar in this clip. How is the solution likely going to be stirred?",
+    "correct_answer": "A stir bar was carried over and reused from the previous reaction step.",
+    "incorrect_answer1": "The stir bar was already placed inside the flask before the clip began.",
+    "incorrect_answer2": "The boiling of the dark brown acetic acid solution will provide sufficient stirring.",
+    "rationale": "The experimenter notes, \"I actually just used the same stir bar I was just using,\" explaining why a new stir bar was not added to the flask.",
+    "annotation_id": "4773add3-fbb0-485f-8e4c-12d3301c5cbe",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter plan to use a lower temperature for this wash step compared to the main reaction?",
+    "correct_answer": "The solvent used for the wash has a relatively low boiling point, and exceeding it would cause the solvent to boil away.",
+    "incorrect_answer1": "The synthesized macromolecule is slightly soluble in the wash solvent, and using a higher temperature would cause the product to dissolve away.",
+    "incorrect_answer2": "The acetic acid would strip the protecting groups from the outer amines of the tritopic macromolecule if heated to the reaction temperature.",
+    "rationale": "The experimenter notes that the wash solvent (methanol) boils at about 65 C, so the temperature will not need to be as high as the reaction took in order to avoid boiling it off.",
+    "annotation_id": "37133ea2-6351-447c-844b-e11e375457bb",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the experimenter pointing out about the solution after increasing the stirring speed?",
+    "correct_answer": "The formation of a vortex that disrupts the surface of the liquid.",
+    "incorrect_answer1": "The complete dissolution of the solid starting materials into the acidic solvent.",
+    "incorrect_answer2": "The decoupling of the white stir bar at the 450 RPM setting.",
+    "rationale": "The experimenter notes that they are disrupting the surface of the solution and creating a whirlpool. Test whether the student can identify this visual confirmation of effective stirring.",
+    "annotation_id": "f144932f-7443-4101-a1b9-ff1063960288",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the primary purpose of attaching the glass apparatus to the top of the flask?",
+    "correct_answer": "To minimize solvent loss while heating the reaction mixture above its boiling point.",
+    "incorrect_answer1": "To maintain an inert argon atmosphere that protects the highly oxygen-sensitive reagents.",
+    "incorrect_answer2": "To remove the acetic acid solvent while heating the oxygen-sensitive imine condensation mixture.",
+    "rationale": "The experimenter explains that they are heating the reaction at reflux, which is above the solvent's boiling point, and the condenser is needed to prevent the solvent from escaping as vapor.",
+    "annotation_id": "c28c60e4-b23b-4993-a36c-a48d876d3e5d",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "As the mixture is heated, what earlier step was taken to ensure the solvent does not boil off and escape?",
+    "correct_answer": "2291s-2322s",
+    "incorrect_answer1": "537s-559s",
+    "incorrect_answer2": "478s-537s",
+    "annotation_id": "c28c60e4-b23b-4993-a36c-a48d876d3e5d",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "2280s-2321s"
+  },
+  {
+    "question": "At what point in the past was the experimenter preparing to prevent pressure buildup during the heated methanol wash?",
+    "correct_answer": "2291s-2322s",
+    "incorrect_answer1": "696s-718s",
+    "incorrect_answer2": "925s-1030s",
+    "annotation_id": "e14d8fd3-79f2-4ca5-a079-b079ebb0a853",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2158s-2321s"
+  },
+  {
+    "question": "As the mixture begins to boil, the apparatus could potentially become pressurized. At what point in the video did the experimenter take a step to prevent this pressurization?",
+    "correct_answer": "2291s-2322s",
+    "incorrect_answer1": "1078s-1103s",
+    "incorrect_answer2": "696s-718s",
+    "annotation_id": "a8b12ac7-0126-485c-8e72-8a887c819c77",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "2158s-2321s"
+  },
+  {
+    "question": "What is the experimenter's plan for the duration of this reaction step?",
+    "correct_answer": "They will allow the reaction to run overnight before returning to work it up.",
+    "incorrect_answer1": "They will reflux the mixture under nitrogen for exactly four hours before cooling it.",
+    "incorrect_answer2": "They will heat the dark mixture to 75 \u00b0C for one hour before working it up.",
+    "rationale": "The experimenter states that they will let the reaction run overnight and then come back to clean it.",
+    "annotation_id": "a82d18c7-f217-4dbf-bbea-88251bf83b8b",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The apparatus is now left to heat and stir for an extended period. At what point did the experimenter take action to ensure that pressure does not build up and cause the glassware to fail while unattended?",
+    "correct_answer": "2291s-2322s",
+    "incorrect_answer1": "696s-718s",
+    "incorrect_answer2": "1117s-1152s",
+    "annotation_id": "a82d18c7-f217-4dbf-bbea-88251bf83b8b",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2287s-2321s"
+  },
+  {
+    "question": "What is the primary reason for carefully controlling the stoichiometric ratios in this reaction?",
+    "correct_answer": "To prevent the formation of byproducts that would necessitate extensive workup optimization to separate.",
+    "incorrect_answer1": "To ensure the complete condensation of three equivalents to successfully form the tritopic macromolecule.",
+    "incorrect_answer2": "To prevent excess hexa-ketocyclohexane from prematurely cleaving the tosyl protective groups off the amines.",
+    "rationale": "Students might assume that improper stoichiometry simply lowers the yield or leads to byproducts that are impossible to separate. The question targets the practical reality that improper ratios often lead to byproducts that require significant time and effort to optimize a separation method.",
+    "annotation_id": "a1d13507-236d-4b87-8b28-71b4099171ac:1",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "If the experimenter were to use an incorrect stoichiometric ratio, what would be the primary challenge during the purification stage?",
+    "correct_answer": "Unwanted byproducts would form that cannot be separated using a standard, predetermined workup, requiring empirical optimization.",
+    "incorrect_answer1": "Partially reacted intermediates would exhibit nearly identical polarities to the desired macromolecule, making chromatographic separation extremely difficult.",
+    "incorrect_answer2": "The unreacted amino species would polymerize into an intractable gel, physically clogging the filter during the workup.",
+    "rationale": "Students might assume that standard purification techniques (like column chromatography or a simple wash) can easily handle byproducts from improper stoichiometry. The scientist's comment highlights that for this specific reaction, the byproducts are so difficult to separate that it would require trial-and-error optimization, making precise stoichiometry crucial.",
+    "annotation_id": "a1d13507-236d-4b87-8b28-71b4099171ac:2",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "As the experimenter cycles the system with argon and vacuum, what specific chemical interference are they trying to prevent in this reaction?",
+    "correct_answer": "The reaction is an imine condensation, and atmospheric oxygen can react with and neutralize the reagent that is intended to attack the oxygen-containing groups on the starting material.",
+    "incorrect_answer1": "The imine condensation generates water as a byproduct, and any atmospheric moisture present in the system would shift the equilibrium backwards, causing the desired macromolecule product to hydrolyze.",
+    "incorrect_answer2": "The reaction is an imine condensation, and atmospheric carbon dioxide can react with and neutralize the unprotected amine groups on the starting material, forming an unreactive carbamate salt.",
+    "rationale": "The scientist describes the imine condensation in a slightly unusual way\u2014focusing on a reagent 'attacking the oxygens' of the starting material\u2014and explains that atmospheric oxygen will cause an unwanted reaction by competing for this reagent. Students might normally think of imine condensation as attacking the carbonyl carbon, so this specific conceptualization of oxygen's interference is a key insight into the experimenter's thought process.",
+    "annotation_id": "fa701f48-6234-4008-afcf-e22d58150569:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "When transferring the degassed solvent, the experimenter uses a syringe that requires multiple trips to transfer the full volume. What is a practical advantage of using a smaller syringe for this air-sensitive transfer?",
+    "correct_answer": "It is generally easier to maneuver and expel trapped air bubbles from a smaller syringe.",
+    "incorrect_answer1": "The force required to pull the plunger is lower, reducing the chance of drawing in air.",
+    "incorrect_answer2": "A smaller syringe prevents the argon pressure from forcefully ejecting the plunger from the barrel.",
+    "rationale": "Students might assume that using a larger syringe to transfer the entire volume at once would be more efficient and minimize the number of times the septum is pierced, thereby reducing the risk of introducing air. However, larger syringes can be cumbersome, and it is often more difficult to dislodge and expel air bubbles from them compared to smaller syringes.",
+    "annotation_id": "73ed2dca-5bf5-4070-b515-23da511c4f23:5",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "After lowering the reaction flask into the heated bath, the experimenter pauses to observe the setup. What is the primary physical process they are monitoring at this stage?",
+    "correct_answer": "The rate of temperature increase to ensure it is controlled.",
+    "incorrect_answer1": "The flow of the inert gas to ensure positive pressure.",
+    "incorrect_answer2": "The dissolution of the solid reagents to ensure complete mixing.",
+    "rationale": "Students might assume the experimenter is looking for an immediate chemical indicator like a color change or the dissolution of the starting material. However, when initiating a high-temperature reflux, the primary practical concern is ensuring a controlled temperature increase to prevent the solvent from boiling too rapidly and overwhelming the condenser.",
+    "annotation_id": "532775e4-b778-4d52-a30d-9c8b36ed02f1:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "While lowering the reaction flask into the heated bath and monitoring the temperature increase, what practical risk associated with running the reaction under reflux is the experimenter primarily guarding against?",
+    "correct_answer": "The solvent boiling too rapidly, which could result in solvent loss if there is a leak in the condenser setup.",
+    "incorrect_answer1": "The reaction mixture bumping violently, which could push the unreacted materials up into the condenser and ruin the yield.",
+    "incorrect_answer2": "The pressure inside the system building up too fast, which could cause the argon line to blow off the Schlenk manifold.",
+    "rationale": "While students know that a condenser is used during reflux to prevent solvent loss, they might not realize that a rapid temperature increase can cause the solvent to boil too vigorously, potentially exposing leaks in the setup and leading to unintended solvent evaporation.",
+    "annotation_id": "532775e4-b778-4d52-a30d-9c8b36ed02f1:2",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "At this point in the procedure, the experimenter uses a long pipette to carefully draw off the liquid from the middle of the centrifuge tube rather than simply decanting the supernatant. What property of the washing solvent makes this careful pipetting necessary?",
+    "correct_answer": "The relatively high density of water prevents the solid product from fully settling, leaving some suspended at the surface that would be lost if decanted.",
+    "incorrect_answer1": "The high viscosity of the washing solvent exerts strong shear forces when poured, which would easily disrupt the fragile solid pellet and wash it away.",
+    "incorrect_answer2": "The extremely low surface tension of the methanol solvent causes the solid pellet to break apart and slide out with the liquid if simply decanted.",
+    "rationale": "Students might expect centrifugation to completely pellet the solid product at the bottom of the tube, allowing for easy decanting. The scientist notes that because water is used as the washing solvent, its relatively high density compared to typical organic solvents causes some of the solid to float on the surface. The question tests the student's ability to connect the physical property of the solvent to the unexpected behavior of the solid and the resulting change in physical manipulation technique.",
+    "annotation_id": "3b77986c-9bc1-4cb0-8d2a-bc03f302de58:1",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "Why does the experimenter use a long glass pipette to carefully remove the liquid from the centrifuge tube instead of simply decanting it?",
+    "correct_answer": "To avoid losing the solid product that is floating at the surface of the liquid.",
+    "incorrect_answer1": "To prevent disturbing the loosely packed solid pellet that has collected at the bottom.",
+    "incorrect_answer2": "To safely transfer the clear acetic acid supernatant, which contains the desired dissolved macromolecule product.",
+    "rationale": "Students might expect standard decantation after centrifugation, where the supernatant is simply poured off. The question targets the student's ability to recognize that the experimenter is adapting their technique to the specific physical behavior of the mixture (solid floating on top) to maximize yield.",
+    "annotation_id": "3b77986c-9bc1-4cb0-8d2a-bc03f302de58:2",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "During the washing step, the experimenter uses a pipette to carefully draw liquid from the middle of the centrifuge tube rather than simply decanting the supernatant. What physical property of the system necessitates this specific technique?",
+    "correct_answer": "The high density of the water wash solvent causes some of the solid product to float at the surface, which would be lost during decanting.",
+    "incorrect_answer1": "The loose compaction of the solid product causes the pellet to easily detach from the bottom, which would be accidentally poured out during normal decanting.",
+    "incorrect_answer2": "The low density of the unreacted starting material causes it to float, and decanting would drag this impurity down to contaminate the pure product pellet.",
+    "rationale": "Students might assume that centrifugation always results in a clean pellet at the bottom of the tube. The scientist's comment highlights a practical challenge where the high density of water prevents complete sedimentation, requiring an on-the-fly adjustment (pipetting from the middle) to avoid product loss.",
+    "annotation_id": "3b77986c-9bc1-4cb0-8d2a-bc03f302de58:4",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "Why is the experimenter using a pipette to remove the liquid from the centrifuge tube instead of simply decanting it?",
+    "correct_answer": "To remove the subsurface water layer without losing the solid product floating on the surface.",
+    "incorrect_answer1": "To avoid disturbing the loosely packed solid pellet at the bottom of the centrifuge tube.",
+    "incorrect_answer2": "To carefully collect the clear liquid product without disturbing the solid waste pellet at the bottom.",
+    "rationale": "Students might expect standard decanting to be the default procedure after centrifugation. This question tests their ability to recognize when a visual cue (solid floating on top of the dense water layer) necessitates a change in standard procedure (using a pipette to draw from the middle layer) to avoid product loss.",
+    "annotation_id": "3b77986c-9bc1-4cb0-8d2a-bc03f302de58:5",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "Why does the experimenter use a pipette to remove the liquid from the centrifuge tube rather than decanting it?",
+    "correct_answer": "To avoid pouring off the solid product that is floating on the surface of the liquid.",
+    "incorrect_answer1": "To prevent disturbing the loosely packed solid pellet located at the bottom of the centrifuge tube.",
+    "incorrect_answer2": "To carefully extract the methanol product without disturbing the solid impurities at the bottom of the tube.",
+    "rationale": "Students are typically taught that centrifugation forces all solid particles to the bottom of a tube, forming a pellet that allows the supernatant to be easily decanted. However, in practice, if the solvent (like water) has a relatively high density compared to the solid, some product may float on the surface. This question tests the student's ability to recognize this practical complication and understand why pipetting from the middle layer is necessary to prevent product loss.",
+    "annotation_id": "3b77986c-9bc1-4cb0-8d2a-bc03f302de58:6",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "Why does the experimenter choose to carefully pipette the liquid from the middle of the centrifuge tube rather than simply decanting the supernatant?",
+    "correct_answer": "Visual inspection reveals solid product floating on the surface of the aqueous layer, which would be lost if poured directly.",
+    "incorrect_answer1": "The solid precipitate at the tube's bottom is very loosely packed, and tilting the container to decant would resuspend it.",
+    "incorrect_answer2": "Visual inspection reveals unreacted solid impurities floating on the surface, which would contaminate the underlying liquid product if poured directly.",
+    "rationale": "Students might assume that after centrifugation, all solid is at the bottom and decanting is the standard next step. They need to recognize that the high density of water can cause some solid to float, requiring a modified technique (pipetting from the middle) based on visual inspection to prevent product loss.",
+    "annotation_id": "3b77986c-9bc1-4cb0-8d2a-bc03f302de58:7",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  }
+]

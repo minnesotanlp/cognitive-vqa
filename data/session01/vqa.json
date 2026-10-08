@@ -1,0 +1,1235 @@
+[
+  {
+    "question": "Why is a smaller round bottom flask paired with a larger stir bar chosen for this reaction?",
+    "correct_answer": "To ensure thorough stirring of the heterogeneous tin catalyst, which will not dissolve.",
+    "incorrect_answer1": "To prevent the solid starting material from clumping at the bottom of the flask.",
+    "incorrect_answer2": "To continuously dissolve the insoluble nitrated product back into the acetic acid solvent.",
+    "rationale": "The experimenter notes that the tin catalyst is heterogeneous and will not dissolve, so a smaller flask and larger stir bar are chosen to ensure it stirs well and thoroughly. Test whether the student understands the physical requirements for stirring this specific heterogeneous mixture.",
+    "annotation_id": "ec16634e-c805-401f-9a1b-0e19612c8e92",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is increasing the stirring speed to ensure the heterogeneous mixture is well-stirred. At what earlier point in the experiment did they prepare for this by selecting a specific piece of equipment?",
+    "correct_answer": "279s-351s",
+    "incorrect_answer1": "774s-788s",
+    "incorrect_answer2": "492s-524s",
+    "annotation_id": "ec16634e-c805-401f-9a1b-0e19612c8e92",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1768s-1878s"
+  },
+  {
+    "question": "Why does the experimenter plan to initially stir the reaction mixture in an ice bath?",
+    "correct_answer": "To manage the exothermic nature of the reduction reaction and prevent the mixture from heating above room temperature, avoiding decomposition or overreaction.",
+    "incorrect_answer1": "To prevent the highly reactive nitronium ions from cleaving the tosyl protecting groups, which could lead to unwanted side reactions and lower yields.",
+    "incorrect_answer2": "To decrease the solubility of the ditosyl-protected starting material in acetic acid, ensuring it remains completely insoluble before the nitric acid generates nitronium ions.",
+    "rationale": "The experimenter states that the reduction reaction is exothermic and requires an ice bath initially to prevent the temperature from exceeding room temperature, which could cause decomposition or overreaction. Test whether the student understands the reasoning behind this temperature control step.",
+    "annotation_id": "9393c02d-a179-41b9-a297-c71efee93513",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter initially set the hot plate temperature to 55\u00b0C?",
+    "correct_answer": "To prevent overheating, as these hot plates are prone to temperature fluctuations.",
+    "incorrect_answer1": "To increase solubility, as the protected starting material must dissolve in acetic acid.",
+    "incorrect_answer2": "To boil the acetic acid solvent, which accelerates the nitronium ion formation.",
+    "rationale": "The experimenter notes that the hot plates are sensitive to temperature fluctuations and sets it to 55 C to avoid overheating. Test whether the student knows this.",
+    "annotation_id": "98247372-f1f5-47f0-be02-47d2a3991fb5",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is monitoring the temperature of the reaction mixture to ensure it does not overheat. At what point in the past did they set the hot plate to a specific initial temperature to prevent this?",
+    "correct_answer": "140s-212s",
+    "incorrect_answer1": "637s-687s",
+    "incorrect_answer2": "369s-381s",
+    "annotation_id": "98247372-f1f5-47f0-be02-47d2a3991fb5",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1238s-1456s"
+  },
+  {
+    "question": "What is the intended sequence for initiating the heating and stirring process in relation to the addition of the starting material?",
+    "correct_answer": "The heating and stirring will be initiated before the starting material is added.",
+    "incorrect_answer1": "The heating and stirring will be initiated after the starting material is added.",
+    "incorrect_answer2": "The heating and stirring will be initiated after the ditosyl-protected orthophenylene diamine is added.",
+    "rationale": "The experimenter explicitly states their intention to start heating and stirring before adding the starting material.",
+    "annotation_id": "3b14855c-6443-4fef-af7e-a8506ab5ba92",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "While transferring the solid starting material into the flask, the experimenter uses a small amount of acetic acid to rinse the funnel. At what prior point in the experiment did they intentionally set aside this portion of solvent for this exact purpose?",
+    "correct_answer": "246s-279s",
+    "incorrect_answer1": "858s-925s",
+    "incorrect_answer2": "381s-492s",
+    "annotation_id": "c065a543-93cf-4090-8773-a105755dcebd",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "530s-677s"
+  },
+  {
+    "question": "Why does the experimenter consider room temperature water to be a viable alternative to an ice bath for this reaction?",
+    "correct_answer": "The reaction does not generate excessive heat, and water's high heat capacity is sufficient to maintain a controlled temperature.",
+    "incorrect_answer1": "Acetic acid freezes at temperatures typical of an ice bath, so room temperature water prevents the solvent from solidifying.",
+    "incorrect_answer2": "The nitration reaction is endothermic, so the hotplate is set to 55 \u00b0C to actively heat the water bath.",
+    "rationale": "The experimenter notes that the reaction 'isn't going to get that hot' and that water has a 'high heat capacity' which will 'control the temperature quite well.'",
+    "annotation_id": "11e78eb6-7654-431e-879a-d819d4cbdcdf",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why would the experimenter remove ice from the bath prior to lowering the flask into it?",
+    "correct_answer": "To prevent the reaction mixture from cooling too much.",
+    "incorrect_answer1": "To prevent water from overflowing when lowering the flask.",
+    "incorrect_answer2": "To prevent the ice from diluting the acetic acid.",
+    "rationale": "The experimenter notes that they are removing the ice so it doesn't cool the reaction too much. Test whether the student understands the reason for avoiding over-cooling at this stage.",
+    "annotation_id": "0fb6a57d-d301-48db-917e-cc638915bcec",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "While adding the nitrating solution dropwise, the experimenter must carefully manage the reaction's temperature to prevent overheating. At what earlier point in the experiment did they prepare a secondary cooling bath on the adjacent hotplate, specifically deciding to remove the ice so the reaction wouldn't be cooled too much if chilling was required?",
+    "correct_answer": "351s-369s",
+    "incorrect_answer1": "140s-212s",
+    "incorrect_answer2": "1048s-1064s",
+    "annotation_id": "0fb6a57d-d301-48db-917e-cc638915bcec",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1238s-1456s"
+  },
+  {
+    "question": "The experimenter is now adding the nitrating solution to the reaction mixture while carefully monitoring its temperature. At what point earlier in the video did they initially set the hot plate to the target temperature of 55 degrees Celsius to prepare for this temperature-sensitive step?",
+    "correct_answer": "140s-212s",
+    "incorrect_answer1": "637s-687s",
+    "incorrect_answer2": "369s-381s",
+    "annotation_id": "bf639715-ccf9-4097-abfe-cc95d178d9f5",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1238s-1456s"
+  },
+  {
+    "question": "Why did the experimenter conclude that a setting of 500 rpm was too high?",
+    "correct_answer": "The stir bar was not moving around.",
+    "incorrect_answer1": "The liquid splashed out of the reaction flask.",
+    "incorrect_answer2": "The acetic acid splashed out of the beaker.",
+    "rationale": "The experimenter notes that 500 was too high because they didn't feel the stir bar moving around.",
+    "annotation_id": "326cf658-1412-4217-a080-4bb89207b1f4",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is now increasing the stirring speed to maintain proper agitation of the reaction mixture. At what earlier point in the video did they prepare for potential stirring challenges by carefully selecting the size and shape of the stir bar?",
+    "correct_answer": "279s-351s",
+    "incorrect_answer1": "632s-637s",
+    "incorrect_answer2": "492s-524s",
+    "annotation_id": "b5a1837f-26db-4134-83b5-4d6f5140e677",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1768s-1878s"
+  },
+  {
+    "question": "What is the primary consideration when selecting a stir bar for this reaction?",
+    "correct_answer": "It must be wide enough to ensure the entire mixture is stirred effectively.",
+    "incorrect_answer1": "It must be small enough to spin freely without striking the flask walls.",
+    "incorrect_answer2": "It must be heavy enough to crush the 4.1 grams of white powder.",
+    "rationale": "The experimenter notes that they want a stir bar wide enough to stir everything well. Test whether the student knows this.",
+    "annotation_id": "bade887c-479c-42cc-944b-ece7ab02d2e8",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently observing the reaction mixture and increasing the stirring speed to ensure it is well-mixed. At what point earlier in the experiment did they select and place the larger stir bar into the flask to guarantee this effective stirring?",
+    "correct_answer": "279s-351s",
+    "incorrect_answer1": "632s-637s",
+    "incorrect_answer2": "1719s-1878s",
+    "annotation_id": "bade887c-479c-42cc-944b-ece7ab02d2e8",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1768s-1878s"
+  },
+  {
+    "question": "What is the primary risk of pouring the solid starting material into the funnel too quickly, and how will the experimenter likely deal with any residual powder left on the funnel?",
+    "correct_answer": "The solid could clump and spill over the top of the funnel; residual powder will be washed down into the flask using excess acetic acid.",
+    "incorrect_answer1": "The powder might block the narrow neck of the funnel; the experimenter will use a metal spatula to scrape the remaining solid into the flask.",
+    "incorrect_answer2": "The rapid addition could violently overheat the stirring acetic acid; residual ditosyl-protected diamine will be scraped into the flask using a cold metal spatula.",
+    "rationale": "The experimenter is actively trying to avoid the solid clumping and spilling over the funnel, and plans to use excess acetic acid to wash down the remaining powder. Test whether the student anticipates these practical laboratory considerations.",
+    "annotation_id": "03a83519-b5b4-4ec3-b370-284d9a27f1ef",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter conclude that the depth of the reaction flask in the heating bath is sufficient for proper temperature control?",
+    "correct_answer": "596s-615s",
+    "incorrect_answer1": "350s-369s",
+    "incorrect_answer2": "306s-325s",
+    "rationale": "The experimenter observes the slight discrepancy in liquid levels but infers that the active stirring will ensure adequate heat distribution. This tests the student's ability to evaluate the practical adequacy of a physical reaction setup.",
+    "annotation_id": "c93b2bbd-b864-4b59-bdd9-b83a0c168e58",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is currently increasing the stirring speed to ensure the newly formed solid remains well-mixed. At what point earlier in the experiment did they proactively prepare for this by selecting a specific piece of equipment?",
+    "correct_answer": "279s-351s",
+    "incorrect_answer1": "774s-788s",
+    "incorrect_answer2": "788s-809s",
+    "annotation_id": "00cd7bb5-d825-42b3-b891-8baaf9be2a39",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1768s-1878s"
+  },
+  {
+    "question": "The experimenter is now monitoring the temperature of the reaction mixture to ensure it is ready for the dropwise addition of the nitrating solution. At what point earlier in the experiment did they adjust the hot plate's target temperature to 65\u00b0C to prepare for this heating process?",
+    "correct_answer": "140s-212s",
+    "incorrect_answer1": "637s-687s",
+    "incorrect_answer2": "369s-381s",
+    "annotation_id": "25715057-5a90-4af8-b0be-4e9c151637e5",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1238s-1456s"
+  },
+  {
+    "question": "Why hasn't the chemical reaction started yet in the flask shown in the video?",
+    "correct_answer": "The nitric acid has not yet been added to the mixture.",
+    "incorrect_answer1": "The flask has not yet been heated to the required temperature.",
+    "incorrect_answer2": "The added nitric acid has not yet reached the 65\u00b0C setpoint.",
+    "rationale": "The experimenter notes that the reaction hasn't started because the nitric acid hasn't been added yet. Test whether the student knows this.",
+    "annotation_id": "a3132568-0ed3-49e5-b64a-90aee474ef9d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "As the experimenter adds the nitrating solution to initiate the reaction, at what previous point did they observe the mixture and explicitly note that the reaction had not yet started due to the absence of this specific reagent?",
+    "correct_answer": "530s-632s",
+    "incorrect_answer1": "1082s-1238s",
+    "incorrect_answer2": "1048s-1064s",
+    "annotation_id": "a3132568-0ed3-49e5-b64a-90aee474ef9d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1238s-1456s"
+  },
+  {
+    "question": "Why is the experimenter diluting the fuming nitric acid with acetic acid?",
+    "correct_answer": "To make the addition of the acid less harsh by using acetic acid as a solvent.",
+    "incorrect_answer1": "To help control the reaction temperature because adding pure fuming nitric acid directly is extremely exothermic.",
+    "incorrect_answer2": "To deprotect the amino groups on the orthophenylene diamine so they react with the nitronium ion.",
+    "rationale": "The experimenter states that diluting the nitric acid with acetic acid makes it a less harsh addition to the solution.",
+    "annotation_id": "93a9fdec-ec84-4120-ab83-21ba52b141b9",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently adding the nitrating solution to the reaction mixture. At what point in the past did they prepare for this step by planning to dilute the nitric acid with acetic acid, ensuring that this addition would not be too harsh?",
+    "correct_answer": "687s-774s",
+    "incorrect_answer1": "217s-246s",
+    "incorrect_answer2": "246s-279s",
+    "annotation_id": "93a9fdec-ec84-4120-ab83-21ba52b141b9",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1238s-1456s"
+  },
+  {
+    "question": "The experimenter is currently increasing the stirring speed to ensure the mixture is properly agitated. At what earlier point in the experiment did they take a preventative measure to help handle potential stirring issues?",
+    "correct_answer": "279s-351s",
+    "incorrect_answer1": "632s-637s",
+    "incorrect_answer2": "492s-524s",
+    "annotation_id": "cb31282e-dd8e-4009-882a-03e6eadca127",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1768s-1878s"
+  },
+  {
+    "question": "The experimenter will later use the small glass vial to perform a potentially hazardous dilution of fuming nitric acid. At what point in the video did they take a safety precaution by moving this vial away from the active hot plate in preparation for this upcoming step?",
+    "correct_answer": "140s-212s",
+    "incorrect_answer1": "687s-774s",
+    "incorrect_answer2": "1708s-1713s",
+    "annotation_id": "9cf6775a-2d43-4f69-ad30-53e507acc6bf",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "858s-925s"
+  },
+  {
+    "question": "The experimenter is carefully adding the nitrating solution dropwise to prevent the reaction from becoming too vigorous. At what earlier point in the experiment did they take another step to ensure the reaction would be controllable by altering the concentration of the reagents?",
+    "correct_answer": "858s-925s",
+    "incorrect_answer1": "217s-246s",
+    "incorrect_answer2": "246s-279s",
+    "annotation_id": "10a2f9a0-432b-4926-b603-b155131ffc1a",
+    "category": [
+      "INTENT_REASONING",
+      "PLAN"
+    ],
+    "stage": "stage2",
+    "current_point": "1238s-1456s"
+  },
+  {
+    "question": "As the experimenter begins the dropwise addition of the nitrating solution, the reaction mixture must be well-mixed to ensure an even reaction and prevent localized overheating. At what earlier point did the experimenter manually swirl the reaction flask to ensure the sluggish suspension was properly distributed prior to this addition?",
+    "correct_answer": "858s-925s",
+    "incorrect_answer1": "369s-381s",
+    "incorrect_answer2": "1048s-1064s",
+    "annotation_id": "1c5474e4-1925-4614-8769-eb3d71a8b172",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "1238s-1456s"
+  },
+  {
+    "question": "The experimenter is now increasing the stirring speed to ensure the reaction mixture remains well-mixed. At what point earlier in the experiment did they physically adjust the reaction flask's position to optimize the effectiveness of the magnetic stirring?",
+    "correct_answer": "279s-351s",
+    "incorrect_answer1": "1719s-1878s",
+    "incorrect_answer2": "1067s-1082s",
+    "annotation_id": "12375065-d2c6-45eb-abda-0563ad392e86",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1768s-1878s"
+  },
+  {
+    "question": "The experimenter is currently observing a color change in the reaction mixture as they add the nitrating solution. At what point in the past did the experimenter prepare for this specific addition step by putting on gloves and picking up the necessary tool?",
+    "correct_answer": "1082s-1238s",
+    "incorrect_answer1": "964s-980s",
+    "incorrect_answer2": "1719s-1878s",
+    "annotation_id": "a824b101-120e-4486-9315-aea043042a50",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1488s-1518s"
+  },
+  {
+    "question": "What safety precaution is the experimenter taking before picking up the glass Pasteur pipette?",
+    "correct_answer": "Putting on a fresh pair of gloves.",
+    "incorrect_answer1": "Checking the glass pipette for any cracks.",
+    "incorrect_answer2": "Unplugging the IKA hot plate's power cord.",
+    "rationale": "The experimenter states 'Sorry, I need new gloves again', indicating they are replacing their gloves before the next step.",
+    "annotation_id": "b02da43b-a9e4-4ea5-affc-d5c4c3ea6094",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter confirm that the temperature monitoring setup is adequate to handle potential fluctuations?",
+    "correct_answer": "1067s-1082s",
+    "incorrect_answer1": "654s-669s",
+    "incorrect_answer2": "607s-622s",
+    "rationale": "The experimenter observes the depth of the temperature probe and infers that it is positioned well enough to accurately monitor and help minimize temperature changes during the upcoming reaction. This question tests whether the student can link the visual check of the probe's physical placement to the assessment of its functional adequacy.",
+    "annotation_id": "c529ce0b-997d-4a0b-9cc4-342b2cd4981b",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What physical change in the reaction mixture should be expected as the nitrating solution is added?",
+    "correct_answer": "A slight increase in temperature.",
+    "incorrect_answer1": "The dissolution of solid material.",
+    "incorrect_answer2": "A cooling of the acetic acid solvent.",
+    "rationale": "The experimenter notes that the temperature is increasing just a little bit. Test whether the student knows this.",
+    "annotation_id": "27989bab-1d6b-4752-b9b9-2d39525c38dd",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Based on the initial preparation of the nitrating solution, approximately how much of it remains to be added to the reaction at this point?",
+    "correct_answer": "About 5 mL.",
+    "incorrect_answer1": "Roughly 10 mL.",
+    "incorrect_answer2": "About 1 mL.",
+    "rationale": "The experimenter calculates that out of the 6.3 mL total solution prepared (1.3 mL fuming nitric acid + 5 mL acetic acid), they have added about 1.3 mL, leaving approximately 5 mL.",
+    "annotation_id": "9c788bfc-f42e-4e75-881a-55bafb0bb8a9",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "What subtle visual change in the reaction mixture signals to the experimenter that it is appropriate to continue adding the reagent?",
+    "correct_answer": "The mixture is becoming slightly yellow and more transparent.",
+    "incorrect_answer1": "The vigorous bubbling from the previous addition is subsiding.",
+    "incorrect_answer2": "The stirred mixture in the Erlenmeyer flask is becoming milky white and more opaque.",
+    "rationale": "The experimenter explicitly notes that the solution is 'getting a little yellow and turning maybe a little more transparent' and uses this observation to justify that they 'can start adding some more'.",
+    "annotation_id": "a0ceab96-c3ca-4149-af8e-893a20f2204a",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter determine that the reaction has progressed sufficiently to begin the next addition?",
+    "correct_answer": "1167s-1176s",
+    "incorrect_answer1": "1399s-1408s",
+    "incorrect_answer2": "2022s-2031s",
+    "rationale": "The experimenter uses the initial yellowing and transparency of the mixture as an indicator that it is safe to start adding more reagent. Testing this requires the student to link the subtle visual change to the decision to proceed with the addition.",
+    "annotation_id": "a0ceab96-c3ca-4149-af8e-893a20f2204a",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the primary goal of transferring the mixture and quenching the reaction at this stage?",
+    "correct_answer": "To remove the remaining tin and separate the organic product from the inorganic components.",
+    "incorrect_answer1": "To precipitate the desired nitrated product from the acidic solution for subsequent vacuum filtration.",
+    "incorrect_answer2": "To dissolve the remaining ditosyl-protected orthophenylene diamine by chilling the acetic acid in ice.",
+    "rationale": "The experimenter states that they need to get the tin out and separate the organic from the inorganic part of the system because the product is mixed with the inorganics. Test whether the student understands the purpose of this separation step.",
+    "annotation_id": "b4683e2c-4083-4c89-a5d4-ed3d21996134",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "As the experimenter carefully adds the nitrating solution dropwise to the reaction mixture, they are actively controlling the reaction rate to prevent overheating. At what point in the past did the experimenter hold up the vial and explain their rationale for diluting this reagent beforehand to further ensure the reaction remains controlled?",
+    "correct_answer": "809s-858s",
+    "incorrect_answer1": "1082s-1238s",
+    "incorrect_answer2": "1227s-1236s",
+    "annotation_id": "54e11e08-1173-41af-bad3-472cbf98796d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1238s-1456s"
+  },
+  {
+    "question": "At what point does the experimenter first observe visual evidence that the reaction mixture has reached a boiling state and is beginning to reflux?",
+    "correct_answer": "1227s-1236s",
+    "incorrect_answer1": "1399s-1408s",
+    "incorrect_answer2": "1070s-1079s",
+    "rationale": "The experimenter infers that the reaction is proceeding as expected based on the appearance of condensation, which indicates boiling and reflux. This question tests the ability to connect the visual cue of condensation to the physical state of the reaction mixture.",
+    "annotation_id": "2ff368e6-0ee4-44a3-931a-647eba5f2955",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what moment does the experimenter observe thermal evidence that the reaction is actively proceeding?",
+    "correct_answer": "1238s-1249s",
+    "incorrect_answer1": "1398s-1409s",
+    "incorrect_answer2": "2445s-2456s",
+    "rationale": "The experimenter infers that the reaction is occurring because its exothermicity has raised the bath temperature above the set point. The question tests the viewer's ability to recognize this temperature anomaly as confirmation of an active reaction.",
+    "annotation_id": "3c005ad3-f843-4dd2-96ab-2cfc403180a6",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What does the increasing visibility of the stir bar indicate about the solution?",
+    "correct_answer": "The solution is becoming more transparent.",
+    "incorrect_answer1": "The starting material is completely dissolving.",
+    "incorrect_answer2": "The ditosyl-protected diamine is precipitating out.",
+    "rationale": "The experimenter notes that the stir bar is becoming visible. Test whether the student knows this implies the solution is becoming more transparent.",
+    "annotation_id": "73564403-4ec1-4f7f-8a80-819183cd2750",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Based on the visual appearance of the reaction mixture, why is a relatively large stir bar appropriate for this setup?",
+    "correct_answer": "The presence of large solid pellets requires a larger stir bar to ensure thorough mixing.",
+    "incorrect_answer1": "The formation of a thick precipitate requires a larger stir bar to maintain constant stirring.",
+    "incorrect_answer2": "The large volume of pale yellow suspension requires a larger stir bar to prevent splashing.",
+    "rationale": "The experimenter notes that they are using a large stir bar because of the larger pellets in the mixture to ensure it is thoroughly stirred. Test whether the student can visually identify the physical state of the mixture and understand the reasoning for the equipment choice.",
+    "annotation_id": "d91b20f1-f7af-453a-97f5-fe8dc1146c70",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The reaction mixture is being thoroughly stirred to ensure the large pellets of starting material dissolve and react properly. At what point in the experiment did the experimenter select and add the appropriately sized stir bar to the flask in preparation for this?",
+    "correct_answer": "279s-351s",
+    "incorrect_answer1": "632s-637s",
+    "incorrect_answer2": "1048s-1064s",
+    "annotation_id": "d91b20f1-f7af-453a-97f5-fe8dc1146c70",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1238s-1456s"
+  },
+  {
+    "question": "What visual characteristic of the solution at this stage is considered a positive indicator for the reaction?",
+    "correct_answer": "Its transparency.",
+    "incorrect_answer1": "Its yellow color.",
+    "incorrect_answer2": "Its yellow cloudiness.",
+    "rationale": "The experimenter notes that the solution being really transparent is a really good sign. Test whether the student knows this.",
+    "annotation_id": "da033579-5326-4476-a9e9-974bd4e6b888",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "What visual change is the experimenter likely observing in the reaction mixture at this point?",
+    "correct_answer": "The solution is becoming more transparent.",
+    "incorrect_answer1": "The solid particles are slowly dissolving.",
+    "incorrect_answer2": "The yellow acetic acid solution is becoming opaque.",
+    "rationale": "The experimenter notes that the solution is getting more transparent. Test whether the student can observe this visual change.",
+    "annotation_id": "2fa099f2-73f9-494c-99ed-e44929d548a2",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter observe visual evidence that the solid starting material is beginning to be consumed by the reaction?",
+    "correct_answer": "1404s-1406s",
+    "incorrect_answer1": "1867s-1869s",
+    "incorrect_answer2": "1510s-1512s",
+    "rationale": "The experimenter notes that the mixture is 'getting more transparent,' which serves as an indicator that the suspended solid is reacting and dissolving. This question tests the viewer's ability to connect the visual clearing of the suspension with the chemical consumption of the starting material.",
+    "annotation_id": "2fa099f2-73f9-494c-99ed-e44929d548a2",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What color is the solution expected to turn as the reaction progresses?",
+    "correct_answer": "Orange",
+    "incorrect_answer1": "Yellow",
+    "incorrect_answer2": "Colorless, like acetic acid",
+    "rationale": "The experimenter notes that the solution turning to an orangier state is common. Test whether the student knows this expected color change.",
+    "annotation_id": "f62f25de-c60d-43ec-a884-b4a5e86119a2",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter confirm that the reaction mixture's color change is a typical occurrence?",
+    "correct_answer": "1408s-1418s",
+    "incorrect_answer1": "1166s-1176s",
+    "incorrect_answer2": "1794s-1804s",
+    "rationale": "The experimenter observes the orange color of the mixture and infers that this is a common state for the reaction. This tests whether the student can recognize the expected visual progression of the reaction.",
+    "annotation_id": "f62f25de-c60d-43ec-a884-b4a5e86119a2",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is now placing the filtered product into a vacuum oven to dry and remove any remaining water. At what previous point in the experiment did the experimenter intentionally limit the amount of liquid being added to the reaction to ensure this eventual removal process would not be overly difficult?",
+    "correct_answer": "1399s-1401s",
+    "incorrect_answer1": "530s-632s",
+    "incorrect_answer2": "381s-492s",
+    "annotation_id": "af84861b-4d8d-4393-8483-f2d370972319",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2486s-2593s"
+  },
+  {
+    "question": "The experimenter is currently washing the filtered product with distilled water from a squeeze bottle, without measuring the exact volume. At what point in the past did the experimenter prepare for this workup step by retrieving the wash solvents, consistent with their earlier thought that the exact amounts of non-organic additions are not critical?",
+    "correct_answer": "1878s-1884s",
+    "incorrect_answer1": "687s-774s",
+    "incorrect_answer2": "2078s-2105s",
+    "annotation_id": "b0a3a208-393a-4c3d-b6d7-947cd81d4616",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2105s-2295s"
+  },
+  {
+    "question": "Why is the experimenter planning to use a large Erlenmeyer flask for the subsequent quenching step rather than a tall, narrow vessel?",
+    "correct_answer": "To create a wide, shallow mixture that maximizes surface area, allowing for vigorous stirring and efficient dispersion to ensure complete precipitation of the tin salt.",
+    "incorrect_answer1": "To safely accommodate the rapid volume expansion and vigorous foaming that occurs when neutralizing the strong acids, preventing the reactive mixture from overflowing the container.",
+    "incorrect_answer2": "To create a wide, flat resting zone that maximizes settling, allowing the yellow nitrated product to separate efficiently before safely decanting the 65\u00b0C acetic acid.",
+    "rationale": "The experimenter anticipates transferring the reaction to a large Erlenmeyer flask to create a wide, shallow mixture for better stirring and dispersion to precipitate the tin salt. Test whether the student understands the physical requirements for efficient quenching and precipitation.",
+    "annotation_id": "4c591552-e246-4ef0-8d5a-9817f442c616",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently assembling a vacuum filtration apparatus using a side-arm flask (Erlenmeyer flask) to isolate the solid product. At what point in the past did the experimenter prepare for this step by selecting a wide, shallow flask to ensure the mixture stirs and disperses well during the quenching process?",
+    "correct_answer": "1238s-1719s",
+    "incorrect_answer1": "246s-279s",
+    "incorrect_answer2": "980s-1048s",
+    "annotation_id": "4c591552-e246-4ef0-8d5a-9817f442c616",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1921s-2077s"
+  },
+  {
+    "question": "What characteristic is the experimenter likely looking for in a new stir bar to improve the current setup?",
+    "correct_answer": "One that covers a large amount of space on the bottom of the flask.",
+    "incorrect_answer1": "One that is shaped like a football to fit perfectly inside the round bottom flask.",
+    "incorrect_answer2": "One that concentrates agitation exclusively in the center of the yellow acetic acid solution.",
+    "rationale": "The experimenter notes they want a stir bar that covers a lot of space on the bottom. Test whether the student knows this.",
+    "annotation_id": "eb343e90-8099-4c36-a021-b4f942a3d0cc",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The video shows the reaction mixture being stirred effectively by a large stir bar during the dropwise addition of the nitrating solution. At what point in the experiment did the user select and place this specific stir bar into the flask to ensure adequate mixing?",
+    "correct_answer": "279s-351s",
+    "incorrect_answer1": "632s-637s",
+    "incorrect_answer2": "1064s-1082s",
+    "annotation_id": "eb343e90-8099-4c36-a021-b4f942a3d0cc",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1488s-1518s"
+  },
+  {
+    "question": "What visual change is expected to occur in the reaction mixture over time, and what is the primary reason for this change?",
+    "correct_answer": "The mixture should become cloudy due to the highly acidic environment.",
+    "incorrect_answer1": "The solution will turn bright yellow as the product is formed.",
+    "incorrect_answer2": "The yellow mixture should turn dark red due to the nitronium ions.",
+    "rationale": "The experimenter anticipates that the solution will become cloudy over time because of the acidic environment. Test whether the student knows this.",
+    "annotation_id": "0d77db07-a469-4384-a56b-d71bebed6462",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently filtering the reaction mixture and rinsing the round-bottom flask to ensure all of the solid product is transferred into the funnel. At what earlier point in the experiment did they prepare the liquid in the beaker specifically intended for this rinsing step?",
+    "correct_answer": "1238s-1719s",
+    "incorrect_answer1": "217s-246s",
+    "incorrect_answer2": "1884s-1912s",
+    "annotation_id": "27565d58-48f7-4484-9ee5-413f5f53361a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1921s-2077s"
+  },
+  {
+    "question": "The experimenter uses a spatula to adjust the temperature probe in the reaction flask. At what point in the video did the experimenter retrieve this spatula?",
+    "correct_answer": "1238s-1719s",
+    "incorrect_answer1": "788s-809s",
+    "incorrect_answer2": "1064s-1082s",
+    "annotation_id": "f1761037-6bfd-469e-907d-89d5b1a8754e",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1768s-1878s"
+  },
+  {
+    "question": "Why does the experimenter plan to run the reaction for an extra hour instead of stopping it shortly after the addition is complete?",
+    "correct_answer": "To maximize the product yield, as stopping the reaction earlier results in significantly less product.",
+    "incorrect_answer1": "To ensure complete di-nitration occurs, because the first added nitro group deactivates the aromatic ring.",
+    "incorrect_answer2": "To remove the protective tosyl groups, as maintaining the 65.2\u00b0C temperature breaks them down.",
+    "rationale": "The experimenter notes that while stopping the reaction at 10 or 20 minutes still yields some product, running it for an extra hour can increase the yield from around 50% to 80%.",
+    "annotation_id": "9174ab4c-270c-40b5-9fdf-c769321bd934",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the purpose of inserting the glass tool into the reaction mixture at this stage?",
+    "correct_answer": "To physically verify that the magnetic stir bar is still rotating, as the opacity and viscosity of the mixture obscure visual confirmation.",
+    "incorrect_answer1": "To extract a small aliquot of the reaction mixture for thin-layer chromatography, allowing the experimenter to monitor the progress of the nitration.",
+    "incorrect_answer2": "To extract a small drop of the yellow nitration mixture for TLC analysis, verifying if the ditosyl-protected starting material has fully reacted.",
+    "rationale": "The experimenter notes they are feeling to see if it's still stirring. Test whether the student can infer this from the action and the visual state of the reaction mixture.",
+    "annotation_id": "b101c70e-4a3c-4b15-9a9e-074c0962a816",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is increasing the stirring speed on the hot plate. At what earlier point did they manually probe the mixture to check if it was still being agitated, anticipating that it might become too thick?",
+    "correct_answer": "1719s-1878s",
+    "incorrect_answer1": "632s-637s",
+    "incorrect_answer2": "1064s-1082s",
+    "annotation_id": "b101c70e-4a3c-4b15-9a9e-074c0962a816",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1768s-1878s"
+  },
+  {
+    "question": "What is the solid visible in the flask, and is it a cause for concern?",
+    "correct_answer": "It is residual tin, and it is not a cause for concern.",
+    "incorrect_answer1": "It is the precipitated product, and it is not a cause for concern.",
+    "incorrect_answer2": "It is unreacted ditosyl-protected orthophenylene diamine, and it is a significant concern.",
+    "rationale": "The experimenter notes that the solid is residual tin and is not worried about it. Test whether the student knows this.",
+    "annotation_id": "a43dac63-90c0-482d-83b2-9b9bd8405a9a",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter determine that the solid remaining in the small vial is not a cause for concern?",
+    "correct_answer": "1707s-1713s",
+    "incorrect_answer1": "1360s-1366s",
+    "incorrect_answer2": "1072s-1078s",
+    "rationale": "The experimenter visually inspects the vial, notices the solid, and infers that it is merely residual unreacted material (tin) that will not negatively impact the procedure. The question tests the ability to link the visual inspection of the precipitate to this specific experimental judgment.",
+    "annotation_id": "a43dac63-90c0-482d-83b2-9b9bd8405a9a",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is performing a vacuum filtration to separate the solid product from the liquid. At what point in the past did the experimenter adjust a metal temperature probe directly inside the reaction mixture, knowing that any potential dissolved impurities from the probe would remain in the liquid and be removed during this filtration?",
+    "correct_answer": "140s-212s",
+    "incorrect_answer1": "1719s-1878s",
+    "incorrect_answer2": "1064s-1082s",
+    "annotation_id": "3b344299-6ba5-40b3-bd71-785aeadf6591",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1921s-2077s"
+  },
+  {
+    "question": "At what moment does the experimenter visually confirm that the dense reaction mixture is still being successfully agitated?",
+    "correct_answer": "1715s-1719s",
+    "incorrect_answer1": "1360s-1364s",
+    "incorrect_answer2": "1843s-1847s",
+    "rationale": "The experimenter infers continued stirring from the movement of the mixture's surface layer. This question tests the ability to identify visual evidence of effective agitation in a thick suspension.",
+    "annotation_id": "e0e018c0-6a99-480c-b291-70ed2a6a46f9",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is currently increasing the stirring speed to ensure the reaction mixture is adequately mixed. At what point earlier in the experiment did they anticipate this need for vigorous agitation and prepare by selecting a larger stir bar?",
+    "correct_answer": "279s-351s",
+    "incorrect_answer1": "632s-637s",
+    "incorrect_answer2": "1719s-1878s",
+    "annotation_id": "1b47bfda-bcf1-4f2c-b892-258ff40d2f77",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1768s-1878s"
+  },
+  {
+    "question": "Why is it important for the reaction mixture to become fully transparent before proceeding to the next step?",
+    "correct_answer": "To prevent the loss of organic product during the subsequent filtration of the solid inorganic portion.",
+    "incorrect_answer1": "To ensure complete dissolution of the starting material, which prevents unreacted solid from contaminating the final product.",
+    "incorrect_answer2": "To confirm that the 65\u00b0C acetic acid has cleaved the tosyl groups from the orthophenylene diamine.",
+    "rationale": "The experimenter states that if the solution is not fully transparent, they risk losing some organic parts when filtering off the solid inorganic portion.",
+    "annotation_id": "82537d4d-1703-4ffd-b228-c019f99528c5",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "If a solid were to form in the flask at this stage, which of the following appearances would be a cause for concern?",
+    "correct_answer": "A cloudy, white, or yellow solid.",
+    "incorrect_answer1": "A dark, brown, or black solid.",
+    "incorrect_answer2": "A black, deprotected orthophenylene diamine solid.",
+    "rationale": "The experimenter notes that they would be worried if the solid was cloudy, white, or yellow, but is not worried about the dark solid (tin). Test whether the student knows what kind of solid would be concerning.",
+    "annotation_id": "51fcb153-fbd3-462d-b436-9238a77802f3",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The reaction mixture is now yellow and cloudy, indicating the precipitation of the product. At what previous point in the experiment was the experimenter observing the mixture to ensure this state had not occurred prematurely?",
+    "correct_answer": "1837s-1853s",
+    "incorrect_answer1": "1167s-1176s",
+    "incorrect_answer2": "2017s-2037s",
+    "annotation_id": "51fcb153-fbd3-462d-b436-9238a77802f3",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "1912s-1921s"
+  },
+  {
+    "question": "Now that the experimenter is filtering the solid product, at what prior point did they adjust the stirring speed and temperature probe to maintain the reaction's state and prevent premature precipitation?",
+    "correct_answer": "1719s-1878s",
+    "incorrect_answer1": "632s-637s",
+    "incorrect_answer2": "1064s-1082s",
+    "annotation_id": "350adc44-1c85-4d90-bdf5-ccffbb6cc841",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1921s-2077s"
+  },
+  {
+    "question": "Once the reaction has reached completion after this period of stirring and heating, what will be the next major procedural step?",
+    "correct_answer": "Quenching the reaction.",
+    "incorrect_answer1": "Cooling the mixture.",
+    "incorrect_answer2": "Distilling the acetic acid solvent.",
+    "rationale": "The experimenter states they will quench the reaction after letting it stir for another hour. This tests if the student understands the standard sequence of operations for this type of chemical synthesis.",
+    "annotation_id": "bb3e143e-d8e1-47d7-9171-f7a15ca2ac45",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the current state of the reaction, and what temperature change is planned next?",
+    "correct_answer": "The reaction is basically quenched, and it will be cooled to room temperature.",
+    "incorrect_answer1": "The reaction is proceeding slowly, and it will be heated to boiling next.",
+    "incorrect_answer2": "The yellow acetic acid solution is boiling, and it will be heated to 250\u00b0C.",
+    "rationale": "The experimenter notes that the reaction is already basically quenched, but they will cool it down to room temperature. Test whether the student knows this.",
+    "annotation_id": "549c2b8c-bb4b-4c85-b119-a247adcabcce",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is adjusting the clamp to remove the flask from the heat source, allowing the reaction mixture to cool to room temperature. At what point in the past did they prepare for this cooling phase by increasing the stirring speed?",
+    "correct_answer": "1719s-1878s",
+    "incorrect_answer1": "369s-381s",
+    "incorrect_answer2": "1176s-1181s",
+    "annotation_id": "549c2b8c-bb4b-4c85-b119-a247adcabcce",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1888s-1912s"
+  },
+  {
+    "question": "What does the cloudiness in the reaction mixture indicate?",
+    "correct_answer": "The formation of a salt.",
+    "incorrect_answer1": "The precipitation of the product.",
+    "incorrect_answer2": "The precipitation of the nitronium ion at 66\u00b0C.",
+    "rationale": "The experimenter notes that cloudiness is a good sign because they are looking for salt formation. Test whether the student knows this.",
+    "annotation_id": "664ebb49-389e-4205-9553-87c4dda92dbc",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Based on the visual appearance of the mixture in the flask, how would you describe its physical state?",
+    "correct_answer": "A fine cakey solid.",
+    "incorrect_answer1": "A thick, cloudy suspension.",
+    "incorrect_answer2": "A clear yellow acetic acid solution.",
+    "rationale": "The experimenter notes that the mixture is a 'very fine cakey solid'.",
+    "annotation_id": "214b80dd-9418-4189-bf9f-ef53c1b8cc85",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter evaluate the physical consistency of the precipitated product?",
+    "correct_answer": "1857s-1861s",
+    "incorrect_answer1": "2486s-2490s",
+    "incorrect_answer2": "2200s-2204s",
+    "rationale": "The experimenter notes the 'fine cakey' nature of the solid. Test whether the student can identify the moment of physical inspection (lifting and swirling the flask) that prompts this assessment of the precipitate's texture.",
+    "annotation_id": "214b80dd-9418-4189-bf9f-ef53c1b8cc85",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what moment does the experimenter first note a visible change in the phase or solubility of the reaction mixture?",
+    "correct_answer": "1865s-1869s",
+    "incorrect_answer1": "1170s-1174s",
+    "incorrect_answer2": "1715s-1719s",
+    "rationale": "The experimenter observes the mixture becoming cloudy, which is a key indicator of a physical change (like precipitation or emulsion) resulting from the reaction. This question tests if the student can identify this important visual cue.",
+    "annotation_id": "4bff072d-dde4-4a94-8a7c-0d06aaf50cc5",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why is the reaction mixture left to stir while the filtration apparatus is being set up?",
+    "correct_answer": "To maximize the precipitation of the tin salt impurity before filtration.",
+    "incorrect_answer1": "To ensure the nitration reaction reaches full completion before product isolation.",
+    "incorrect_answer2": "To prevent the yellow nitrated product from precipitating before vacuum filtration.",
+    "rationale": "The experimenter explicitly states they are letting it stir to ensure as much tin salt is precipitated as possible because they want to filter it off.",
+    "annotation_id": "380da4b6-f1c8-40c8-b751-afe919254888",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is it important for the experimenter to pour the reaction mixture slowly and carefully into the filter funnel?",
+    "correct_answer": "The mixture is highly acidic, containing a large amount of acetic acid and some nitric acid, making it hazardous to splash.",
+    "incorrect_answer1": "Pouring too quickly could cause the liquid to overflow the filter paper, leading to a significant loss of the desired nitrated product.",
+    "incorrect_answer2": "The yellow suspension is entirely non-hazardous, containing only the solid protected diamine, making rapid pouring likely to dislodge the dry filter.",
+    "rationale": "The experimenter explicitly notes that they need to be careful and avoid dumping the mixture too fast because it contains a lot of acetic acid and a little bit of nitric acid, making it quite acidic.",
+    "annotation_id": "4d24cec4-8fe5-43f0-bfc4-9fbba65d0463",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "While pouring the reaction mixture into the vacuum filtration setup, the experimenter uses a magnet to keep the stir bar from falling out. At what point in the video did they prepare for this filtration by assembling the Buchner funnel and placing the filter paper inside?",
+    "correct_answer": "1912s-2078s",
+    "incorrect_answer1": "2464s-2467s",
+    "incorrect_answer2": "530s-632s",
+    "annotation_id": "4d24cec4-8fe5-43f0-bfc4-9fbba65d0463",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "1921s-2077s"
+  },
+  {
+    "question": "At what moment does the experimenter first confirm that the filtration setup is successfully separating the solid product from the liquid phase?",
+    "correct_answer": "1993s-2000s",
+    "incorrect_answer1": "2198s-2205s",
+    "incorrect_answer2": "2447s-2454s",
+    "rationale": "The experimenter notes the liquid passing through while the solid remains, inferring successful separation. This tests the student's ability to visually identify the successful operation of a vacuum filtration setup.",
+    "annotation_id": "6f2d015d-b107-47fd-863b-101ac19cfa0c",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what moment does the experimenter find visual confirmation that the reaction is yielding the correct product, as opposed to unreacted starting material or an over-reacted byproduct?",
+    "correct_answer": "2017s-2037s",
+    "incorrect_answer1": "1897s-1917s",
+    "incorrect_answer2": "2530s-2550s",
+    "rationale": "The experimenter uses the physical appearance (a pale yellow solid) of the material in the vial to infer that it is the desired product, noting that a shiny appearance would indicate starting material and a darker orange would indicate over-reaction. The question tests the viewer's ability to connect this specific visual inspection to the assessment of product quality.",
+    "annotation_id": "9dbb837b-d9e8-4881-a3b8-b0cba6127fde",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the primary purpose of the upcoming water washes on the solid material in the filter funnel?",
+    "correct_answer": "To remove residual acetic acid from the product.",
+    "incorrect_answer1": "To wash away water-soluble impurities from the solid.",
+    "incorrect_answer2": "To dissolve the nitrated product into the yellow filtrate.",
+    "rationale": "The experimenter notes that there is a lot of acetic acid stuck in the solid and that water washes will be used to remove it. Test whether the student knows this.",
+    "annotation_id": "24aab6ad-40f3-4612-8cf8-f2b0fcd1fdb3",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently performing cold distilled water washes on the filtered solid product to remove residual acetic acid. At what earlier point in the experiment did they retrieve and prepare the cold water for this specific washing step?",
+    "correct_answer": "1878s-1884s",
+    "incorrect_answer1": "2105s-2299s",
+    "incorrect_answer2": "2078s-2105s",
+    "annotation_id": "24aab6ad-40f3-4612-8cf8-f2b0fcd1fdb3",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2105s-2295s"
+  },
+  {
+    "question": "What is the experimenter's rationale for preparing the ice bath with wash solvents while the filtration is still in progress?",
+    "correct_answer": "To efficiently utilize the downtime during the filtration to set up for the subsequent steps of the multi-step workup.",
+    "incorrect_answer1": "To ensure the wash solvents are sufficiently chilled so that the isolated solid product does not dissolve during washing.",
+    "incorrect_answer2": "To cool the ethyl alcohol and distilled water to pour over the flask, accelerating the yellow liquid's vacuum filtration.",
+    "rationale": "The experimenter notes that 'while things are going, I like to get other things set up,' indicating a strategy to manage the multi-step workup efficiently.",
+    "annotation_id": "8a593c46-95fa-4b97-a54a-6cc6629eaaf7",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is now washing the filtered solid product with cold distilled water. At what earlier point in the video did they prepare the ice bath containing the squeeze bottles for this washing step?",
+    "correct_answer": "1878s-1884s",
+    "incorrect_answer1": "2299s-2368s",
+    "incorrect_answer2": "2078s-2105s",
+    "annotation_id": "8a593c46-95fa-4b97-a54a-6cc6629eaaf7",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2105s-2295s"
+  },
+  {
+    "question": "What is the primary purpose of stirring the mixture with saturated sodium carbonate?",
+    "correct_answer": "To remove any residual tin or chloride present in the solution.",
+    "incorrect_answer1": "To neutralize the excess acetic acid and nitric acid in the mixture.",
+    "incorrect_answer2": "To generate the nitronium ion within the orange acetic acid solution.",
+    "rationale": "The experimenter states that stirring with saturated sodium carbonate will further remove any tin or chloride that's in solution. Test whether the student understands the chemical purpose of this washing step.",
+    "annotation_id": "445590f4-6799-4b7e-846c-a42097078266",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is rinsing the filtered solid with cold ethanol to remove impurities while minimizing dissolution of the product. At what point in the past did they prepare the cold ethanol?",
+    "correct_answer": "2078s-2105s",
+    "incorrect_answer1": "2299s-2368s",
+    "incorrect_answer2": "1878s-1884s",
+    "annotation_id": "445590f4-6799-4b7e-846c-a42097078266",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2299s-2363s"
+  },
+  {
+    "question": "What is the primary purpose of washing the precipitate with distilled water at this stage?",
+    "correct_answer": "To remove residual chloride ions left over from the hydrochloric acid.",
+    "incorrect_answer1": "To remove excess acetic acid and nitric acid from the precipitate.",
+    "incorrect_answer2": "To dissolve the nitrated product into the orange acetic acid filtrate.",
+    "rationale": "The experimenter notes that the distilled water wash is used to remove chloride ions left over from the hydrochloric acid. Test whether the student understands the purpose of this wash.",
+    "annotation_id": "31f9377b-b664-4508-a47b-1ff59e8d27ab",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently washing the filtered solid product with distilled water to remove water-soluble impurities. At what earlier point in the video did they first retrieve and prepare the cold solvents specifically intended for this washing step?",
+    "correct_answer": "1878s-1884s",
+    "incorrect_answer1": "687s-774s",
+    "incorrect_answer2": "2078s-2105s",
+    "annotation_id": "31f9377b-b664-4508-a47b-1ff59e8d27ab",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2105s-2295s"
+  },
+  {
+    "question": "The experimenter is now placing the solid product into a vacuum oven to dry, preparing it for a future light extraction. At what point in the past did the experimenter perform a wash to remove acetic acid and other aqueous byproducts to ensure they do not interfere with this future extraction?",
+    "correct_answer": "2192s-2194s",
+    "incorrect_answer1": "2368s-2387s",
+    "incorrect_answer2": "2299s-2368s",
+    "annotation_id": "821bab4b-c57c-4c05-bae2-73b7031cdf4c",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2486s-2593s"
+  },
+  {
+    "question": "While washing the solid product, the experimenter is confident that the solvent will not dissolve a significant amount of it. At what previous point in the experiment did they take a specific preparatory step to minimize this dissolution?",
+    "correct_answer": "2078s-2105s",
+    "incorrect_answer1": "1878s-1884s",
+    "incorrect_answer2": "1884s-1912s",
+    "annotation_id": "d5c6846d-b3de-43d2-bfb8-623dc6dd42e3",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "2105s-2295s"
+  },
+  {
+    "question": "Why does the experimenter decide to wait a few more minutes during this filtration step?",
+    "correct_answer": "To maximize the precipitation of the solid.",
+    "incorrect_answer1": "To dry the solid product under vacuum.",
+    "incorrect_answer2": "To dissolve the solid in the distilled water.",
+    "rationale": "The experimenter states they are waiting a few more minutes to ensure they are precipitating as much of the solid as possible.",
+    "annotation_id": "1cf16729-4302-46e7-99f0-bdc8a2800ccc",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is taking their time during the washing phase to maximize the yield of the solid product. At what earlier point did they prepare their wash solvents to prevent the negative outcome of the product dissolving during these rinses?",
+    "correct_answer": "2078s-2105s",
+    "incorrect_answer1": "2299s-2368s",
+    "incorrect_answer2": "1878s-1884s",
+    "annotation_id": "1cf16729-4302-46e7-99f0-bdc8a2800ccc",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2299s-2363s"
+  },
+  {
+    "question": "What does the yellow-orange color of the filtrate in the collection flask indicate?",
+    "correct_answer": "A small amount of the product is dissolving during the wash and passing through the filter.",
+    "incorrect_answer1": "Unreacted reagents and colored oxidation byproducts are remaining in solution and passing through the filter paper.",
+    "incorrect_answer2": "The unreacted nitric acid is chemically burning the filter paper and washing into the collection flask.",
+    "rationale": "The experimenter notes that they are \"probably getting a little bit of product in there\" (the filtrate flask). Test whether the student understands that the colored filtrate indicates dissolved product passing through the filter.",
+    "annotation_id": "d55cba1c-20a6-4f1d-bdb3-6204d1022206",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter observes that a small amount of product is likely dissolving and passing into the filtrate during the wash. At what earlier point in the video did the experimenter prepare their materials to minimize this loss of product?",
+    "correct_answer": "1878s-1884s",
+    "incorrect_answer1": "2299s-2368s",
+    "incorrect_answer2": "2078s-2105s",
+    "annotation_id": "d55cba1c-20a6-4f1d-bdb3-6204d1022206",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "2219s-2233s"
+  },
+  {
+    "question": "The experimenter is adding a small amount of cold ethanol to the Buchner funnel. At what point in the past did they return the ethanol squeeze bottle to the ice bath to ensure it remained cold for this subsequent rinse, preventing the product from dissolving?",
+    "correct_answer": "2299s-2368s",
+    "incorrect_answer1": "1878s-1884s",
+    "incorrect_answer2": "2078s-2105s",
+    "annotation_id": "33663a9c-f0fa-49bf-b7cc-2e80be6ab73e",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2368s-2386s"
+  },
+  {
+    "question": "What is the experimenter likely assuming about the state of the funnel after completing the vacuum filtration?",
+    "correct_answer": "That a significant amount of liquid remains trapped inside it.",
+    "incorrect_answer1": "That the filter paper remained completely intact during the filtration.",
+    "incorrect_answer2": "That no acetic acid remains trapped within the white solid.",
+    "rationale": "The experimenter notes that a lot of liquid is probably stuck in the funnel. Test whether the student can infer this assumption.",
+    "annotation_id": "14ed030c-4bf2-4883-9d68-b3f0ac646c29",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "To speed up the drying process, what step could the experimenter take regarding the filter paper currently in the Buchner funnel?",
+    "correct_answer": "Replace the wet filter paper with a new, dry one.",
+    "incorrect_answer1": "Press down on the filter paper to remove excess liquid.",
+    "incorrect_answer2": "Replace the wet filter paper with a piece of aluminum foil.",
+    "rationale": "The experimenter notes that replacing the wet filter paper with a new one will speed up the drying process. Test whether the student knows this practical laboratory technique.",
+    "annotation_id": "235b07e8-f2c9-488a-af8d-f20c5601ab79",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the primary advantage of using a vacuum oven for the solid product in this step?",
+    "correct_answer": "It ensures a more thorough drying of the product.",
+    "incorrect_answer1": "It prevents thermal decomposition by drying at lower temperatures.",
+    "incorrect_answer2": "It forces the nitronium ions into the aromatic ring.",
+    "rationale": "The experimenter explicitly states that the vacuum oven is used because it 'ensures really thorough drying.'",
+    "annotation_id": "4757d5a2-8c7c-4994-a6c8-e27bbb6595dc",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter dilutes the fuming nitric acid with glacial acetic acid before adding it to the main reaction flask. What is the primary purpose of this dilution step?",
+    "correct_answer": "To control the initial exotherm upon addition, helping to maintain a stable temperature and prevent over-nitration.",
+    "incorrect_answer1": "To ensure uniform mixing within the reaction flask, preventing localized high concentrations that cause side reactions.",
+    "incorrect_answer2": "To pre-form the nitronium ion in the glass vial, accelerating the nitration of the ditosyl-protected diamine.",
+    "rationale": "Students might assume the dilution is solely to adjust the concentration for stoichiometric reasons or to improve solubility. However, the scientist's primary concern is thermodynamic control\u2014specifically, managing the heat released upon addition to prevent unwanted over-nitration.",
+    "annotation_id": "483934fe-9d8d-43e9-b9f7-e628be5e34e4:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "What is the primary reason the experimenter prepares the acid solution at this particular moment in the video?",
+    "correct_answer": "To optimize time efficiency while waiting for the starting material in the main flask to begin stirring properly.",
+    "incorrect_answer1": "To prevent the highly reactive nitronium ion mixture from degrading before it is added to the starting material.",
+    "incorrect_answer2": "To ensure the highly reactive nitronium ion formed from the fuming nitric acid does not degrade before addition.",
+    "rationale": "Students might assume the timing of reagent preparation is strictly dictated by the chemical stability of the mixture, but it is often a practical choice to multitask and improve workflow efficiency while waiting for physical processes, like stirring and equilibration, to occur in the main reaction vessel.",
+    "annotation_id": "dcf35f29-cc81-4360-8e4c-3293a9a38ff4:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "At this point, the experimenter changes their gloves. Why is preventing contamination of the reaction mixture NOT the primary reason for this change?",
+    "correct_answer": "The active reagent has not yet been added, so the reaction has not officially started.",
+    "incorrect_answer1": "The primary purpose is to protect the experimenter's skin from corrosive acids on the gloves.",
+    "incorrect_answer2": "Because the tosyl groups on the starting material make it completely unreactive to external contaminants.",
+    "rationale": "Students might assume that changing gloves is always about protecting the reaction from contamination. However, the scientist notes that since the nitric acid hasn't been added yet, the reaction hasn't truly begun, making contamination of the reaction less of a critical concern at this exact moment.",
+    "annotation_id": "c3366baf-3783-4889-8656-055e5b8adaa6:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "As the scientist adds the nitrating solution, they monitor the temperature using a probe located in the surrounding bath rather than inside the reaction flask itself. What is the scientist's reasoning for this specific temperature monitoring setup?",
+    "correct_answer": "The bath fluid mediates drastic temperature changes; monitoring the bath for significant temperature spikes allows the scientist to indirectly detect if the reaction is becoming highly exothermic.",
+    "incorrect_answer1": "The concentrated nitric acid mixture is highly corrosive; keeping the temperature probe in the external bath prevents the metal sensor from degrading and potentially contaminating the sensitive reaction.",
+    "incorrect_answer2": "The acidic nitric acid mixture would corrode the metal temperature probe; placing it in the bath prevents the introduction of unwanted metal ions into the ditosyl-protected starting material.",
+    "rationale": "Students might expect the temperature probe to be placed directly in the reaction mixture for accurate monitoring. The scientist's comment reveals that placing it in the bath is a deliberate choice to use the bath as a thermal mediator, where a spike in bath temperature serves as an indirect indicator of a rapid exotherm in the flask.",
+    "annotation_id": "87717640-afec-4861-88bc-6873c200bc0e:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "What specific chemical consequences is the experimenter trying to prevent by avoiding an uncontrolled exotherm during this addition?",
+    "correct_answer": "Decomposition of the starting material and over-nitration.",
+    "incorrect_answer1": "Cleavage of the protecting groups and oxidation.",
+    "incorrect_answer2": "Deprotection of the tosyl groups and ring oxidation.",
+    "rationale": "While students may generally know that exothermic reactions require temperature control for safety reasons, they must apply their knowledge of electrophilic aromatic substitution to recognize that excess thermal energy can overcome the directing groups' selectivity, leading to over-nitration, as well as general decomposition of the organic starting material.",
+    "annotation_id": "87717640-afec-4861-88bc-6873c200bc0e:1",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "The experimenter prepares cold distilled water to wash the solid product after filtration. What is the primary consequence of not washing the product thoroughly enough with water at this stage?",
+    "correct_answer": "Residual acid will remain in the product and interfere with the subsequent reaction.",
+    "incorrect_answer1": "The presence of trapped impurities will significantly lower the product's recorded melting point.",
+    "incorrect_answer2": "Residual acetic acid will cause the yellow product to redissolve during the drying phase.",
+    "rationale": "Students might assume the water wash is primarily to remove unreacted starting material or organic byproducts, but its critical function here is to remove acidic impurities that would chemically disrupt the next step in the synthesis.",
+    "annotation_id": "0c15c1e1-c097-496f-9ca8-7c8b5621643b:1",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "After dispensing the first portion of ethanol for the wash, the experimenter immediately returns the squeeze bottle to the ice bath rather than holding it while the liquid drains. What practical consideration drives this specific action?",
+    "correct_answer": "Holding the bottle transfers body heat to the solvent, and even a slight warming of the ethanol can increase the solubility of the product and reduce the final yield.",
+    "incorrect_answer1": "Warming the squeeze bottle with bare hands causes the volatile ethanol inside to vaporize, building up internal pressure that can inadvertently force liquid out of the nozzle prematurely.",
+    "incorrect_answer2": "The ice bath maintains the ethanol's high viscosity, which slows its passage through the filter paper and provides more contact time to thoroughly dissolve any remaining acidic impurities.",
+    "rationale": "While students know cold solvents reduce solubility, they might not anticipate how quickly a solvent can warm up just from being held in a gloved hand, highlighting a nuanced technique for maximizing yield.",
+    "annotation_id": "ac8308a0-6ae9-4cd1-87df-715ae80d94e9:2",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  }
+]

@@ -1,0 +1,2088 @@
+[
+  {
+    "question": "At what point does the experimenter conclude that the target volume has nearly been reached?",
+    "correct_answer": "227s-229s",
+    "incorrect_answer1": "800s-802s",
+    "incorrect_answer2": "1623s-1625s",
+    "rationale": "The experimenter observes the liquid level in the graduated cylinder and infers that it is close enough to the target to require only a small, careful addition. This tests the ability to recognize the visual cues of a near-complete volume measurement.",
+    "annotation_id": "41b716a7-16d7-4b13-be59-5fb06b43984a",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what point in the past did the experimenter prepare for this step by setting up an ice bath?",
+    "correct_answer": "258s-324s",
+    "incorrect_answer1": "855s-960s",
+    "incorrect_answer2": "1786s-1829s",
+    "annotation_id": "3b14855c-6443-4fef-af7e-a8506ab5ba92",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "998s-1018s"
+  },
+  {
+    "question": "The experimenter is adding liquid to the flask, which could cause the mixture to heat up. At what point did they prepare the cooling bath to control the temperature?",
+    "correct_answer": "258s-324s",
+    "incorrect_answer1": "855s-960s",
+    "incorrect_answer2": "1018s-1129s",
+    "annotation_id": "9d174b76-daa9-4b2d-b0c4-f692361ae08b",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1018s-1152s"
+  },
+  {
+    "question": "Why does the experimenter lift the flask out of the ice bath?",
+    "correct_answer": "To prevent the reaction mixture from cooling down too much.",
+    "incorrect_answer1": "To visually inspect the color change of the reaction mixture.",
+    "incorrect_answer2": "To stop the magnetic stir bar from agitating the tin.",
+    "rationale": "The experimenter states that they are removing the ice bath so that it doesn't cool the reaction too much. Test whether the student can anticipate this reasoning.",
+    "annotation_id": "0fb6a57d-d301-48db-917e-cc638915bcec",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The reaction is currently being monitored in a water bath rather than an ice bath. At what point in the past did the experimenter remove the ice to prevent the reaction mixture from cooling too much?",
+    "correct_answer": "328s-408s",
+    "incorrect_answer1": "1018s-1129s",
+    "incorrect_answer2": "855s-960s",
+    "annotation_id": "0fb6a57d-d301-48db-917e-cc638915bcec",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1018s-1152s"
+  },
+  {
+    "question": "At what moment does the experimenter confirm that the mixture is being adequately agitated?",
+    "correct_answer": "363s-367s",
+    "incorrect_answer1": "681s-685s",
+    "incorrect_answer2": "1882s-1886s",
+    "rationale": "The experimenter uses the visible disruption of the liquid's surface as the criterion for adequate stirring. This tests whether the student can identify the physical cue that indicates sufficient agitation.",
+    "annotation_id": "9992b3cf-ce6a-4144-8a4b-ee7b6873f172",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that the reaction mixture's consistency is currently preventing effective magnetic stirring?",
+    "correct_answer": "461s-462s",
+    "incorrect_answer1": "126s-127s",
+    "incorrect_answer2": "1140s-1141s",
+    "rationale": "The experimenter infers from the low actual RPM reading and the stationary solid that the mixture is too thick to stir properly. This tests the student's ability to recognize mechanical limitations of the setup from visual indicators.",
+    "annotation_id": "f5f5fcea-7c28-4e9e-9060-408c96b1ce31",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why might the experimenter need to replace the current stir bar?",
+    "correct_answer": "The current stir bar may have a weak magnetic field, leading to poor coupling with the stir plate.",
+    "incorrect_answer1": "The current stir bar may be too small for the scaled-up reaction, leading to inadequate mixing of reagents.",
+    "incorrect_answer2": "The current stir bar may react with the hydrochloric acid, leading to unwanted decomposition of the nitro groups.",
+    "rationale": "The experimenter notes that 'sometimes the stir bars aren't too strong either so I might have to grab another stir bar.' This tests whether the student understands that weak magnetism can cause ineffective stirring, necessitating a replacement.",
+    "annotation_id": "b5a1837f-26db-4134-83b5-4d6f5140e677",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "While monitoring the reaction, the experimenter observes the distribution of the solid tin powder as it is being stirred. At what point in the past did the experimenter select a new stir bar to ensure this heterogeneous mixture would be adequately agitated?",
+    "correct_answer": "500s-538s",
+    "incorrect_answer1": "1468s-1521s",
+    "incorrect_answer2": "855s-960s",
+    "annotation_id": "bade887c-479c-42cc-944b-ece7ab02d2e8",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1018s-1152s"
+  },
+  {
+    "question": "What is the primary disadvantage of using the pipette to manipulate the solid in the manner shown?",
+    "correct_answer": "A significant amount of starting material adheres to the outside of the pipette, resulting in material loss.",
+    "incorrect_answer1": "The solid particles frequently become wedged inside the narrow tip of the pipette, resulting in persistent clogs.",
+    "incorrect_answer2": "The tip of the glass pipette can snap off into the yellow nitro compound, contaminating the reaction.",
+    "rationale": "The experimenter notes that the material stuck to the pipette is a loss of starting material. Test whether the student recognizes this physical loss from observing the video.",
+    "annotation_id": "71e6e405-1c4a-49e5-ade4-2a66c07449b1",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter recognize an unavoidable physical loss of material?",
+    "correct_answer": "549s-559s",
+    "incorrect_answer1": "796s-806s",
+    "incorrect_answer2": "251s-261s",
+    "rationale": "The experimenter sees material stuck to the stirring rod and infers that this constitutes a loss of starting material. The question tests if the viewer can identify the visual cue (material adhering to a tool) that prompts this realization of material loss.",
+    "annotation_id": "71e6e405-1c4a-49e5-ade4-2a66c07449b1",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "To ensure the mixture stirs effectively during this step, the experimenter previously removed some solid material that was hindering the stir bar. When did this happen?",
+    "correct_answer": "548s-630s",
+    "incorrect_answer1": "1906s-1952s",
+    "incorrect_answer2": "960s-1018s",
+    "annotation_id": "18af2212-797d-4c83-a12c-83be1f9a9772",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1018s-1152s"
+  },
+  {
+    "question": "What is the experimenter verifying after adjusting the stir plate to 500 rpm?",
+    "correct_answer": "Whether the mixture is stirring adequately at this speed.",
+    "incorrect_answer1": "Whether the solid tin is fully suspended in the solvent.",
+    "incorrect_answer2": "Whether the tin has fully reduced the nitro groups.",
+    "rationale": "The experimenter states \"Okay, I'm at 500 now, so let's see if it's... Yeah, it's stirring,\" indicating they are checking the effectiveness of the stirring at that specific speed.",
+    "annotation_id": "81fac6df-1d09-40da-a9bd-458bd0bede20",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "The solid in the reaction mixture has now dissolved. At what point in the past did the experimenter anticipate that adding reagents would help loosen and dissolve the mixture to resolve potential stirring issues?",
+    "correct_answer": "630s-736s",
+    "incorrect_answer1": "408s-500s",
+    "incorrect_answer2": "960s-1018s",
+    "annotation_id": "cb31282e-dd8e-4009-882a-03e6eadca127",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1152s-1261s"
+  },
+  {
+    "question": "Why is it particularly easy to overshoot the target weight when weighing out the solid shown in this step?",
+    "correct_answer": "The solid is very dense and fine, meaning a small volume adds a significant amount of mass.",
+    "incorrect_answer1": "The solid tends to clump together on the spatula, causing large, unexpected chunks to drop at once.",
+    "incorrect_answer2": "The neutral tin powder tends to clump, causing large, heavy chunks to fall onto the weighing paper.",
+    "rationale": "The experimenter notes that the solid is dense, heavy, and fine, which makes it easy to overshoot the desired weight. Test whether the student understands how the physical properties of this specific solid affect the weighing process.",
+    "annotation_id": "488fce26-3eec-499e-9c9d-74c40f77b808",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Approximately what fraction of the required tin powder has been weighed out at the end of this clip?",
+    "correct_answer": "About one half",
+    "incorrect_answer1": "About one third",
+    "incorrect_answer2": "All 2.8611 grams of tin powder",
+    "rationale": "The experimenter notes that they are \"about halfway there\" when the balance reads ~2.86g. Test whether the student understands the required scale and stoichiometry of the reaction to evaluate the progress.",
+    "annotation_id": "9e17bf3f-3bc2-41a3-89e5-a84ee65eaeba",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter determine that slightly overshooting the target mass of the reagent is acceptable?",
+    "correct_answer": "831s-839s",
+    "incorrect_answer1": "1256s-1264s",
+    "incorrect_answer2": "1341s-1349s",
+    "rationale": "The experimenter observes the final mass on the balance and infers that the slight excess is acceptable for the reaction. This tests the viewer's ability to link the completion of the weighing process with the experimenter's evaluative decision.",
+    "annotation_id": "6c7f5767-25eb-4955-b608-8118425bf117",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why might the experimenter intentionally overshoot the target mass when weighing out the solid?",
+    "correct_answer": "To compensate for the solid that will inevitably stick to the weighing paper during transfer.",
+    "incorrect_answer1": "To guarantee a slight excess of the reducing agent is present to fully complete the reaction.",
+    "incorrect_answer2": "To ensure the light excess of neutral tin prevents the decomposition of the amino groups.",
+    "rationale": "The experimenter notes that they overshoot the target mass because the solid sticks to the paper.",
+    "annotation_id": "74b0e436-ea63-4938-a6d0-4e86633bd073",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the flask lowered closer to the stir plate?",
+    "correct_answer": "To improve the stirring of the mixture.",
+    "incorrect_answer1": "To increase the heating of the solution.",
+    "incorrect_answer2": "To heat the tin and ethanol mixture.",
+    "rationale": "The experimenter notes that lowering the flask closer to the stir plate helps the mixture move more. Test whether the student knows this.",
+    "annotation_id": "12375065-d2c6-45eb-abda-0563ad392e86",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is observing the distribution of the solid powder in the reaction mixture, which requires efficient stirring. At what previous point did they physically adjust the setup to enhance the magnetic coupling of the stir bar?",
+    "correct_answer": "328s-408s",
+    "incorrect_answer1": "93s-159s",
+    "incorrect_answer2": "538s-548s",
+    "annotation_id": "12375065-d2c6-45eb-abda-0563ad392e86",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1018s-1152s"
+  },
+  {
+    "question": "What approximate stir rate is the experimenter aiming to achieve?",
+    "correct_answer": "650 rpm",
+    "incorrect_answer1": "400 rpm",
+    "incorrect_answer2": "150 rpm",
+    "rationale": "The experimenter states, \"I think being in that 650 range is about where I want to be.\"",
+    "annotation_id": "ac33e26b-8b84-4a96-b614-d1b634baa4d7",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "What visual change is occurring inside the flask?",
+    "correct_answer": "It is becoming foggy.",
+    "incorrect_answer1": "It is bubbling rapidly.",
+    "incorrect_answer2": "The yellow ethanol is turning clear.",
+    "rationale": "The experimenter notes that the flask is getting foggy. Test whether the student can observe this visual change.",
+    "annotation_id": "3fe5692c-0fed-4f7a-aa47-aa70bfb31df3",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter first observe a visual indication that a precipitate is beginning to form?",
+    "correct_answer": "1027s-1050s",
+    "incorrect_answer1": "1856s-1879s",
+    "incorrect_answer2": "790s-813s",
+    "rationale": "The experimenter notes the mixture \"getting foggy,\" which indicates the onset of precipitation or a phase change. The question tests the ability to recognize this visual cue as the start of that process.",
+    "annotation_id": "3fe5692c-0fed-4f7a-aa47-aa70bfb31df3",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is currently scraping the walls of the flask to ensure all material is transferred. At what earlier point did they perform a similar action to ensure all material was fully incorporated into the mixture?",
+    "correct_answer": "93s-159s",
+    "incorrect_answer1": "1129s-1153s",
+    "incorrect_answer2": "548s-630s",
+    "annotation_id": "8445f593-ea1e-437d-a6d9-52f2ed6a7044",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3795s-3824s"
+  },
+  {
+    "question": "What does the condensation on the inside walls of the flask indicate about the state of the reaction?",
+    "correct_answer": "It indicates that the reaction is exothermic and actively proceeding.",
+    "incorrect_answer1": "It indicates that the ethanol solvent is vaporizing and refluxing.",
+    "incorrect_answer2": "It indicates that the ethanol is evaporating, halting the tin oxidation.",
+    "rationale": "The experimenter notes that the condensation is a 'good sign'. Test whether the student understands that this visual cue means the reaction is generating heat and working.",
+    "annotation_id": "27989bab-1d6b-4752-b9b9-2d39525c38dd",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter express confidence in the current temperature setting?",
+    "correct_answer": "1146s-1148s",
+    "incorrect_answer1": "1866s-1868s",
+    "incorrect_answer2": "1776s-1778s",
+    "rationale": "The experimenter's comment 'It's a good sign' is an assessment of the temperature setting, which is visible on the hotplate's display. The question tests the viewer's ability to connect the experimenter's spoken assessment with the visual evidence of the temperature setting.",
+    "annotation_id": "27989bab-1d6b-4752-b9b9-2d39525c38dd",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is currently performing a step that requires careful containment of the mixture. At what point in the video did they prepare for this by selecting the appropriately sized flask?",
+    "correct_answer": "1468s-1521s",
+    "incorrect_answer1": "93s-159s",
+    "incorrect_answer2": "2539s-2570s",
+    "annotation_id": "7572882c-6d58-413d-9822-4369df11c734",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1806s-1903s"
+  },
+  {
+    "question": "What does the transparency of the solution indicate about the state of the reaction?",
+    "correct_answer": "It indicates that the solid reactants have dissolved, suggesting the reaction has progressed.",
+    "incorrect_answer1": "It indicates that the solid tin has been fully oxidized, signaling the reduction is complete.",
+    "incorrect_answer2": "It indicates that the neutral tin has sublimated, suggesting the reaction has failed.",
+    "rationale": "The experimenter notes that the transparency of the solution is a really good sign. Test whether the student knows why this is the case.",
+    "annotation_id": "fa234b99-f06c-4a22-aa73-011c3673a8c8",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter observe visual confirmation that the reaction has progressed favorably over the 24-hour period?",
+    "correct_answer": "1182s-1190s",
+    "incorrect_answer1": "1774s-1782s",
+    "incorrect_answer2": "3201s-3209s",
+    "rationale": "The experimenter infers that the reaction is in a promising state based on the transparency of the solution. The question tests whether the viewer can identify this visual indicator of success.",
+    "annotation_id": "fa234b99-f06c-4a22-aa73-011c3673a8c8",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What does the visual appearance of the mixture at this stage indicate about the solid materials?",
+    "correct_answer": "They have completely dissolved.",
+    "incorrect_answer1": "They remain mostly undissolved.",
+    "incorrect_answer2": "The tin has completely melted.",
+    "rationale": "The experimenter notes that everything has dissolved based on the visual appearance of the mixture. Test whether the student can infer this from the clear solution shown in the video.",
+    "annotation_id": "47aa1a5a-3e76-4bd9-b9c1-24e333294bbc",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that the dissolution process is largely complete?",
+    "correct_answer": "1190s-1193s",
+    "incorrect_answer1": "682s-685s",
+    "incorrect_answer2": "1776s-1779s",
+    "rationale": "The experimenter observes the small amount of remaining solid (identified as residual tin) and infers that the rest of the material has successfully dissolved. This tests the ability to link the visual state of the mixture to the progress of the dissolution.",
+    "annotation_id": "47aa1a5a-3e76-4bd9-b9c1-24e333294bbc",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the likely identity of the small amount of solid visible in the flask?",
+    "correct_answer": "Tin salt",
+    "incorrect_answer1": "Unreacted tin",
+    "incorrect_answer2": "Undissolved dinitro starting material in ethanol",
+    "rationale": "The experimenter notes that the remaining solid is likely tin salt. Test whether the student knows this.",
+    "annotation_id": "be5afb76-0082-4e96-9d90-65997514c6e9",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that the solid visible in the stirring mixture is likely a benign byproduct?",
+    "correct_answer": "1193s-1198s",
+    "incorrect_answer1": "1736s-1741s",
+    "incorrect_answer2": "3274s-3279s",
+    "rationale": "The experimenter observes the solid and infers it is likely a tin salt, which is not a concern for the subsequent filtration step. This tests the ability to recognize when an experimenter evaluates the composition and significance of visible material in a mixture.",
+    "annotation_id": "be5afb76-0082-4e96-9d90-65997514c6e9",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is now separating the aqueous and organic layers. At what point in the video did they first outline their plan to separate the organic and inorganic components of the system?",
+    "correct_answer": "1200s-1222s",
+    "incorrect_answer1": "2392s-2440s",
+    "incorrect_answer2": "2489s-2539s",
+    "annotation_id": "b4683e2c-4083-4c89-a5d4-ed3d21996134",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2886s-2933s"
+  },
+  {
+    "question": "What is the primary purpose of adding sodium hydroxide in the subsequent steps of this procedure?",
+    "correct_answer": "To quench the tin salt and induce its precipitation for easier separation.",
+    "incorrect_answer1": "To deprotonate the newly formed amine groups and generate the free base.",
+    "incorrect_answer2": "To acidify the orange solution and complete the reduction of the nitro groups.",
+    "rationale": "The experimenter explicitly mentions adding sodium hydroxide to quench the tin salt, causing it to precipitate out so it can be separated. This tests the student's understanding of the chemical rationale behind this specific workup step.",
+    "annotation_id": "54e11e08-1173-41af-bad3-472cbf98796d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is adding a solution to the reaction mixture to precipitate the tin salt. At what point in the video did they weigh out the solid used to prepare this solution?",
+    "correct_answer": "1298s-1392s",
+    "incorrect_answer1": "736s-748s",
+    "incorrect_answer2": "748s-855s",
+    "annotation_id": "54e11e08-1173-41af-bad3-472cbf98796d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1806s-1903s"
+  },
+  {
+    "question": "At what timestamp did the experimenter begin preparing the solution that is currently being added to the flask?",
+    "correct_answer": "1222s-1298s",
+    "incorrect_answer1": "178s-254s",
+    "incorrect_answer2": "1468s-1521s",
+    "annotation_id": "3f6efa5f-a89d-4190-af35-f6b0cfc9c609",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1806s-1903s"
+  },
+  {
+    "question": "At what moment does the experimenter determine that the dispensed mass of the solid reagent is acceptable, choosing to proceed without attempting to remove the slight excess?",
+    "correct_answer": "1352s-1359s",
+    "incorrect_answer1": "212s-219s",
+    "incorrect_answer2": "798s-805s",
+    "rationale": "The experimenter accepts a mass (25.53g) that is likely slightly over a round-number target (e.g., 25g) because removing excess solid reagent from a weighing vessel is generally avoided to prevent contamination of the stock bottle. The question tests the viewer's ability to infer this practical laboratory decision from the deliberate conclusion of the weighing action.",
+    "annotation_id": "49d34c76-f6e0-413a-8597-2a8150839dbb",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why does the experimenter wipe the metal spatula with a paper towel immediately after use?",
+    "correct_answer": "Because the substance being handled is highly corrosive.",
+    "incorrect_answer1": "Because the residual powder can easily cause cross-contamination.",
+    "incorrect_answer2": "Because the neutral tin being handled reduces metal.",
+    "rationale": "The experimenter states that the substance is 'pretty corrosive' and therefore tries to wipe off the scoopula as quickly as possible.",
+    "annotation_id": "3b433a41-e3a8-4b9a-8a67-f3c3dea4eeef",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter clean this metal spatula to prevent it from corroding?",
+    "correct_answer": "1298s-1392s",
+    "incorrect_answer1": "548s-630s",
+    "incorrect_answer2": "2392s-2440s",
+    "annotation_id": "3b433a41-e3a8-4b9a-8a67-f3c3dea4eeef",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "2479s-2505s"
+  },
+  {
+    "question": "The experimenter is now stirring the mixture. At what point in the past did they select a specific tool to ensure these large pellets would be thoroughly mixed?",
+    "correct_answer": "1392s-1468s",
+    "incorrect_answer1": "3451s-3516s",
+    "incorrect_answer2": "500s-538s",
+    "annotation_id": "d91b20f1-f7af-453a-97f5-fe8dc1146c70",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1393s-1464s"
+  },
+  {
+    "question": "Why is it acceptable if the volume of the liquid being measured in the graduated cylinder is not perfectly exact?",
+    "correct_answer": "The liquid will eventually be removed during the workup process.",
+    "incorrect_answer1": "The liquid serves only as a solvent for the reaction.",
+    "incorrect_answer2": "The excess hydrochloric acid evaporates during the nitro group reduction.",
+    "rationale": "The experimenter notes that the measurement doesn't need to be exact. Test whether the student understands why this level of precision is acceptable for this step.",
+    "annotation_id": "da033579-5326-4476-a9e9-974bd4e6b888",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is it acceptable to overshoot the measurement of the liquid currently being measured?",
+    "correct_answer": "The liquid will eventually be removed during the workup process.",
+    "incorrect_answer1": "The substance serves merely as a solvent for the reaction.",
+    "incorrect_answer2": "The excess ethanol is needed to dissolve the solid tin.",
+    "rationale": "The experimenter notes that they can overshoot the measurement of the liquid. Test whether the student knows why the exact volume is not critical.",
+    "annotation_id": "f62f25de-c60d-43ec-a884-b4a5e86119a2",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is draining the lower phase to separate it. At what point in the video did they measure the liquid that makes up the bulk of this phase, noting that they were intentionally limiting its volume to make this separation easier?",
+    "correct_answer": "1392s-1468s",
+    "incorrect_answer1": "1594s-1654s",
+    "incorrect_answer2": "178s-254s",
+    "annotation_id": "af84861b-4d8d-4393-8483-f2d370972319",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2886s-2933s"
+  },
+  {
+    "question": "As the experimenter performs this extraction, they rely on a sodium hydroxide solution added earlier. At what point did they prepare this solution, noting that precise measurements were unnecessary for this stage of the experiment?",
+    "correct_answer": "1392s-1468s",
+    "incorrect_answer1": "1594s-1654s",
+    "incorrect_answer2": "2141s-2163s",
+    "annotation_id": "b0a3a208-393a-4c3d-b6d7-947cd81d4616",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2959s-3242s"
+  },
+  {
+    "question": "Why does the experimenter plan to transfer the reaction mixture to a large Erlenmeyer flask?",
+    "correct_answer": "To create a wide, shallow mixture that maximizes surface area, ensuring efficient stirring and dispersion.",
+    "incorrect_answer1": "To provide sufficient headspace to contain the vigorous foaming and gas evolution during the reduction.",
+    "incorrect_answer2": "To create a deep pool that minimizes surface area, slowing neutral tin oxidation at 400 rpm.",
+    "rationale": "The experimenter explicitly states they want to avoid a tall, skinny level of solvent and instead want a wide, shallow mixture to maximize surface area so that it stirs and disperses well during the precipitation of the tin salt.",
+    "annotation_id": "4c591552-e246-4ef0-8d5a-9817f442c616",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the primary reason for selecting this specific size of stir bar for the flask?",
+    "correct_answer": "It covers a large amount of space on the bottom of the flask.",
+    "incorrect_answer1": "It generates sufficient agitation to keep the solid reactants suspended in the solution.",
+    "incorrect_answer2": "It provides enough weight to crush the neutral tin during the reduction reaction.",
+    "rationale": "The experimenter notes that they want a stir bar that covers a lot of space on the bottom. Test whether the student understands the practical considerations for selecting a stir bar size for a given flask.",
+    "annotation_id": "eb343e90-8099-4c36-a021-b4f942a3d0cc",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Aside from ensuring the solid fully dissolves, what is another benefit of continuing to stir the solution in the beaker on the right?",
+    "correct_answer": "It helps cool the solution down.",
+    "incorrect_answer1": "It prevents the tin from settling.",
+    "incorrect_answer2": "It evenly distributes the hotplate's heat.",
+    "rationale": "The experimenter notes that stirring will help cool the solution down. Test whether the student knows this.",
+    "annotation_id": "b33e1411-baee-481e-8dd9-877ac52da208",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the presence of residual solid tin in the mixture not a concern during this transfer step?",
+    "correct_answer": "Because a subsequent filtration step is planned to separate all solids from the liquids.",
+    "incorrect_answer1": "Because the reduction reaction is already complete and the remaining tin is unreacted excess.",
+    "incorrect_answer2": "Because the remaining solid tin is expected to dissolve completely in the ethanol wash.",
+    "rationale": "The experimenter explicitly states that the tin is fine to be there because they will filter off the salt later to separate solids from liquids.",
+    "annotation_id": "3b344299-6ba5-40b3-bd71-785aeadf6591",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter want to ensure the mixture is fully transparent?",
+    "correct_answer": "To avoid losing organic product when filtering off the solid inorganic portion.",
+    "incorrect_answer1": "To confirm that the solid starting material has completely dissolved in solution.",
+    "incorrect_answer2": "To visually confirm that the neutral tin has completely dissolved in ethanol.",
+    "rationale": "The experimenter states that if the mixture is not fully transparent, they risk losing organic parts when filtering the solid inorganic portion.",
+    "annotation_id": "82537d4d-1703-4ffd-b228-c019f99528c5",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "During this filtration, the experimenter is careful not to lose any desired product that might be caught in the solid waste. At what earlier point did they perform actions specifically to ensure the product was completely dissolved and transferred, thereby preventing this loss?",
+    "correct_answer": "1769s-1786s",
+    "incorrect_answer1": "1594s-1654s",
+    "incorrect_answer2": "3799s-3832s",
+    "annotation_id": "82537d4d-1703-4ffd-b228-c019f99528c5",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "2479s-2505s"
+  },
+  {
+    "question": "At what moment does the experimenter find visual confirmation that the reaction is proceeding as desired?",
+    "correct_answer": "1770s-1773s",
+    "incorrect_answer1": "254s-257s",
+    "incorrect_answer2": "1190s-1193s",
+    "rationale": "The experimenter assesses the transparent yellow-orange color as a positive indicator ('great'). The question tests if the viewer can identify this specific visual state as the intended outcome at this stage.",
+    "annotation_id": "b73e8cb7-9615-46a7-ad35-aa13e57113c7",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why does the experimenter add more of the clear liquid from the beaker to the flask containing the yellow mixture?",
+    "correct_answer": "To prevent any material from precipitating out during the process.",
+    "incorrect_answer1": "To maintain the proper acidity level for the reduction reaction.",
+    "incorrect_answer2": "To prevent the neutral tin from oxidizing in the 500mL flask.",
+    "rationale": "The experimenter states they are adding more ethyl acetate to make sure nothing precipitates out.",
+    "annotation_id": "350adc44-1c85-4d90-bdf5-ccffbb6cc841",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the experimenter satisfied with the stirring setup at this point?",
+    "correct_answer": "The combination of the large Erlenmeyer flask and the large stir bar ensures thorough mixing.",
+    "incorrect_answer1": "The rapid rotation speed is sufficient to keep the solid tin powder suspended in solution.",
+    "incorrect_answer2": "The 400 rpm setting and large white stir bar intentionally limit mixing to prevent decomposition.",
+    "rationale": "The experimenter notes that they feel really good about how well things are stirring because of the Erlenmeyer flask and the large stir bar. Test whether the student recognizes the importance of this specific equipment choice for efficient stirring.",
+    "annotation_id": "1c2c09aa-2501-440a-b3d5-8b006918c80a",
+    "category": [
+      "INTENT_REASONING",
+      "PLAN"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the expected thermal behavior of the reaction upon adding the clear solution, and what visual change accompanies it?",
+    "correct_answer": "The reaction is not exothermic, but a color change occurs.",
+    "incorrect_answer1": "The reaction is highly exothermic, and vigorous bubbling is observed.",
+    "incorrect_answer2": "Adding clear HCl is highly exothermic, turning the yellow solution orange.",
+    "rationale": "The experimenter notes that the reaction is not exothermic but a color change is visible. Test whether the student understands the expected thermal and visual behavior of this step.",
+    "annotation_id": "31a7a26a-303e-4b49-a0d3-3bb3249b3365",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "During this step, the mixture does not overreact or become overly exothermic. At what previous point in the experiment did the experimenter prepare the solvent intended to cool the mixture and prevent this negative outcome?",
+    "correct_answer": "1594s-1654s",
+    "incorrect_answer1": "1392s-1468s",
+    "incorrect_answer2": "258s-324s",
+    "annotation_id": "31a7a26a-303e-4b49-a0d3-3bb3249b3365",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1806s-1903s"
+  },
+  {
+    "question": "What do the fine white particles forming in the flask indicate?",
+    "correct_answer": "The precipitation of tin salts.",
+    "incorrect_answer1": "The formation of the amine hydrochloride.",
+    "incorrect_answer2": "The crystallization of the amino product.",
+    "rationale": "The experimenter observes fine white particles and considers them a good sign, as they indicate the successful precipitation of the tin salts. Test whether the student knows what these particles represent.",
+    "annotation_id": "214b80dd-9418-4189-bf9f-ef53c1b8cc85",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter observe visual confirmation that the desired solid product is successfully forming in the mixture?",
+    "correct_answer": "1857s-1861s",
+    "incorrect_answer1": "2786s-2790s",
+    "incorrect_answer2": "1189s-1193s",
+    "rationale": "The experimenter interprets the presence of fine white particles in the stirring liquid as a 'really good sign', indicating successful product formation. This question tests the student's ability to recognize this specific visual cue (precipitation) as a positive indicator of the experiment's progress.",
+    "annotation_id": "214b80dd-9418-4189-bf9f-ef53c1b8cc85",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is observing the mixture to ensure it doesn't become too powdery to stir. At what earlier point did they select the specific vessel to prevent this issue?",
+    "correct_answer": "1521s-1594s",
+    "incorrect_answer1": "93s-159s",
+    "incorrect_answer2": "2489s-2539s",
+    "annotation_id": "7519734d-64bc-42b0-aa3f-59a40b260ae6",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "1903s-1943s"
+  },
+  {
+    "question": "Why is the experimenter allowing the mixture to continue stirring?",
+    "correct_answer": "To ensure that as much of the tin salt precipitates as possible so it can be filtered off.",
+    "incorrect_answer1": "To ensure that both nitro groups are fully reduced to amino groups without leaving partially reacted intermediates.",
+    "incorrect_answer2": "To keep the neutral tin suspended in the ethanol so it can fully reduce both nitro groups.",
+    "rationale": "The experimenter states they are letting it stir to ensure maximum precipitation of the tin salt, which they intend to filter off.",
+    "annotation_id": "380da4b6-f1c8-40c8-b751-afe919254888",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the video did the experimenter set up the apparatus being used for this filtration?",
+    "correct_answer": "1952s-1999s",
+    "incorrect_answer1": "2199s-2232s",
+    "incorrect_answer2": "3585s-3616s",
+    "annotation_id": "f7a9f6e2-4fc6-4610-be00-24ad8a62bda9",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2479s-2505s"
+  },
+  {
+    "question": "Why is the upcoming filtration expected to take a considerable amount of time?",
+    "correct_answer": "The precipitate is a fine powder, which will form a dense filter cake and restrict the flow of liquid.",
+    "incorrect_answer1": "The reaction produces gelatinous tin byproducts, which rapidly clog the microscopic pores of the filter paper during the process.",
+    "incorrect_answer2": "The thick red vacuum hose is overly flexible, which will cause it to collapse and restrict the suction power.",
+    "rationale": "The experimenter anticipates that the fine white powder will create a dense filter cake, making the filtration process slow. Test whether the student understands how the physical characteristics of the precipitate affect filtration time.",
+    "annotation_id": "2e1f078a-4e15-45a1-b85c-0139d9d6b8d6",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is stirring the solid residue in the funnel to speed up the slow filtration process. At what point in the past did the experimenter anticipate that this filtration would take a long time?",
+    "correct_answer": "1999s-2080s",
+    "incorrect_answer1": "2232s-2286s",
+    "incorrect_answer2": "3585s-3616s",
+    "annotation_id": "2e1f078a-4e15-45a1-b85c-0139d9d6b8d6",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2479s-2596s"
+  },
+  {
+    "question": "How does the experimenter plan to manage the large volume of solid precipitate during the upcoming filtration process?",
+    "correct_answer": "By actively removing portions of the solid from the filter funnel while the filtration is in progress.",
+    "incorrect_answer1": "By carefully decanting the supernatant liquid through the filter first before transferring the bulk of the solid.",
+    "incorrect_answer2": "By continuously dissolving portions of the yellow solid with DI water while the filtration is in progress.",
+    "rationale": "The experimenter explicitly states their intention to remove some of the solid during the filtration due to the large amount of compound present.",
+    "annotation_id": "5bdfa43e-3618-4bf1-b3db-04ced8c83f81",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is removing solid residue from the filter funnel. When did they first mention their plan to remove some of the solid during filtration due to the large amount of compound?",
+    "correct_answer": "1999s-2080s",
+    "incorrect_answer1": "2286s-2329s",
+    "incorrect_answer2": "3799s-3832s",
+    "annotation_id": "5bdfa43e-3618-4bf1-b3db-04ced8c83f81",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2598s-2672s"
+  },
+  {
+    "question": "Why does the experimenter retrieve a solid waste container during the filtration setup?",
+    "correct_answer": "To manually remove some of the precipitated salt as the filtration proceeds, which helps prevent the filter paper from clogging and speeds up the process.",
+    "incorrect_answer1": "To properly dispose of the unreacted solid tin metal recovered from the reaction mixture, ensuring heavy metal waste does not enter the liquid waste stream.",
+    "incorrect_answer2": "To discard the excess solid tin from the orange mixture before pouring it into the B\u00fcchner funnel, preventing further unwanted decomposition of the amino groups.",
+    "rationale": "The experimenter explicitly states they are grabbing a solid waste container to remove some of the salt to speed up the filtration.",
+    "annotation_id": "4e339837-0b92-42e8-87bf-d847391c1df8",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is now filtering the mixture. At what earlier point in the video did they assemble this filtration apparatus to save time while waiting for a previous step to complete?",
+    "correct_answer": "1999s-2080s",
+    "incorrect_answer1": "2199s-2232s",
+    "incorrect_answer2": "2539s-2570s",
+    "annotation_id": "8a593c46-95fa-4b97-a54a-6cc6629eaaf7",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2479s-2505s"
+  },
+  {
+    "question": "What is the primary function of the saturated sodium carbonate solution being introduced at this stage of the workup?",
+    "correct_answer": "To precipitate and remove residual tin and chloride ions from the solution.",
+    "incorrect_answer1": "To convert the protonated amine product into its free base for extraction.",
+    "incorrect_answer2": "To dissolve and extract the unreacted neutral tin from the orange suspension.",
+    "rationale": "The experimenter explicitly states that the saturated sodium carbonate is used to 'further remove any tin or chloride that's in solution.'",
+    "annotation_id": "445590f4-6799-4b7e-846c-a42097078266",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is preparing to add a saturated sodium carbonate wash to the separatory funnel. At what point in the past did they first retrieve this reagent and explain its purpose?",
+    "correct_answer": "2080s-2101s",
+    "incorrect_answer1": "2392s-2440s",
+    "incorrect_answer2": "2539s-2570s",
+    "annotation_id": "445590f4-6799-4b7e-846c-a42097078266",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3366s-3524s"
+  },
+  {
+    "question": "What is the primary purpose of the saturated sodium carbonate solution the experimenter is holding?",
+    "correct_answer": "To remove chloride ions introduced by the hydrochloric acid.",
+    "incorrect_answer1": "To neutralize the excess hydrochloric acid in the mixture.",
+    "incorrect_answer2": "To provide the acidic environment for the reduction reaction.",
+    "rationale": "The experimenter notes that the sodium carbonate is used to remove chloride ions introduced by the hydrochloric acid. Test whether the student knows this.",
+    "annotation_id": "31f9377b-b664-4508-a47b-1ff59e8d27ab",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the primary purpose of the brine wash that will be performed during the upcoming extraction?",
+    "correct_answer": "To remove excess ions from the organic phase.",
+    "incorrect_answer1": "To pull residual water from the organic layer.",
+    "incorrect_answer2": "To neutralize the excess hydrochloric acid in ethanol.",
+    "rationale": "The experimenter explicitly states that the brine wash will be used to 'wash any excess ions out' during the extraction process.",
+    "annotation_id": "821bab4b-c57c-4c05-bae2-73b7031cdf4c",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is in the process of performing liquid-liquid extraction washes. At what earlier point did they visually present the bottles of saturated sodium carbonate and brine that are required for this sequence of washes?",
+    "correct_answer": "2141s-2163s",
+    "incorrect_answer1": "2392s-2440s",
+    "incorrect_answer2": "2539s-2570s",
+    "annotation_id": "821bab4b-c57c-4c05-bae2-73b7031cdf4c",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2959s-3242s"
+  },
+  {
+    "question": "What visual cue indicates that the current step of the workup is likely complete?",
+    "correct_answer": "The mixture has stopped changing color.",
+    "incorrect_answer1": "The bubbling in the solution stops.",
+    "incorrect_answer2": "The bright orange suspension completely dissolves.",
+    "rationale": "The experimenter notes that they have not seen any more color change, leading them to conclude that the step is 'probably pretty good'.",
+    "annotation_id": "7cbcce30-2fde-4293-9b61-5c6c46669b6f",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the experimenter allowing the mixture to stir for a few more minutes?",
+    "correct_answer": "To ensure that as much tin precipitates as possible.",
+    "incorrect_answer1": "To guarantee that all the starting material is consumed.",
+    "incorrect_answer2": "To ensure the neutral tin completely reduces the ethanol.",
+    "rationale": "The experimenter states that they are giving the mixture a few more minutes to ensure that they are precipitating as much tin as possible. Test whether the student understands the purpose of this additional stirring time.",
+    "annotation_id": "1cf16729-4302-46e7-99f0-bdc8a2800ccc",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what prior point did the experimenter intentionally let the mixture stir for an extended period to maximize the amount of precipitate being filtered here?",
+    "correct_answer": "1906s-1952s",
+    "incorrect_answer1": "2163s-2199s",
+    "incorrect_answer2": "3516s-3565s",
+    "annotation_id": "1cf16729-4302-46e7-99f0-bdc8a2800ccc",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2505s-2568s"
+  },
+  {
+    "question": "At what moment does the experimenter observe a significant decrease in the rate of filtration?",
+    "correct_answer": "2286s-2293s",
+    "incorrect_answer1": "1070s-1077s",
+    "incorrect_answer2": "3778s-3785s",
+    "rationale": "The experimenter notes the slowing drip rate as an indicator of the filtration's progress. Testing this requires the student to monitor the flow rate and identify when it noticeably decelerates.",
+    "annotation_id": "11cba712-3cd1-4755-83f0-fb71527c6d20",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the experimenter likely planning to do with the solid being scooped out of the funnel?",
+    "correct_answer": "Dump it in a solid waste container.",
+    "incorrect_answer1": "Transfer it to a clean glass vial.",
+    "incorrect_answer2": "Recrystallize the pale solid using excess ethanol.",
+    "rationale": "The experimenter notes that they are getting a lot of solid and can dump it in a solid waste container.",
+    "annotation_id": "4a1d553e-aa30-485c-b716-d8630a59f7d0",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is now carefully scraping the solid residue from the funnel into a waste container. At what earlier point did they first use a spatula to stir this accumulating solid to facilitate the filtration process?",
+    "correct_answer": "2489s-2539s",
+    "incorrect_answer1": "2286s-2329s",
+    "incorrect_answer2": "3832s-3906s",
+    "annotation_id": "4a1d553e-aa30-485c-b716-d8630a59f7d0",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2598s-2672s"
+  },
+  {
+    "question": "What equipment is the experimenter likely planning to set up next?",
+    "correct_answer": "A separatory funnel for an extraction.",
+    "incorrect_answer1": "A reflux condenser for heating the reaction.",
+    "incorrect_answer2": "The blue hot plate for evaporation.",
+    "rationale": "The experimenter notes that they will be doing an extraction next and will need a separatory funnel. Test whether the student can anticipate the next logical step in the workup process.",
+    "annotation_id": "011e9e7f-0df1-4e99-be9f-68deec5cbc9c",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter test and set up the separatory funnel used for this extraction?",
+    "correct_answer": "2392s-2440s",
+    "incorrect_answer1": "2667s-2743s",
+    "incorrect_answer2": "2833s-2902s",
+    "annotation_id": "011e9e7f-0df1-4e99-be9f-68deec5cbc9c",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2886s-2933s"
+  },
+  {
+    "question": "At what point in the past did the experimenter test the equipment being used here to ensure it wouldn't get clogged?",
+    "correct_answer": "2392s-2440s",
+    "incorrect_answer1": "2232s-2286s",
+    "incorrect_answer2": "2622s-2667s",
+    "annotation_id": "fd2353ce-7deb-4519-bceb-fcb181ce2669",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2886s-2933s"
+  },
+  {
+    "question": "What is the experimenter likely concluding about the progress of the filtration at this stage?",
+    "correct_answer": "The filtration is nearly complete, as the majority of the liquid has successfully passed through the filter.",
+    "incorrect_answer1": "The filtration has stalled significantly, as the fine tin particles have clogged the pores of the filter.",
+    "incorrect_answer2": "The filtration has barely begun, as the thick yellow mixture remains completely trapped in the Buchner funnel.",
+    "rationale": "The experimenter notes that almost all the liquid has filtered through. Test whether the student can assess the progress of the filtration.",
+    "annotation_id": "14ed030c-4bf2-4883-9d68-b3f0ac646c29",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter visually confirm that the bulk of the solvent has successfully passed through the filter?",
+    "correct_answer": "2489s-2498s",
+    "incorrect_answer1": "2254s-2263s",
+    "incorrect_answer2": "3864s-3873s",
+    "rationale": "The experimenter assesses the state of the filtration, noting that the liquid has mostly passed through. This question tests the test taker's ability to recognize the visual cues of a nearly complete vacuum filtration step.",
+    "annotation_id": "14ed030c-4bf2-4883-9d68-b3f0ac646c29",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Even though the filtrate still contains water, what is the primary benefit of this filtration step?",
+    "correct_answer": "It removes some of the inorganic impurities.",
+    "incorrect_answer1": "It removes the unreacted solid tin particles.",
+    "incorrect_answer2": "It collects the solid diamino product on the filter paper.",
+    "rationale": "The experimenter notes that while the product is still combined with water, the filtration is successfully removing inorganic impurities. Test whether the student understands the purpose of this specific separation step.",
+    "annotation_id": "4757d5a2-8c7c-4994-a6c8-e27bbb6595dc",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the initial wash being performed directly in the filter funnel rather than later in a separatory funnel?",
+    "correct_answer": "The wash can produce gas, which is safer and less messy to handle in an open filter funnel than in a closed separatory funnel.",
+    "incorrect_answer1": "The crude mixture contains insoluble tin byproducts, which are much faster and easier to remove in an open filter funnel than in a separatory funnel.",
+    "incorrect_answer2": "The saturated sodium carbonate wash requires an open filter funnel to absorb atmospheric oxygen, fully oxidizing the tin waste and isolating the orange amino product.",
+    "rationale": "The experimenter notes that the wash can produce gas, which would be messy in a separatory funnel. Test whether the student understands this practical consideration.",
+    "annotation_id": "66ef5f47-9496-4b6f-be7e-4086a11b6fe5",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently performing an extraction in a separatory funnel. To prevent excessive gas buildup and messiness during this step, they previously performed an initial wash. When did they prepare for this by planning or performing the initial wash in a different vessel?",
+    "correct_answer": "2539s-2570s",
+    "incorrect_answer1": "2080s-2101s",
+    "incorrect_answer2": "2743s-2833s",
+    "annotation_id": "66ef5f47-9496-4b6f-be7e-4086a11b6fe5",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2959s-3242s"
+  },
+  {
+    "question": "Why is a strong stir bar preferred for the upcoming step?",
+    "correct_answer": "To ensure the initial wash is performed thoroughly.",
+    "incorrect_answer1": "To keep the heavy solid tin evenly suspended.",
+    "incorrect_answer2": "To dissolve the neutral tin in the ethanol.",
+    "rationale": "The experimenter notes that they want to do the initial wash thoroughly, which is why a strong stir bar is preferred. Test whether the student understands the practical reasoning behind equipment selection for this specific step.",
+    "annotation_id": "dcbefa50-a2f4-4872-bd8c-b988822eae3a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "When did the experimenter originally select and place the stir bar that is later used to manually agitate the solid residue in the filter funnel?",
+    "correct_answer": "1521s-1594s",
+    "incorrect_answer1": "3451s-3516s",
+    "incorrect_answer2": "500s-538s",
+    "annotation_id": "dcbefa50-a2f4-4872-bd8c-b988822eae3a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2568s-2596s"
+  },
+  {
+    "question": "Why does the experimenter anticipate being able to remove the solid from the funnel shortly?",
+    "correct_answer": "The solid appears to have dried sufficiently.",
+    "incorrect_answer1": "All of the solvent has completely drained.",
+    "incorrect_answer2": "The reduced amino solid must remain damp with ethanol.",
+    "rationale": "The experimenter notes that the solid is 'quite dried up' and therefore they should be able to remove it soon. Test whether the student recognizes this visual cue and its implication.",
+    "annotation_id": "1131e12f-1c65-46d2-9fb6-5db99c0406ed",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter take extra care to wipe the funnel with a paper towel after scraping out the solid?",
+    "correct_answer": "To remove any fine residual byproduct that might be stuck underneath, ensuring it does not remain in the filter funnel.",
+    "incorrect_answer1": "To eliminate traces of highly corrosive hydrochloric acid from the surface, protecting the experimenter from accidental burns during subsequent handling.",
+    "incorrect_answer2": "To intentionally collect the residual pink solid onto the paper towel, allowing for later extraction of the product using ethanol.",
+    "rationale": "The experimenter notes that it is smart to get any residual solid stuck underneath out so it doesn't get in the filter funnel, especially since it is a fine byproduct. Test whether the student understands this reasoning for the thorough cleaning.",
+    "annotation_id": "098810d4-0043-4c46-85d6-3ef607327173",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What process is the experimenter preparing to repeat?",
+    "correct_answer": "Vacuum filtration.",
+    "incorrect_answer1": "Rotary evaporation.",
+    "incorrect_answer2": "Gravity filtering the orange liquid.",
+    "rationale": "The experimenter notes that they will repeat the same process. Test whether the student knows that this refers to the vacuum filtration process.",
+    "annotation_id": "8bf94282-a53e-4263-874f-054b04140abc",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "While setting up a new piece of filter paper in the funnel, at what prior point did the experimenter mention they would be repeating this procedure?",
+    "correct_answer": "2667s-2743s",
+    "incorrect_answer1": "1999s-2080s",
+    "incorrect_answer2": "3585s-3616s",
+    "annotation_id": "8bf94282-a53e-4263-874f-054b04140abc",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2710s-2824s"
+  },
+  {
+    "question": "What chemical will be added to the filtrate next?",
+    "correct_answer": "Sodium bicarbonate",
+    "incorrect_answer1": "Sodium hydroxide",
+    "incorrect_answer2": "Hydrochloric acid",
+    "rationale": "The experimenter anticipates adding sodium bicarbonate to the filtrate next. Test whether the student knows this is the next logical step in this workup.",
+    "annotation_id": "082d6cdf-c930-4546-b68e-4c82a9630619",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the purpose of using sodium carbonate in the upcoming extraction step?",
+    "correct_answer": "To remove excess chloride ions that remain in the solution from the hydrochloric acid.",
+    "incorrect_answer1": "To neutralize the hydrochloric acid and convert the protonated amine into its free base.",
+    "incorrect_answer2": "To provide the acidic environment necessary to add protons onto the two amino groups.",
+    "rationale": "The experimenter notes that sodium carbonate will be used to remove excess chloride stuck in solution from hydrochloric acid. Test whether the student knows this.",
+    "annotation_id": "58a2298b-c6b5-46f2-a99f-14274a8935e8",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently performing a wash step to neutralize and remove a specific reagent added earlier in the experiment. At what point in the video was this reagent initially introduced?",
+    "correct_answer": "1018s-1129s",
+    "incorrect_answer1": "736s-748s",
+    "incorrect_answer2": "2080s-2101s",
+    "annotation_id": "58a2298b-c6b5-46f2-a99f-14274a8935e8",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2959s-3366s"
+  },
+  {
+    "question": "Why does the experimenter choose to perform the initial washing step in an Erlenmeyer flask instead of a separatory funnel?",
+    "correct_answer": "The mixture is fairly reactive, making it preferable to conduct the initial wash in an open vessel to avoid pressure build-up.",
+    "incorrect_answer1": "The reduction produces insoluble tin salts that can easily clog the narrow stopcock of a separatory funnel during the initial wash.",
+    "incorrect_answer2": "The bright orange mixture is highly volatile, making it preferable to conduct the saturated sodium carbonate wash under a continuous vacuum.",
+    "rationale": "The experimenter notes that the mixture is fairly reactive and therefore avoids doing the initial wash in the closed environment of a separatory funnel. Test whether the student understands this practical safety and handling consideration.",
+    "annotation_id": "77fab306-3c6e-4da5-875e-81a0d3a7f59d",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is adding a reagent without measuring it precisely, anticipating that it will not cause any unwanted chemistry. When did they previously explain the specific role of this reagent?",
+    "correct_answer": "2392s-2440s",
+    "incorrect_answer1": "748s-855s",
+    "incorrect_answer2": "2080s-2101s",
+    "annotation_id": "f50be081-4f6d-4dd4-8af9-a33c536e75b1",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2753s-2764s"
+  },
+  {
+    "question": "At what point does the experimenter observe a visual indicator suggesting the reaction was successful?",
+    "correct_answer": "2769s-2774s",
+    "incorrect_answer1": "3068s-3073s",
+    "incorrect_answer2": "2037s-2042s",
+    "rationale": "The experimenter interprets the dark color of the mixture as a positive indication of the reaction's progress. This tests the student's ability to link the visual appearance of the product mixture to a successful outcome.",
+    "annotation_id": "03b1df04-87c5-4f9f-8f06-b7d0c89e13f7",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the primary purpose of the planned brine washes?",
+    "correct_answer": "To remove any remaining excess ions.",
+    "incorrect_answer1": "To extract water from the organic phase.",
+    "incorrect_answer2": "To dissolve the unreacted tin in the red solution.",
+    "rationale": "The experimenter explicitly states that the brine washes will help remove any other excess ions.",
+    "annotation_id": "1ff56ec5-9eb6-4f6f-827b-5ea32e67485a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the purpose of the planned final water wash?",
+    "correct_answer": "To remove any residual salty brine.",
+    "incorrect_answer1": "To wash away unreacted hydrochloric acid.",
+    "incorrect_answer2": "To dissolve any unreacted neutral tin.",
+    "rationale": "The experimenter notes that a final water wash will be done to make sure there's no salty brine left. Test whether the student knows this.",
+    "annotation_id": "fb2a713a-41a7-420a-8960-808c2e1a45c8",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the identity of the bottom layer in the separatory funnel, and what will the experimenter do with it?",
+    "correct_answer": "It is the aqueous layer, and it will be discarded as waste.",
+    "incorrect_answer1": "It is the organic layer, and it will be collected for evaporation.",
+    "incorrect_answer2": "It is the ethanol layer containing the diamino product, and it will be saved.",
+    "rationale": "The experimenter identifies the bottom layer as the aqueous layer and states that it is waste. Test whether the student can deduce this based on the densities of the solvents used and the goals of the workup.",
+    "annotation_id": "6d16f487-4417-443c-93be-19f86d660d74",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the video did the experimenter set up the flask that is used to collect the aqueous waste layer?",
+    "correct_answer": "1952s-1999s",
+    "incorrect_answer1": "2392s-2440s",
+    "incorrect_answer2": "2902s-2953s",
+    "annotation_id": "6d16f487-4417-443c-93be-19f86d660d74",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2886s-2933s"
+  },
+  {
+    "question": "At what moment does the experimenter visually confirm that the material has fully dissolved into the solvent?",
+    "correct_answer": "2966s-2979s",
+    "incorrect_answer1": "2782s-2795s",
+    "incorrect_answer2": "3150s-3163s",
+    "rationale": "The experimenter uses the visual homogeneity of the solution to infer that the dissolution step is complete. This question tests the student's ability to recognize the visual endpoint of a dissolution process.",
+    "annotation_id": "90a8056e-3734-4305-8b63-d55683fb7c5c",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What earlier action was taken to preserve a backup of the mixture in case a re-extraction was needed due to an error?",
+    "correct_answer": "2833s-2902s",
+    "incorrect_answer1": "1786s-1829s",
+    "incorrect_answer2": "3322s-3394s",
+    "annotation_id": "2b5671c2-4fda-470f-9a8e-dbc88535e602",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "3565s-3795s"
+  },
+  {
+    "question": "What is the purpose of the liquid being added to the separatory funnel at the end of the clip?",
+    "correct_answer": "To perform another sodium carbonate wash.",
+    "incorrect_answer1": "To extract the product with dichloromethane.",
+    "incorrect_answer2": "To precipitate the amino product with clear ethanol.",
+    "rationale": "The experimenter states they are going to do one more sodium carbonate wash.",
+    "annotation_id": "59ab3336-6ddc-4976-8eec-e7ee73fceb95",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the apparatus not spray everywhere when the experimenter opens it?",
+    "correct_answer": "The initial wash was performed thoroughly on a stir plate, which prevented excessive gas buildup.",
+    "incorrect_answer1": "The reaction mixture was cooled completely in an ice bath, which lowered the internal pressure.",
+    "incorrect_answer2": "The lighter orange ethanol layer formed a highly viscous seal, which contained the massive gas pressure.",
+    "rationale": "The experimenter notes that the lack of spraying when venting the separatory funnel is due to having done the initial wash thoroughly on a stir plate. Test whether the student understands this reasoning.",
+    "annotation_id": "915c5611-e12a-46fa-b91c-b801c4f82dd1",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is venting the separatory funnel safely without it spraying everywhere, which was prevented by a thorough initial wash done earlier. At what point in the video did the experimenter perform this initial wash on a magnetic stir plate?",
+    "correct_answer": "1786s-1829s",
+    "incorrect_answer1": "2743s-2833s",
+    "incorrect_answer2": "2539s-2570s",
+    "annotation_id": "915c5611-e12a-46fa-b91c-b801c4f82dd1",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2959s-3242s"
+  },
+  {
+    "question": "At what moment does the experimenter interpret a change in the mixture's appearance as a positive indicator for the reaction?",
+    "correct_answer": "3082s-3101s",
+    "incorrect_answer1": "2778s-2797s",
+    "incorrect_answer2": "3474s-3493s",
+    "rationale": "The experimenter links the lightening color of the mixture to a favorable reaction state. This tests whether the student can identify this specific visual transition and understand its positive implication.",
+    "annotation_id": "e582ba1c-9826-41ad-bf94-2cb7850e178d",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the experimenter likely observing about the mixture in the separatory funnel?",
+    "correct_answer": "The two phases have separated exceptionally well.",
+    "incorrect_answer1": "The mixture has formed a stubborn emulsion.",
+    "incorrect_answer2": "The dark red mixture has crystallized completely.",
+    "rationale": "The experimenter notes that the mixture separated super well. Test whether the student can observe the clear phase boundary and infer this thought.",
+    "annotation_id": "6b33d4bb-6b79-4c92-b5c0-0b467b74ec01",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter observe that the mixture has achieved a highly effective phase separation?",
+    "correct_answer": "3126s-3133s",
+    "incorrect_answer1": "3406s-3413s",
+    "incorrect_answer2": "2924s-2931s",
+    "rationale": "The experimenter evaluates the quality of the separation based on how quickly and distinctly the layers form after stirring stops. This question tests the viewer's ability to recognize the visual hallmarks of a successful phase separation.",
+    "annotation_id": "6b33d4bb-6b79-4c92-b5c0-0b467b74ec01",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At the end of the clip, the experimenter points to a specific level on the separatory funnel. What does this gesture indicate?",
+    "correct_answer": "The intended volume for the next wash, which is chosen based on how vigorously they plan to agitate the mixture.",
+    "incorrect_answer1": "The expected phase boundary between the two liquid layers, which is monitored to ensure the desired product is fully separated.",
+    "incorrect_answer2": "The target volume for the ethanol solvent, which is scaled specifically to maintain the correct acidity alongside the hydrochloric acid.",
+    "rationale": "The experimenter points to the funnel to show how much liquid they will add ('go up to like there') and links this volume to their plan for mixing ('don't want to agitate it too much').",
+    "annotation_id": "c8977647-b3e4-4f67-895b-afc05afefcb1",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter intentionally limit the amount of liquid added to the funnel to ensure there was enough empty space for this agitation?",
+    "correct_answer": "3082s-3232s",
+    "incorrect_answer1": "2199s-2232s",
+    "incorrect_answer2": "2833s-2902s",
+    "annotation_id": "c8977647-b3e4-4f67-895b-afc05afefcb1",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3148s-3242s"
+  },
+  {
+    "question": "Why did the experimenter choose a separatory funnel with a larger opening?",
+    "correct_answer": "To prevent any residual solid from clogging the stopcock.",
+    "incorrect_answer1": "To easily pour the entire reaction mixture without spilling.",
+    "incorrect_answer2": "To allow the dark red ethanol solution to drain faster.",
+    "rationale": "The experimenter states they chose the bigger opening funnel because they probably still have a little bit of solid left in the mixture, which could clog a smaller opening.",
+    "annotation_id": "33553cad-b124-41f6-8b93-7be7fb8eaa91",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is it acceptable that a small amount of the aqueous layer remains in the separatory funnel?",
+    "correct_answer": "A subsequent brine wash will remove the remaining aqueous components.",
+    "incorrect_answer1": "A drying agent like magnesium sulfate will eliminate residual water.",
+    "incorrect_answer2": "The remaining clear aqueous layer is required to hydrate the dark red organic phase.",
+    "rationale": "The experimenter notes that it is okay to leave some of the aqueous layer because the brine will eventually get it. Test whether the student knows this.",
+    "annotation_id": "81b67958-3659-4e2d-b7bf-f89b659695e1",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What does the experimenter notice about the bottom layer?",
+    "correct_answer": "Its color is lighter than before.",
+    "incorrect_answer1": "Its volume is smaller than expected.",
+    "incorrect_answer2": "The hydrochloric acid layer is darker than before.",
+    "rationale": "The experimenter comments 'And then it's even lighter now.' Test whether the student understands that the experimenter is monitoring the color of the aqueous washes to track the progress of the extraction.",
+    "annotation_id": "b4830ab9-d6f8-4725-9b6a-6c3d32f2a77b",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter note visual evidence that the reaction is continuing to progress through its expected stages?",
+    "correct_answer": "3227s-3228s",
+    "incorrect_answer1": "2788s-2789s",
+    "incorrect_answer2": "3070s-3071s",
+    "rationale": "The experimenter observes the continued lightening of the mixture's color and infers that the reaction is progressing. This tests the viewer's ability to track the reaction's state and recognize significant milestones in its evolution.",
+    "annotation_id": "b4830ab9-d6f8-4725-9b6a-6c3d32f2a77b",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is forming at the bottom of the glassware?",
+    "correct_answer": "The aqueous layer.",
+    "incorrect_answer1": "The organic layer.",
+    "incorrect_answer2": "The unreacted neutral tin.",
+    "rationale": "The experimenter notes that something is forming at the bottom. Test whether the student knows this refers to the aqueous layer separating from the organic layer.",
+    "annotation_id": "22b81301-8a73-4328-b3db-dd2845c9ce7e",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter first observe a visual indication that the reaction is proceeding favorably?",
+    "correct_answer": "3230s-3232s",
+    "incorrect_answer1": "2787s-2789s",
+    "incorrect_answer2": "1190s-1192s",
+    "rationale": "The experimenter interprets the color change as a positive sign for the reaction. This question tests the ability to connect a specific visual change (color shift) to a scientific assessment of the reaction's progress.",
+    "annotation_id": "7879a040-41e9-41e2-a4c0-18eac114a8ef",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the experimenter's plan for the remaining washes after the current one is complete?",
+    "correct_answer": "One brine wash followed by one water wash.",
+    "incorrect_answer1": "One sodium bicarbonate wash followed by one brine wash.",
+    "incorrect_answer2": "One hydrochloric acid wash followed by one ethanol wash.",
+    "rationale": "The experimenter explicitly states their plan for the remaining steps in the extraction: \"And then I'll do just one brine and then one quick water wash as well.\"",
+    "annotation_id": "1351a100-062c-4ba1-8720-cc1f7199b752",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter assess that the incomplete transfer of material from the flask is not a concern?",
+    "correct_answer": "3292s-3297s",
+    "incorrect_answer1": "1188s-1193s",
+    "incorrect_answer2": "1138s-1143s",
+    "rationale": "The experimenter observes the small amount of solid remaining in the flask and concludes it is negligible. This tests the viewer's ability to recognize when an experimenter evaluates the completeness of a transfer and judges the residue to be acceptable.",
+    "annotation_id": "145e064b-b3c2-47d1-b228-2ab1b4f7d24c",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the experimenter likely observing about the mixture at this moment?",
+    "correct_answer": "The separation between the two liquid layers has become much more distinct and clear.",
+    "incorrect_answer1": "The solid tin is reacting with the acid, causing vigorous bubbling in the flask.",
+    "incorrect_answer2": "The boundary between the dark and orange layers has become completely clouded with precipitate.",
+    "rationale": "The experimenter explicitly notes that \"it's a much more clear layer separation now,\" indicating they are observing the improved definition between the two phases.",
+    "annotation_id": "d66b97aa-52e4-4019-8f8a-4a0c6d4a371a",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter observe a visual indicator that the desired product has likely formed?",
+    "correct_answer": "3420s-3424s",
+    "incorrect_answer1": "3069s-3073s",
+    "incorrect_answer2": "2926s-2930s",
+    "rationale": "The experimenter interprets the pale color of the filtered solid as a 'really good sign', implying successful product formation. This tests the ability to connect the visual appearance of the precipitate with a positive assessment of the reaction's outcome.",
+    "annotation_id": "679c7151-7756-4814-957a-5e28f255cdda",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "How will the experimenter determine the appropriate size for the Erlenmeyer flask they are about to retrieve?",
+    "correct_answer": "They will base it on the amount of solvent added previously.",
+    "incorrect_answer1": "They will select it according to the mass of starting material.",
+    "incorrect_answer2": "They will base it on the mass of the tin reducing agent.",
+    "rationale": "The experimenter notes that the size of the Erlenmeyer flask will be based on the amount of solvent added previously. Test whether the student knows this.",
+    "annotation_id": "862636b6-13bb-4e0c-a6ac-631e490a44a3",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What visual characteristic of the mixture in the separatory funnel is the experimenter likely evaluating positively?",
+    "correct_answer": "The color of the mixture.",
+    "incorrect_answer1": "The separation of the layers.",
+    "incorrect_answer2": "The absence of tin particles.",
+    "rationale": "The experimenter explicitly notes that the color of the mixture looks really good, indicating it is a positive sign for the reaction's progress or outcome.",
+    "annotation_id": "a493e160-52c5-4794-a97b-129400d29756",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter conclude that the reaction outcome is promising based on the visual appearance of the collected filtrate?",
+    "correct_answer": "3451s-3470s",
+    "incorrect_answer1": "3062s-3081s",
+    "incorrect_answer2": "3268s-3287s",
+    "rationale": "The experimenter infers that the reaction is proceeding well ('looks really good') based on the color of the filtrate. The question tests whether the student can identify when this visual assessment of the intermediate product takes place.",
+    "annotation_id": "a493e160-52c5-4794-a97b-129400d29756",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why does the experimenter plan to use a large stir bar?",
+    "correct_answer": "To distribute the heterogeneous magnesium sulfate so it can absorb excess water.",
+    "incorrect_answer1": "To suspend the heavy solid tin so it can reduce the nitro groups.",
+    "incorrect_answer2": "To distribute the solid neutral tin so it can reduce the red solution.",
+    "rationale": "The experimenter notes that a large stir bar is needed to distribute the heterogeneous magnesium sulfate, which will grab excess water. Test whether the student knows this.",
+    "annotation_id": "4fd98444-bf2d-4fd0-ab20-aad9ab8ac7b3",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is preparing to add magnesium sulfate to the organic layer in the Erlenmeyer flask and stir the mixture. At what point in the video did they prepare for this by placing a stir bar into this flask?",
+    "correct_answer": "1468s-1521s",
+    "incorrect_answer1": "93s-159s",
+    "incorrect_answer2": "3322s-3394s",
+    "annotation_id": "cf504df2-36dc-4589-8947-af3e00123015",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3565s-3795s"
+  },
+  {
+    "question": "The experimenter is currently holding a round-bottom flask containing the reaction mixture. When did they first state their intention to use this specific type of flask to make solvent removal easier?",
+    "correct_answer": "3516s-3565s",
+    "incorrect_answer1": "93s-159s",
+    "incorrect_answer2": "2539s-2570s",
+    "annotation_id": "57fcfd6b-c373-45cb-85e8-e53e0e8d184e",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3795s-3824s"
+  },
+  {
+    "question": "The experimenter is scraping solid material from the round-bottom flask to transfer it. At what earlier point did they verify that enough drying agent had been added to the organic layer to ensure no residual water would remain in this product?",
+    "correct_answer": "3763s-3799s",
+    "incorrect_answer1": "3516s-3565s",
+    "incorrect_answer2": "1769s-1786s",
+    "annotation_id": "7b2928a8-dfb5-41f8-abf3-9014c1766221",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3795s-3824s"
+  },
+  {
+    "question": "Why is gravity filtration chosen over vacuum filtration for this step?",
+    "correct_answer": "The solid being filtered is very coarse, making vacuum filtration unnecessary.",
+    "incorrect_answer1": "The hot ethanol solvent would rapidly boil and evaporate under reduced pressure.",
+    "incorrect_answer2": "Vacuum filtration would pull the unreacted tin through the filter paper.",
+    "rationale": "The experimenter notes that the magnesium sulfate is very coarse, so they don't need to vacuum filter and will just do a gravity filter. Test whether the student knows this.",
+    "annotation_id": "b5fed180-a864-42d5-96bc-3e24b212bd16",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter plan to perform a final rinse of the solid material in the funnel?",
+    "correct_answer": "To wash any remaining product off the magnesium sulfate and ensure it is collected in the filtrate.",
+    "incorrect_answer1": "To flush any trapped amino product from the unreacted tin and maximize the overall reaction yield.",
+    "incorrect_answer2": "To wash unreacted tin off the reduced amino product and ensure it remains in the orange funnel.",
+    "rationale": "The experimenter notes they will do a final rinse to ensure any product remaining in the magnesium sulfate gets through. Test whether the student understands the purpose of rinsing a drying agent after filtration.",
+    "annotation_id": "243de291-f234-4a50-bf08-d258c8321d6a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is performing a final rinse of the flask that contained the solid drying agent. At what point in the past was the experimenter filtering the bulk of the dried mixture, preparing for this final step to ensure maximum product recovery?",
+    "correct_answer": "3616s-3705s",
+    "incorrect_answer1": "2232s-2286s",
+    "incorrect_answer2": "3832s-3906s",
+    "annotation_id": "243de291-f234-4a50-bf08-d258c8321d6a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3565s-3795s"
+  },
+  {
+    "question": "How will the solid product likely be purified after the solvents are evaporated?",
+    "correct_answer": "By rinsing it with a small amount of ethyl acetate and then ether.",
+    "incorrect_answer1": "By recrystallizing it from a hot mixture of ethanol and distilled water.",
+    "incorrect_answer2": "By recrystallizing it from the dark red ethanol and hydrochloric acid reaction mixture.",
+    "rationale": "The experimenter plans to rinse the solid with a little bit of ethyl acetate and ether to remove impurities like starting material or mono-reduced species. Test whether the student anticipates this purification method.",
+    "annotation_id": "3c99342f-906c-4dfd-a429-3067d7dc46d0",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter plan to use the solvent in the squeeze bottle during the transfer of the scraped product?",
+    "correct_answer": "To wash out residual organic byproducts or impurities.",
+    "incorrect_answer1": "To rinse the remaining solid into the flask.",
+    "incorrect_answer2": "To dissolve the reduced amino product using the ethanol.",
+    "rationale": "The experimenter explicitly states that transferring the product with ethyl acetate will help to rinse or wash out residual organic byproducts or impurities.",
+    "annotation_id": "af0fb07d-4dcf-44b2-a284-401938e6bd94",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past was the experimenter preparing the solution to isolate the solid material that is currently being scraped and transferred?",
+    "correct_answer": "3616s-3705s",
+    "incorrect_answer1": "1222s-1298s",
+    "incorrect_answer2": "2392s-2440s",
+    "annotation_id": "af0fb07d-4dcf-44b2-a284-401938e6bd94",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3828s-3960s"
+  },
+  {
+    "question": "Why is ether chosen for the final wash of the powder?",
+    "correct_answer": "It has a very low boiling point, making it easy to remove during the drying process.",
+    "incorrect_answer1": "It effectively removes unreacted organic starting materials without accidentally dissolving the newly formed amine salt product.",
+    "incorrect_answer2": "It permanently binds to the amino groups in the orange funnel, preventing over-reduction by neutral tin.",
+    "rationale": "The experimenter states that ether is a very low boiling point solvent, which is advantageous for completely drying the solid in the vacuum oven.",
+    "annotation_id": "1660096e-cf3f-469f-8b2d-89c60e3b2ef0",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter outline their plan to perform this specific wash and subsequent drying step?",
+    "correct_answer": "3616s-3705s",
+    "incorrect_answer1": "3232s-3322s",
+    "incorrect_answer2": "4030s-4051s",
+    "annotation_id": "1660096e-cf3f-469f-8b2d-89c60e3b2ef0",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4019s-4095s"
+  },
+  {
+    "question": "How would you describe the color of the residue left on the walls of the flask?",
+    "correct_answer": "Greenish orange-red",
+    "incorrect_answer1": "Light yellowish-brown",
+    "incorrect_answer2": "Silvery-grey from unreacted tin",
+    "rationale": "The experimenter describes the color of the residue as greenish orange-red. Test whether the student can observe this detail.",
+    "annotation_id": "2af5d4bf-7fc1-4d72-8930-07439ca49d4d",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter visually confirm that the intermediate product has the expected appearance?",
+    "correct_answer": "3920s-3928s",
+    "incorrect_answer1": "1774s-1782s",
+    "incorrect_answer2": "2784s-2792s",
+    "rationale": "The experimenter observes the orange color of the solid and assesses it as \"good,\" indicating it matches expectations. This tests the viewer's ability to recognize when a visual characteristic is being used as a positive indicator of progress.",
+    "annotation_id": "dd18e616-cbda-4a92-8601-67968018bf32",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what point in the video did the experimenter prepare for this separation by weighing the tube and loading it into the machine?",
+    "correct_answer": "3960s-4013s",
+    "incorrect_answer1": "3799s-3832s",
+    "incorrect_answer2": "4138s-4172s",
+    "annotation_id": "0a812bdd-28dd-4cd4-8f5f-d8f3c86458ca",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4158s-4183s"
+  },
+  {
+    "question": "What is the intended purpose of the oven shown at the end of the clip?",
+    "correct_answer": "To evaporate excess solvent, such as ether or ethyl acetate, to isolate the final product.",
+    "incorrect_answer1": "To remove residual water from the filtered amino compound, ensuring a completely dry final product.",
+    "incorrect_answer2": "To dry the glass funnel and flask before adding the tin and hydrochloric acid.",
+    "rationale": "The experimenter explicitly mentions using the oven to evaporate excess ether or ethyl acetate to be left with the product.",
+    "annotation_id": "809b1005-5aad-46f5-a34d-68ff7a6059f9",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the liquid being poured from the centrifuge tube into the beaker?",
+    "correct_answer": "The liquid is an unwanted supernatant being discarded as waste.",
+    "incorrect_answer1": "The liquid contains the desired product separated from solid tin.",
+    "incorrect_answer2": "The reddish-brown liquid is the desired amino product being collected.",
+    "rationale": "The experimenter notes that the darker orangey supernatant is unwanted and pours it into the waste beaker. Test whether the student understands that this step is to discard the unwanted liquid.",
+    "annotation_id": "f4241186-db43-4a32-a6a0-7046d74482e8",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter visually confirm that the retained phase exhibits the desired appearance?",
+    "correct_answer": "4051s-4054s",
+    "incorrect_answer1": "4282s-4285s",
+    "incorrect_answer2": "4272s-4275s",
+    "rationale": "The experimenter evaluates the color of the isolated upper layer as 'great', indicating it matches expectations for this stage of the procedure. This question tests the viewer's ability to recognize when a visual check of the product's state is being performed following a separation step.",
+    "annotation_id": "49d850a8-78f8-480b-acd2-7eb48bdbe081",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "How does the volume of the solvent being added compare to the volume of ethyl acetate used previously?",
+    "correct_answer": "A slightly larger volume is used.",
+    "incorrect_answer1": "A significantly smaller volume is used.",
+    "incorrect_answer2": "A smaller volume of ethanol is poured from the beaker.",
+    "rationale": "The experimenter notes that they are using 'a little bit more than we did with the ethyl acetate'.",
+    "annotation_id": "19023bb1-d79d-4f25-80b3-22de96222769",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the experimenter's plan for the contents of the tube after this centrifugation step is complete?",
+    "correct_answer": "To discard the supernatant and dry the remaining solid to determine the final yield.",
+    "incorrect_answer1": "To decant the liquid into another flask and concentrate it to isolate the product.",
+    "incorrect_answer2": "To decant the ethanol supernatant and analyze the solid tin pellet for unreacted nitro groups.",
+    "rationale": "The experimenter explicitly states their plan to pour off the supernatant, dry the solid, and get a final yield.",
+    "annotation_id": "902b6923-c85d-4ac7-8104-5558e5ee449b",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is now pouring off the liquid supernatant. At what point in the past did they start the centrifuge to achieve this separation?",
+    "correct_answer": "4138s-4172s",
+    "incorrect_answer1": "3906s-3960s",
+    "incorrect_answer2": "4013s-4030s",
+    "annotation_id": "902b6923-c85d-4ac7-8104-5558e5ee449b",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "4158s-4183s"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that the solid pellet is sufficiently clean, making an additional wash step unnecessary?",
+    "correct_answer": "4161s-4171s",
+    "incorrect_answer1": "3066s-3076s",
+    "incorrect_answer2": "3200s-3210s",
+    "rationale": "The experimenter uses the slight color of the supernatant as an indicator that the wash was effective enough. This question tests the viewer's ability to recognize when a visual assessment of a supernatant dictates the next procedural step.",
+    "annotation_id": "dcb451e4-cc6e-4356-b2c9-11f459e0df6f",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the experimenter's assessment of the color of the solid residue?",
+    "correct_answer": "They think the green color looks great.",
+    "incorrect_answer1": "They worry the brown color indicates unwanted decomposition.",
+    "incorrect_answer2": "They think the green solid indicates undesirable decomposition.",
+    "rationale": "The experimenter notes that the green color looks great. Test whether the student knows this.",
+    "annotation_id": "35d41785-7179-4194-bfd7-e0e3480f40ff",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter visually confirm that the isolated solid product has the expected appearance?",
+    "correct_answer": "4171s-4173s",
+    "incorrect_answer1": "4040s-4042s",
+    "incorrect_answer2": "4294s-4296s",
+    "rationale": "The experimenter observes the green color of the solid pellet and infers that it looks \"great\", indicating it has the expected appearance for the product. This tests the viewer's ability to link the visual appearance of the newly isolated solid to an assessment of its quality.",
+    "annotation_id": "35d41785-7179-4194-bfd7-e0e3480f40ff",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why is the temperature of the vacuum oven set to a relatively low 50-60 \u00b0C?",
+    "correct_answer": "Because the solvent being evaporated has a low boiling point.",
+    "incorrect_answer1": "Because the final amino product may decompose at higher temperatures.",
+    "incorrect_answer2": "Because the Fisherbrand Isotemp oven's maximum temperature is 60 \u00b0C.",
+    "rationale": "The experimenter notes that ether has a low boiling point, so they don't need to heat it too hot.",
+    "annotation_id": "0dd25c64-fea2-4076-97e2-f46a461a98c0",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "When did the experimenter discuss the rationale for the temperature setting being applied here?",
+    "correct_answer": "4230s-4263s",
+    "incorrect_answer1": "258s-324s",
+    "incorrect_answer2": "1129s-1153s",
+    "annotation_id": "0dd25c64-fea2-4076-97e2-f46a461a98c0",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "0s-29s"
+  },
+  {
+    "question": "What is the experimenter's expectation regarding the drying time of the sample in the oven?",
+    "correct_answer": "They anticipate it will dry quickly but plan to leave it in for over an hour as a precaution.",
+    "incorrect_answer1": "They expect the drying process to be quite slow, so they intend to leave the sample in the oven overnight.",
+    "incorrect_answer2": "They anticipate it will dry slowly and plan to leave the foil-wrapped tube in the Isotemp oven overnight.",
+    "rationale": "The experimenter explicitly states that while it should dry in a short time, they will leave it for over an hour to be safe. This tests the student's ability to anticipate the experimenter's cautious methodology.",
+    "annotation_id": "c63cdcc2-8a51-4212-b4d5-2c11e94874db",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is now removing the sample from the vacuum oven. At what point in the past did they place the sample in the oven to dry?",
+    "correct_answer": "4230s-4263s",
+    "incorrect_answer1": "4051s-4082s",
+    "incorrect_answer2": "4013s-4030s",
+    "annotation_id": "c63cdcc2-8a51-4212-b4d5-2c11e94874db",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4264s-4305s"
+  },
+  {
+    "question": "Upon inspecting the contents of the tube, what color indicates that the product is likely pure, and what colors would suggest the presence of impurities?",
+    "correct_answer": "A lighter green indicates purity, while orange or reddish colors suggest impurities.",
+    "incorrect_answer1": "A clear white indicates purity, while yellow or dark brown colors suggest impurities.",
+    "incorrect_answer2": "Orange indicates complete nitro reduction, while dark green suggests unreacted tin impurities.",
+    "rationale": "The experimenter notes that they are looking for a lighter green color and want to avoid any orange or reddish hues to confirm that the product is almost entirely pure.",
+    "annotation_id": "4be534f8-5653-4b56-8e81-32fe107724a7",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter visually conclude that the retained product layer is largely free of colored impurities?",
+    "correct_answer": "4271s-4286s",
+    "incorrect_answer1": "1770s-1785s",
+    "incorrect_answer2": "3808s-3823s",
+    "rationale": "The experimenter uses the color of the top layer (lighter green vs. orange/reddish) as an indicator of purity. The question tests if the viewer can identify the moment this visual assessment is made based on the separation of the colored layers.",
+    "annotation_id": "4be534f8-5653-4b56-8e81-32fe107724a7",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what point in the video did the experimenter select the specific stir bar that is now being used to stir the reaction mixture?",
+    "correct_answer": "500s-538s",
+    "incorrect_answer1": "93s-159s",
+    "incorrect_answer2": "2392s-2440s",
+    "annotation_id": "905a5b31-3178-4b58-a377-3e4b82650938",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "560s-736s"
+  },
+  {
+    "question": "The experimenter is now adding a solution to the reaction mixture in a large Erlenmeyer flask. At what point in the past did they select this specific flask and equip it with a stir bar?",
+    "correct_answer": "1468s-1521s",
+    "incorrect_answer1": "93s-159s",
+    "incorrect_answer2": "2539s-2570s",
+    "annotation_id": "f40ad3ec-d9a4-4806-8c9c-dd258e7730b7",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1806s-1903s"
+  },
+  {
+    "question": "What visual change is expected to occur in the reaction mixture after 30 to 40 minutes?",
+    "correct_answer": "A color change.",
+    "incorrect_answer1": "A white precipitate.",
+    "incorrect_answer2": "No change to the grey tin suspension.",
+    "rationale": "The experimenter anticipates a color change after 30 to 40 minutes. Test whether the student knows this.",
+    "annotation_id": "73d38715-42e7-4974-ba7a-054e1559904b",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "How has the stirring changed, and how long will the reaction be left to proceed?",
+    "correct_answer": "The stirring has improved, and the reaction will be left for an additional 24 hours.",
+    "incorrect_answer1": "The stirring has slowed down significantly, and the reaction will proceed for twelve more hours.",
+    "incorrect_answer2": "The stirring has halted in the thick yellow solid, and the reaction will proceed for 2 hours.",
+    "rationale": "The experimenter notes that the stirring is much better now and plans to leave the reaction for an additional 24 hours. Test whether the student can observe the improved stirring and anticipate the required reaction time.",
+    "annotation_id": "1c51931a-bcdc-4ac1-93a2-6d69b03a92ca",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter observes that the mixture is now stirring much better. At what point in the past did they troubleshoot the poor stirring and decide to look for an alternative stir bar?",
+    "correct_answer": "408s-500s",
+    "incorrect_answer1": "93s-159s",
+    "incorrect_answer2": "630s-736s",
+    "annotation_id": "1c51931a-bcdc-4ac1-93a2-6d69b03a92ca",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1158s-1168s"
+  },
+  {
+    "question": "Approximately how much time has passed between the first shot of the yellow mixture and the second shot of the brownish-yellow mixture?",
+    "correct_answer": "24 hours",
+    "incorrect_answer1": "30 minutes",
+    "incorrect_answer2": "10 minutes to cool to 19.6\u00b0C",
+    "rationale": "The experimenter states that they let the reaction run for another 24 hours. Test whether the student can anticipate the timescale of this reaction step.",
+    "annotation_id": "2aba1883-89e2-4080-b330-ddc6edd310fd",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point did the experimenter state that the reaction would be left to run for 24 hours?",
+    "correct_answer": "1182s-1200s",
+    "incorrect_answer1": "3516s-3565s",
+    "incorrect_answer2": "630s-736s",
+    "annotation_id": "2aba1883-89e2-4080-b330-ddc6edd310fd",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1183s-1261s"
+  },
+  {
+    "question": "The experimenter is removing some of the solid from the beaker to correct the weight. At what point did they anticipate that it would be difficult to add the exact right amount?",
+    "correct_answer": "1298s-1392s",
+    "incorrect_answer1": "736s-748s",
+    "incorrect_answer2": "2199s-2232s",
+    "annotation_id": "3f1a9252-fb20-449b-a1a3-f22e93245785",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1307s-1354s"
+  },
+  {
+    "question": "What visual change occurs in the reaction mixture as the clear liquid is added?",
+    "correct_answer": "It becomes darker.",
+    "incorrect_answer1": "It becomes cloudy.",
+    "incorrect_answer2": "The yellow ethanol mixture turns clear.",
+    "rationale": "The experimenter notes that the solution turns dark as more of the clear liquid is added. Test whether the student observes this.",
+    "annotation_id": "36f1e345-ba10-477a-95b3-71046d2486de",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter retrieve the bottle of brine they are about to use?",
+    "correct_answer": "2833s-2902s",
+    "incorrect_answer1": "3232s-3322s",
+    "incorrect_answer2": "2392s-2440s",
+    "annotation_id": "ef6b3e03-494f-413a-8ae3-e78a2f5b02ec",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "3322s-3373s"
+  },
+  {
+    "question": "At what point in the past did the experimenter prepare for this step by removing residual water from the organic solution?",
+    "correct_answer": "3763s-3799s",
+    "incorrect_answer1": "3232s-3322s",
+    "incorrect_answer2": "3451s-3516s",
+    "annotation_id": "0cc7b9c9-fc07-4e54-90aa-1ea58ba8ffcf",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "3795s-3824s"
+  },
+  {
+    "question": "The experimenter is now scraping solid material from the walls of the round-bottom flask. At what earlier point did they add a drying agent to the solution to ensure this solid product would be free of water after evaporation?",
+    "correct_answer": "3713s-3763s",
+    "incorrect_answer1": "3516s-3565s",
+    "incorrect_answer2": "3451s-3516s",
+    "annotation_id": "043f38c6-44dd-47e0-9b38-c28a3c23ad0d",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "3795s-3824s"
+  },
+  {
+    "question": "What is the experimenter planning to do with the solid residue remaining in the centrifuge tube?",
+    "correct_answer": "Dry it in an oven.",
+    "incorrect_answer1": "Wash it with cold ethanol.",
+    "incorrect_answer2": "Dissolve it in hydrochloric acid.",
+    "rationale": "The experimenter states \"Now it's time to dry it in the back oven.\"",
+    "annotation_id": "e46825b9-9a1e-4e65-8471-cf02f74a8477",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is preparing to dry the solid residue in the oven. At what point did they separate this solid from the liquid phase?",
+    "correct_answer": "4175s-4230s",
+    "incorrect_answer1": "3585s-3616s",
+    "incorrect_answer2": "4030s-4051s",
+    "annotation_id": "e46825b9-9a1e-4e65-8471-cf02f74a8477",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "4188s-4264s"
+  },
+  {
+    "question": "What does the visual appearance of the material in the tube suggest about the success of the reaction?",
+    "correct_answer": "The color matches the expected appearance of the product, indicating good quality and a high yield.",
+    "incorrect_answer1": "The presence of unreacted solid tin at the bottom indicates the reduction reaction did not fully complete.",
+    "incorrect_answer2": "The thick green solid indicates that an excess of tin caused undesirable decomposition of the product.",
+    "rationale": "The experimenter states that the color looks exactly like what is reported, making them feel good about the quality and yield of the material.",
+    "annotation_id": "ccc0c9ad-844f-46dd-b9e7-91f620ad8feb",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "While attempting to stir the heterogeneous mixture, the experimenter decides to find a different stir bar. What specific visual observation leads to this conclusion?",
+    "correct_answer": "The absence of a vortex or disruption at the surface of the liquid.",
+    "incorrect_answer1": "The visible settling of solid tin particles at the bottom of the flask.",
+    "incorrect_answer2": "The visible dissolution of the stir bar in the acidic ethanol mixture.",
+    "rationale": "Students might assume that observing the stir bar itself is the only way to gauge stirring efficiency. This question highlights that in opaque or heterogeneous mixtures, the surface dynamics (like a vortex) are a crucial indicator of adequate mixing.",
+    "annotation_id": "2621a8f0-28a8-400f-85d0-2b2ad13ffc5f:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "The experimenter is having trouble getting the mixture to stir properly and takes time to troubleshoot. Based on the reaction being performed, why is this delay not a concern?",
+    "correct_answer": "The reaction has not yet been initiated, as the tin and hydrochloric acid have not been added.",
+    "incorrect_answer1": "The reduction process requires elevated temperatures to proceed, so the mixture remains unreactive at room temperature.",
+    "incorrect_answer2": "The reaction of tin with the nitro groups is highly exothermic, so the delay safely prevents overheating.",
+    "rationale": "Students might assume that once the starting material is mixed with the solvent, the reaction has begun and any delay could lead to side reactions or degradation. However, understanding the mechanism of the nitro reduction reveals that the reaction cannot start until the tin and HCl are added to generate the active reducing species.",
+    "annotation_id": "2621a8f0-28a8-400f-85d0-2b2ad13ffc5f:2",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "During the experiment, the scientist spends considerable time adjusting the stir plate settings to make the original stir bar work before finally deciding to replace it. What is the primary practical rationale for this hesitation?",
+    "correct_answer": "Removing the original stir bar inevitably removes some of the reaction mixture, leading to an unrecoverable loss of starting material and a lower overall yield.",
+    "incorrect_answer1": "Opening the sealed flask introduces atmospheric oxygen into the system, potentially oxidizing the neutral tin reagent prematurely and disrupting the delicate chemical reduction process.",
+    "incorrect_answer2": "Replacing it with a larger stir bar introduces a risk of cracking the Erlenmeyer flask's glass at the high RPMs needed to suspend the tin.",
+    "rationale": "The scientist's comments highlight a practical trade-off in the lab: swapping a stir bar isn't just an inconvenience; it inherently causes a loss of material (yield) because some of the mixture sticks to the removed item. Students might think swapping a stir bar is a trivial action with no chemical consequences, but experienced chemists know that every transfer or removal of equipment impacts the final yield. The question targets this understanding of material loss during physical manipulations.",
+    "annotation_id": "1ef8841b-8f0f-4bce-97cf-94ffde0069ca:2",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "Why does the experimenter remove the flask from the bath and hold it tightly with both hands?",
+    "correct_answer": "To use body heat to slightly warm the mixture, reducing its viscosity so the stir bar can move more freely.",
+    "incorrect_answer1": "To forcefully hold the glass stopper in place while the exothermic reaction generates excess gas pressure inside the flask.",
+    "incorrect_answer2": "To vigorously agitate the thick yellow suspension, breaking up unreacted solid tin that the stir bar cannot dislodge.",
+    "rationale": "Students are typically taught to use formal equipment like hot plates or water baths for temperature control. The use of body heat as a quick, improvised method to slightly warm a reaction and decrease its viscosity is a practical, hands-on lab technique that may be surprising to those without extensive bench experience.",
+    "annotation_id": "6d3c9292-74fb-4c12-8c78-ab530d200f00:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "As the experimenter brings the weighed tin powder to the reaction flask, what is their primary mechanical objective immediately following the addition of this solid reagent?",
+    "correct_answer": "To ensure the powder is vigorously and completely stirred into the mixture.",
+    "incorrect_answer1": "To wash down the sides of the flask with additional ethanol solvent.",
+    "incorrect_answer2": "To quickly stop the magnetic stirrer so the tin powder can settle.",
+    "rationale": "While students understand the chemical role of tin as a reducing agent, they may overlook the practical necessity of vigorous mechanical stirring when adding a dense, solid reagent to a liquid mixture to ensure adequate mass transfer and prevent localized concentration gradients.",
+    "annotation_id": "a67463ad-0f27-4d85-8d4f-2f188d196cba:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "As the experimenter repeatedly rinses the round-bottom flask with ethyl acetate and adds the rinses to the main mixture, what is their underlying assumption about the efficiency of this transfer process?",
+    "correct_answer": "That a proper workup with an appropriate organic solvent should allow for the complete recovery of the product from the reaction flask.",
+    "incorrect_answer1": "That performing several small volume rinses is significantly more effective at quantitatively transferring the residual material than using one single large rinse.",
+    "incorrect_answer2": "That the reduced amino product is completely insoluble in ethyl acetate, meaning these repeated squirt bottle rinses only transfer the unreacted tin catalyst.",
+    "rationale": "Students might assume that some product loss is inevitable during any physical transfer step. However, the scientist emphasizes that with a good organic solvent and proper technique, one should expect to quantitatively transfer essentially all of the product out of the flask, leaving nothing behind unless a mistake is made.",
+    "annotation_id": "0326e24d-7cad-4da8-a1a0-7be0d6b3e392:2",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "When rinsing the original reaction flask with solvent to transfer the remaining material, what observation would lead the experimenter to perform more than two washes?",
+    "correct_answer": "The residual material requires significant swirling to dissolve in the initial solvent wash.",
+    "incorrect_answer1": "The solvent from the second wash retains a distinct color instead of running clear.",
+    "incorrect_answer2": "The second ethyl acetate rinse turns a dark red color after brief swirling.",
+    "rationale": "Students might assume that the number of washes in a quantitative transfer is a fixed, standard protocol (e.g., 'always wash three times') or based primarily on the color of the wash. The scientist's comment reveals that this is a dynamic decision based on real-time observation of the material's solubility; if it takes effort to dissolve, more washes are needed to ensure complete transfer.",
+    "annotation_id": "53f4bfe3-6cdb-4caf-abaf-7d7fdf1c3586:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "During this workup step, the experimenter adds an aqueous solution of sodium hydroxide to the reaction mixture, resulting in the formation of a cloudy precipitate. What is the primary purpose of this addition?",
+    "correct_answer": "To react with the dissolved tin species and precipitate them as insoluble tin salts, allowing for their removal.",
+    "incorrect_answer1": "To deprotonate the newly formed ammonium groups and convert them into neutral amines, causing the product to precipitate.",
+    "incorrect_answer2": "To react with the unreacted dinitro starting material and precipitate it as an insoluble sodium salt, allowing for its removal.",
+    "rationale": "While students might recognize that sodium hydroxide will neutralize the excess hydrochloric acid used in the reduction, they may not realize its critical role in removing the metal catalyst. The scientist explicitly notes that the goal here is to react the NaOH with the dissolved tin to form an insoluble tin salt, which precipitates out and can subsequently be filtered away from the desired product.",
+    "annotation_id": "821465b4-5253-4bf7-839d-d1464b6cca5e:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "The experimenter switches to an Erlenmeyer flask for the quench, which allows for a flat stir bar and much better stirring than the round-bottom flask used previously. Why not use an Erlenmeyer flask for the initial reaction to ensure optimal stirring from the start?",
+    "correct_answer": "The initial reaction often requires specific neck fittings for attaching additional apparatus, and the flask must fit properly into the chosen heating or cooling equipment.",
+    "incorrect_answer1": "Round-bottom flasks distribute heat much more evenly across their curved surface, which prevents localized hot spots and dangerous bumping when boiling the reaction mixture.",
+    "incorrect_answer2": "The concentrated hydrochloric acid needed to fully reduce the nitro groups would chemically etch the angled corners of an Erlenmeyer flask, leading to structural failure.",
+    "rationale": "Students might assume that if an Erlenmeyer flask provides better stirring, it should be used throughout. The scientist's comments reveal that the choice of glassware is a compromise involving necessary fittings (like standard taper joints) and compatibility with heating/cooling apparatus, which often necessitates a round-bottom flask for the main reaction despite potential stirring drawbacks.",
+    "annotation_id": "821465b4-5253-4bf7-839d-d1464b6cca5e:5",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "What is the primary trade-off the experimenter is making by manually removing the solid from the funnel with a spatula?",
+    "correct_answer": "Accepting a slight decrease in product yield to prevent the filtration from taking several hours.",
+    "incorrect_answer1": "Risking a tear in the delicate filter paper to maximize the recovery of the solid product.",
+    "incorrect_answer2": "Risking contamination from the metal spatula to maximize the amount of pink product recovered.",
+    "rationale": "Students are typically taught to maximize yield and might assume that all solid must be washed thoroughly to recover every drop of product. They might be surprised to see an experimenter intentionally discard solid that is wet with the product solution. This question targets the practical reality that fine precipitates (like tin salts) can severely clog filters, and experienced chemists will often sacrifice a negligible amount of yield to save hours of laboratory time.",
+    "annotation_id": "3ed249d0-a5d9-4863-a1c5-bfd27a4437db:3",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  }
+]

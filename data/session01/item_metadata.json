@@ -1,0 +1,628 @@
+{
+  "video": "session01.mp4",
+  "video_duration_seconds": 2593.433,
+  "queries": {
+    "ec16634e-c805-401f-9a1b-0e19612c8e92": {
+      "reference_start": 98.13,
+      "reference_end": 119.235,
+      "video_window": {
+        "start": 83.13,
+        "end": 113.13
+      }
+    },
+    "9393c02d-a179-41b9-a297-c71efee93513": {
+      "reference_start": 119.235,
+      "reference_end": 155.752,
+      "video_window": {
+        "start": 104.235,
+        "end": 134.235
+      }
+    },
+    "98247372-f1f5-47f0-be02-47d2a3991fb5": {
+      "reference_start": 163.66899999999998,
+      "reference_end": 182.757,
+      "video_window": {
+        "start": 148.66899999999998,
+        "end": 178.66899999999998
+      }
+    },
+    "3b14855c-6443-4fef-af7e-a8506ab5ba92": {
+      "reference_start": 230.858,
+      "reference_end": 233.239,
+      "video_window": {
+        "start": 215.858,
+        "end": 245.858
+      }
+    },
+    "c065a543-93cf-4090-8773-a105755dcebd": {
+      "reference_start": 259.783,
+      "reference_end": 278.575,
+      "video_window": {
+        "start": 244.78300000000002,
+        "end": 274.783
+      }
+    },
+    "11e78eb6-7654-431e-879a-d819d4cbdcdf": {
+      "reference_start": 261.014,
+      "reference_end": 353.055,
+      "video_window": {
+        "start": 246.014,
+        "end": 276.014
+      }
+    },
+    "0fb6a57d-d301-48db-917e-cc638915bcec": {
+      "reference_start": 353.055,
+      "reference_end": 356.797,
+      "video_window": {
+        "start": 338.055,
+        "end": 368.055
+      }
+    },
+    "bf639715-ccf9-4097-abfe-cc95d178d9f5": {
+      "reference_start": 372.997,
+      "reference_end": 375.7,
+      "video_window": {
+        "start": 357.997,
+        "end": 387.997
+      }
+    },
+    "326cf658-1412-4217-a080-4bb89207b1f4": {
+      "reference_start": 429.88,
+      "reference_end": 460.952,
+      "video_window": {
+        "start": 414.88,
+        "end": 444.88
+      }
+    },
+    "b5a1837f-26db-4134-83b5-4d6f5140e677": {
+      "reference_start": 462.213,
+      "reference_end": 514.19,
+      "video_window": {
+        "start": 447.213,
+        "end": 477.213
+      }
+    },
+    "bade887c-479c-42cc-944b-ece7ab02d2e8": {
+      "reference_start": 515.39,
+      "reference_end": 543.497,
+      "video_window": {
+        "start": 500.39,
+        "end": 530.39
+      }
+    },
+    "03a83519-b5b4-4ec3-b370-284d9a27f1ef": {
+      "reference_start": 555.421,
+      "reference_end": 587.31,
+      "video_window": {
+        "start": 540.421,
+        "end": 570.421
+      }
+    },
+    "c93b2bbd-b864-4b59-bdd9-b83a0c168e58": {
+      "reference_start": 596.446,
+      "reference_end": 615.223,
+      "video_window": {
+        "start": 581.446,
+        "end": 611.446
+      }
+    },
+    "00cd7bb5-d825-42b3-b891-8baaf9be2a39": {
+      "reference_start": 620.567,
+      "reference_end": 628.133,
+      "video_window": {
+        "start": 605.567,
+        "end": 635.567
+      }
+    },
+    "25715057-5a90-4af8-b0be-4e9c151637e5": {
+      "reference_start": 643.374,
+      "reference_end": 650.739,
+      "video_window": {
+        "start": 628.374,
+        "end": 658.374
+      }
+    },
+    "a3132568-0ed3-49e5-b64a-90aee474ef9d": {
+      "reference_start": 650.739,
+      "reference_end": 655.142,
+      "video_window": {
+        "start": 635.739,
+        "end": 665.739
+      }
+    },
+    "93a9fdec-ec84-4120-ab83-21ba52b141b9": {
+      "reference_start": 709.287,
+      "reference_end": 728.41,
+      "video_window": {
+        "start": 694.287,
+        "end": 724.287
+      }
+    },
+    "cb31282e-dd8e-4009-882a-03e6eadca127": {
+      "reference_start": 714.019,
+      "reference_end": 731.432,
+      "video_window": {
+        "start": 699.019,
+        "end": 729.019
+      }
+    },
+    "9cf6775a-2d43-4f69-ad30-53e507acc6bf": {
+      "reference_start": 770.105,
+      "reference_end": 774.49,
+      "video_window": {
+        "start": 755.105,
+        "end": 785.105
+      }
+    },
+    "10a2f9a0-432b-4926-b603-b155131ffc1a": {
+      "reference_start": 830.013,
+      "reference_end": 902.852,
+      "video_window": {
+        "start": 815.013,
+        "end": 845.013
+      }
+    },
+    "1c5474e4-1925-4614-8769-eb3d71a8b172": {
+      "reference_start": 863.611,
+      "reference_end": 898.708,
+      "video_window": {
+        "start": 848.611,
+        "end": 878.611
+      }
+    },
+    "12375065-d2c6-45eb-abda-0563ad392e86": {
+      "reference_start": 924.246,
+      "reference_end": 929.049,
+      "video_window": {
+        "start": 909.246,
+        "end": 939.246
+      }
+    },
+    "a824b101-120e-4486-9315-aea043042a50": {
+      "reference_start": 1050.478,
+      "reference_end": 1061.345,
+      "video_window": {
+        "start": 1035.478,
+        "end": 1065.478
+      }
+    },
+    "b02da43b-a9e4-4ea5-affc-d5c4c3ea6094": {
+      "reference_start": 1061.345,
+      "reference_end": 1083.018,
+      "video_window": {
+        "start": 1046.345,
+        "end": 1076.345
+      }
+    },
+    "c529ce0b-997d-4a0b-9cc4-342b2cd4981b": {
+      "reference_start": 1066.673,
+      "reference_end": 1081.562,
+      "video_window": {
+        "start": 1051.673,
+        "end": 1081.673
+      }
+    },
+    "27989bab-1d6b-4752-b9b9-2d39525c38dd": {
+      "reference_start": 1146.292,
+      "reference_end": 1148.454,
+      "video_window": {
+        "start": 1131.292,
+        "end": 1161.292
+      }
+    },
+    "9c788bfc-f42e-4e75-881a-55bafb0bb8a9": {
+      "reference_start": 1158.081,
+      "reference_end": 1163.985,
+      "video_window": {
+        "start": 1143.081,
+        "end": 1173.081
+      }
+    },
+    "a0ceab96-c3ca-4149-af8e-893a20f2204a": {
+      "reference_start": 1166.971,
+      "reference_end": 1176.013,
+      "video_window": {
+        "start": 1151.971,
+        "end": 1181.971
+      }
+    },
+    "b4683e2c-4083-4c89-a5d4-ed3d21996134": {
+      "reference_start": 1200.406,
+      "reference_end": 1222.886,
+      "video_window": {
+        "start": 1185.406,
+        "end": 1215.406
+      }
+    },
+    "54e11e08-1173-41af-bad3-472cbf98796d": {
+      "reference_start": 1222.886,
+      "reference_end": 1249.038,
+      "video_window": {
+        "start": 1207.886,
+        "end": 1237.886
+      }
+    },
+    "2ff368e6-0ee4-44a3-931a-647eba5f2955": {
+      "reference_start": 1227.074,
+      "reference_end": 1235.659,
+      "video_window": {
+        "start": 1212.074,
+        "end": 1242.074
+      }
+    },
+    "3c005ad3-f843-4dd2-96ab-2cfc403180a6": {
+      "reference_start": 1238.461,
+      "reference_end": 1249.087,
+      "video_window": {
+        "start": 1223.461,
+        "end": 1253.461
+      }
+    },
+    "73564403-4ec1-4f7f-8a80-819183cd2750": {
+      "reference_start": 1359.346,
+      "reference_end": 1365.475,
+      "video_window": {
+        "start": 1344.346,
+        "end": 1374.346
+      }
+    },
+    "d91b20f1-f7af-453a-97f5-fe8dc1146c70": {
+      "reference_start": 1379.001,
+      "reference_end": 1387.463,
+      "video_window": {
+        "start": 1364.001,
+        "end": 1394.001
+      }
+    },
+    "da033579-5326-4476-a9e9-974bd4e6b888": {
+      "reference_start": 1401.886,
+      "reference_end": 1408.417,
+      "video_window": {
+        "start": 1386.886,
+        "end": 1416.886
+      }
+    },
+    "2fa099f2-73f9-494c-99ed-e44929d548a2": {
+      "reference_start": 1404.405,
+      "reference_end": 1405.626,
+      "video_window": {
+        "start": 1389.405,
+        "end": 1419.405
+      }
+    },
+    "f62f25de-c60d-43ec-a884-b4a5e86119a2": {
+      "reference_start": 1408.417,
+      "reference_end": 1417.945,
+      "video_window": {
+        "start": 1393.417,
+        "end": 1423.417
+      }
+    },
+    "af84861b-4d8d-4393-8483-f2d370972319": {
+      "reference_start": 1417.945,
+      "reference_end": 1429.294,
+      "video_window": {
+        "start": 1402.945,
+        "end": 1432.945
+      }
+    },
+    "b0a3a208-393a-4c3d-b6d7-947cd81d4616": {
+      "reference_start": 1436.515,
+      "reference_end": 1452.04,
+      "video_window": {
+        "start": 1421.515,
+        "end": 1451.515
+      }
+    },
+    "4c591552-e246-4ef0-8d5a-9817f442c616": {
+      "reference_start": 1468.92,
+      "reference_end": 1510.994,
+      "video_window": {
+        "start": 1453.92,
+        "end": 1483.92
+      }
+    },
+    "eb343e90-8099-4c36-a021-b4f942a3d0cc": {
+      "reference_start": 1536.11,
+      "reference_end": 1547.721,
+      "video_window": {
+        "start": 1521.11,
+        "end": 1551.11
+      }
+    },
+    "0d77db07-a469-4384-a56b-d71bebed6462": {
+      "reference_start": 1542.438,
+      "reference_end": 1552.464,
+      "video_window": {
+        "start": 1527.438,
+        "end": 1557.438
+      }
+    },
+    "27565d58-48f7-4484-9ee5-413f5f53361a": {
+      "reference_start": 1590.005,
+      "reference_end": 1604.012,
+      "video_window": {
+        "start": 1575.005,
+        "end": 1605.005
+      }
+    },
+    "f1761037-6bfd-469e-907d-89d5b1a8754e": {
+      "reference_start": 1631.558,
+      "reference_end": 1637.806,
+      "video_window": {
+        "start": 1616.558,
+        "end": 1646.558
+      }
+    },
+    "9174ab4c-270c-40b5-9fdf-c769321bd934": {
+      "reference_start": 1635.908,
+      "reference_end": 1649.374,
+      "video_window": {
+        "start": 1620.908,
+        "end": 1650.908
+      }
+    },
+    "b101c70e-4a3c-4b15-9a9e-074c0962a816": {
+      "reference_start": 1701.246,
+      "reference_end": 1715.442,
+      "video_window": {
+        "start": 1686.246,
+        "end": 1716.246
+      }
+    },
+    "a43dac63-90c0-482d-83b2-9b9bd8405a9a": {
+      "reference_start": 1707.499,
+      "reference_end": 1713.342,
+      "video_window": {
+        "start": 1692.499,
+        "end": 1722.499
+      }
+    },
+    "3b344299-6ba5-40b3-bd71-785aeadf6591": {
+      "reference_start": 1713.342,
+      "reference_end": 1732.393,
+      "video_window": {
+        "start": 1698.342,
+        "end": 1728.342
+      }
+    },
+    "e0e018c0-6a99-480c-b291-70ed2a6a46f9": {
+      "reference_start": 1715.442,
+      "reference_end": 1719.284,
+      "video_window": {
+        "start": 1700.442,
+        "end": 1730.442
+      }
+    },
+    "1b47bfda-bcf1-4f2c-b892-258ff40d2f77": {
+      "reference_start": 1732.393,
+      "reference_end": 1736.584,
+      "video_window": {
+        "start": 1717.393,
+        "end": 1747.393
+      }
+    },
+    "82537d4d-1703-4ffd-b228-c019f99528c5": {
+      "reference_start": 1736.584,
+      "reference_end": 1769.787,
+      "video_window": {
+        "start": 1721.584,
+        "end": 1751.584
+      }
+    },
+    "51fcb153-fbd3-462d-b436-9238a77802f3": {
+      "reference_start": 1774.548,
+      "reference_end": 1784.59,
+      "video_window": {
+        "start": 1759.548,
+        "end": 1789.548
+      }
+    },
+    "350adc44-1c85-4d90-bdf5-ccffbb6cc841": {
+      "reference_start": 1786.571,
+      "reference_end": 1817.481,
+      "video_window": {
+        "start": 1771.571,
+        "end": 1801.571
+      }
+    },
+    "bb3e143e-d8e1-47d7-9171-f7a15ca2ac45": {
+      "reference_start": 1809.33,
+      "reference_end": 1818.654,
+      "video_window": {
+        "start": 1794.33,
+        "end": 1824.33
+      }
+    },
+    "549c2b8c-bb4b-4c85-b119-a247adcabcce": {
+      "reference_start": 1818.654,
+      "reference_end": 1823.375,
+      "video_window": {
+        "start": 1803.654,
+        "end": 1833.654
+      }
+    },
+    "664ebb49-389e-4205-9553-87c4dda92dbc": {
+      "reference_start": 1837.329,
+      "reference_end": 1853.262,
+      "video_window": {
+        "start": 1822.329,
+        "end": 1852.329
+      }
+    },
+    "214b80dd-9418-4189-bf9f-ef53c1b8cc85": {
+      "reference_start": 1856.965,
+      "reference_end": 1861.107,
+      "video_window": {
+        "start": 1841.965,
+        "end": 1871.965
+      }
+    },
+    "4bff072d-dde4-4a94-8a7c-0d06aaf50cc5": {
+      "reference_start": 1865.438,
+      "reference_end": 1868.94,
+      "video_window": {
+        "start": 1850.438,
+        "end": 1880.438
+      }
+    },
+    "380da4b6-f1c8-40c8-b751-afe919254888": {
+      "reference_start": 1925.521,
+      "reference_end": 1939.604,
+      "video_window": {
+        "start": 1910.521,
+        "end": 1940.521
+      }
+    },
+    "4d24cec4-8fe5-43f0-bfc4-9fbba65d0463": {
+      "reference_start": 1939.432,
+      "reference_end": 1976.496,
+      "video_window": {
+        "start": 1924.432,
+        "end": 1954.432
+      }
+    },
+    "6f2d015d-b107-47fd-863b-101ac19cfa0c": {
+      "reference_start": 1993.412,
+      "reference_end": 1999.735,
+      "video_window": {
+        "start": 1978.412,
+        "end": 2008.412
+      }
+    },
+    "9dbb837b-d9e8-4881-a3b8-b0cba6127fde": {
+      "reference_start": 2017.168,
+      "reference_end": 2036.731,
+      "video_window": {
+        "start": 2002.168,
+        "end": 2032.168
+      }
+    },
+    "24aab6ad-40f3-4612-8cf8-f2b0fcd1fdb3": {
+      "reference_start": 2040.172,
+      "reference_end": 2045.414,
+      "video_window": {
+        "start": 2025.172,
+        "end": 2055.172
+      }
+    },
+    "8a593c46-95fa-4b97-a54a-6cc6629eaaf7": {
+      "reference_start": 2068.319,
+      "reference_end": 2076.926,
+      "video_window": {
+        "start": 2053.319,
+        "end": 2083.319
+      }
+    },
+    "445590f4-6799-4b7e-846c-a42097078266": {
+      "reference_start": 2080.792,
+      "reference_end": 2101.078,
+      "video_window": {
+        "start": 2065.792,
+        "end": 2095.792
+      }
+    },
+    "31f9377b-b664-4508-a47b-1ff59e8d27ab": {
+      "reference_start": 2101.078,
+      "reference_end": 2123.166,
+      "video_window": {
+        "start": 2086.078,
+        "end": 2116.078
+      }
+    },
+    "821bab4b-c57c-4c05-bae2-73b7031cdf4c": {
+      "reference_start": 2126.548,
+      "reference_end": 2140.039,
+      "video_window": {
+        "start": 2111.548,
+        "end": 2141.548
+      }
+    },
+    "d5c6846d-b3de-43d2-bfb8-623dc6dd42e3": {
+      "reference_start": 2156.178,
+      "reference_end": 2169.349,
+      "video_window": {
+        "start": 2141.178,
+        "end": 2171.178
+      }
+    },
+    "1cf16729-4302-46e7-99f0-bdc8a2800ccc": {
+      "reference_start": 2163.362,
+      "reference_end": 2169.867,
+      "video_window": {
+        "start": 2148.362,
+        "end": 2178.362
+      }
+    },
+    "d55cba1c-20a6-4f1d-bdb3-6204d1022206": {
+      "reference_start": 2218.907,
+      "reference_end": 2232.56,
+      "video_window": {
+        "start": 2203.907,
+        "end": 2233.907
+      }
+    },
+    "33663a9c-f0fa-49bf-b7cc-2e80be6ab73e": {
+      "reference_start": 2292.63,
+      "reference_end": 2439.995,
+      "video_window": {
+        "start": 2277.63,
+        "end": 2307.63
+      }
+    },
+    "14ed030c-4bf2-4883-9d68-b3f0ac646c29": {
+      "reference_start": 2489.497,
+      "reference_end": 2498.339,
+      "video_window": {
+        "start": 2474.497,
+        "end": 2504.497
+      }
+    },
+    "235b07e8-f2c9-488a-af8d-f20c5601ab79": {
+      "reference_start": 2498.339,
+      "reference_end": 2518.959,
+      "video_window": {
+        "start": 2483.339,
+        "end": 2513.339
+      }
+    },
+    "4757d5a2-8c7c-4994-a6c8-e27bbb6595dc": {
+      "reference_start": 2524.241,
+      "reference_end": 2530.343,
+      "video_window": {
+        "start": 2509.241,
+        "end": 2539.241
+      }
+    }
+  },
+  "interview_queries": {
+    "483934fe-9d8d-43e9-b9f7-e628be5e34e4:0": {
+      "reference_start": 817.63,
+      "reference_end": 923.25
+    },
+    "dcf35f29-cc81-4360-8e4c-3293a9a38ff4:0": {
+      "reference_start": 818.22,
+      "reference_end": 930.57
+    },
+    "c3366baf-3783-4889-8656-055e5b8adaa6:0": {
+      "reference_start": 1147.88,
+      "reference_end": 1168.1
+    },
+    "87717640-afec-4861-88bc-6873c200bc0e:0": {
+      "reference_start": 1172.56,
+      "reference_end": 1546.62
+    },
+    "87717640-afec-4861-88bc-6873c200bc0e:1": {
+      "reference_start": 1172.56,
+      "reference_end": 1546.62
+    },
+    "0c15c1e1-c097-496f-9ca8-7c8b5621643b:1": {
+      "reference_start": 2075.99,
+      "reference_end": 2129.8
+    },
+    "ac8308a0-6ae9-4cd1-87df-715ae80d94e9:2": {
+      "reference_start": 2297.75,
+      "reference_end": 2391.07
+    }
+  }
+}

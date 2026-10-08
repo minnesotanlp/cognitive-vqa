@@ -1,0 +1,1432 @@
+[
+  {
+    "question": "The experimenter is storing the sample boxes back in the freezer. At what point in the past did the experimenter discuss the plan to save these specific samples rather than disposing of them?",
+    "correct_answer": "330s-433s",
+    "incorrect_answer1": "2497s-2566s",
+    "incorrect_answer2": "2566s-2635s",
+    "annotation_id": "0af060b6-5286-4289-9986-40323137216b",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3183s-3335s"
+  },
+  {
+    "question": "Why are four separate master mix tubes being prepared and labeled?",
+    "correct_answer": "To test four different sodium ion concentrations.",
+    "incorrect_answer1": "To evaluate four different primer pair combinations.",
+    "incorrect_answer2": "To test four identical 1.5mL control samples.",
+    "rationale": "The experimenter states that the experiment is testing the sodium ion concentration for each buffer, which requires setting up four different conditions.",
+    "annotation_id": "ae05a73a-671e-470a-a7d1-91c1e7a97acf",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what timestamp did the experimenter verbally plan out the sequence of reagent additions that they are currently following?",
+    "correct_answer": "488s-518s",
+    "incorrect_answer1": "1290s-1360s",
+    "incorrect_answer2": "651s-675s",
+    "annotation_id": "42b58844-976a-4c1f-9d44-f9b2c011710a",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "767s-834s"
+  },
+  {
+    "question": "Why does the experimenter choose to combine all the buffers into a single master mix?",
+    "correct_answer": "To reduce the number of pipetting steps and tip changes required later.",
+    "incorrect_answer1": "To ensure uniform reagent concentrations across all the individual reaction samples.",
+    "incorrect_answer2": "To allow the buffers to chemically react inside the 15mL conical tube.",
+    "rationale": "The experimenter explains that adding all buffers to the master mix is convenient because it eliminates the need to use a new pipette tip for each individual component later.",
+    "annotation_id": "eacf0dde-7481-44fb-8273-c2d31b61e916",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter dispose of the pipette tip and get a new one after the first transfer?",
+    "correct_answer": "The tip touched the wall of the receiving tube, which could lead to contamination.",
+    "incorrect_answer1": "The next transfer involves a completely different chemical reagent, requiring a fresh, clean tip.",
+    "incorrect_answer2": "The viscous reagent from the large blue-capped tube physically clogged the first pipette tip.",
+    "rationale": "The experimenter notes that touching the wall of the tube can contaminate the tip, requiring it to be changed.",
+    "annotation_id": "c97aae41-12ad-4e92-b6e8-1d70c658ae86",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter changes their pipette tip after touching the tube's entrance. When did they previously state this rule to avoid contamination?",
+    "correct_answer": "596s-651s",
+    "incorrect_answer1": "5199s-5309s",
+    "incorrect_answer2": "433s-438s",
+    "annotation_id": "c97aae41-12ad-4e92-b6e8-1d70c658ae86",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "5199s-5309s"
+  },
+  {
+    "question": "What is the purpose of adding NaCl to the samples?",
+    "correct_answer": "To create different sodium ion concentrations across the samples.",
+    "incorrect_answer1": "To precipitate dissolved silver ions out of the solution.",
+    "incorrect_answer2": "To stop the reaction before mixing on the vortex.",
+    "rationale": "The experimenter states that they are adding NaCl to create different amounts of sodium ion concentration.",
+    "annotation_id": "de85c3a3-3a71-42ef-8517-29905534010f",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is carefully checking the labels on the tubes before adding reagents to avoid mistakes. At what point in the past did the experimenter explain why the tubes have different compositions, necessitating this careful checking?",
+    "correct_answer": "767s-834s",
+    "incorrect_answer1": "1659s-1884s",
+    "incorrect_answer2": "330s-433s",
+    "annotation_id": "7503f2e1-e077-43d0-8118-4c8f907582cf",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "868s-897s"
+  },
+  {
+    "question": "The experimenter is adding varying amounts of a reagent to the tubes to ensure they all reach the same final volume. At what previous point did they prepare for this by adding compensating varying amounts of a different liquid?",
+    "correct_answer": "518s-596s",
+    "incorrect_answer1": "767s-834s",
+    "incorrect_answer2": "834s-897s",
+    "annotation_id": "629d48ec-e1f5-4b8a-bd81-3492229bc5d3",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "836s-868s"
+  },
+  {
+    "question": "Why does the experimenter move the selected tube to a new position in the rack?",
+    "correct_answer": "To place the specific sample in its designated location according to the experimental setup.",
+    "incorrect_answer1": "To separate the completed reaction from the unreacted samples to avoid confusion during processing.",
+    "incorrect_answer2": "To shield the specific sample from the magnetic field present in the rack's back row.",
+    "rationale": "The experimenter states '342 is over here so I'm going to put this over here'. Test whether the student understands that the spatial organization of the tubes is deliberate and corresponds to specific samples.",
+    "annotation_id": "9b831879-8fd9-4145-9a93-c0c5bfdd9fdf",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter establish the strategy of moving tubes from one side of the rack to the other to prevent mistakes during subsequent reagent additions?",
+    "correct_answer": "834s-897s",
+    "incorrect_answer1": "1926s-2016s",
+    "incorrect_answer2": "518s-596s",
+    "annotation_id": "e35d2d8e-c449-41aa-80b7-6c42855121ef",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "939s-965s"
+  },
+  {
+    "question": "The experimenter is dispensing a reagent into the tubes. At what point in the past did they adjust the pipette to the correct volume for this specific transfer?",
+    "correct_answer": "897s-962s",
+    "incorrect_answer1": "518s-596s",
+    "incorrect_answer2": "1136s-1233s",
+    "annotation_id": "2e9931b3-e8a2-4c3b-b21a-2a20e41461d2",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "939s-965s"
+  },
+  {
+    "question": "What is the initial physical manipulation applied to the sample tube?",
+    "correct_answer": "Shaking it.",
+    "incorrect_answer1": "Inverting it.",
+    "incorrect_answer2": "Weighing it on the digital scale.",
+    "rationale": "The experimenter explicitly states, \"So first, we're going to shake it first,\" indicating their immediate intention to agitate the sample.",
+    "annotation_id": "fcc80f9e-48f2-4610-be93-57ad9167f951",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently vortexing a tube. At what point in the past did they state their intention to perform this shaking step?",
+    "correct_answer": "897s-962s",
+    "incorrect_answer1": "651s-675s",
+    "incorrect_answer2": "264s-330s",
+    "annotation_id": "fcc80f9e-48f2-4610-be93-57ad9167f951",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "908s-917s"
+  },
+  {
+    "question": "How does the volume of TGT being added compare to the volume of EDTA used in this experiment?",
+    "correct_answer": "The volume of TGT is equal to the volume of EDTA.",
+    "incorrect_answer1": "The volume of TGT is greater than the volume of EDTA.",
+    "incorrect_answer2": "The volume of green TGT pipetted is less than the EDTA.",
+    "rationale": "The experimenter explicitly states that TGT is the same amount as EDTA.",
+    "annotation_id": "f8479d3c-1b3b-4487-a89c-d07a241bd968",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the experimenter adding to the tubes?",
+    "correct_answer": "GST buffer",
+    "incorrect_answer1": "Cell lysate",
+    "incorrect_answer2": "green fluorescent protein",
+    "rationale": "The experimenter states, \"Okay, so I'll just put the GST buffer.\"",
+    "annotation_id": "76d8dc21-7c64-4627-bd40-13b54a005a80",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the specific reagent being added at this stage of the procedure?",
+    "correct_answer": "The current protocol, Nanoquick, requires this specific reagent, unlike the alternative Arcticquick protocol.",
+    "incorrect_answer1": "The reagent is introduced now to quench the primary reaction and prevent unwanted byproducts.",
+    "incorrect_answer2": "The bright green liquid is added because the experimenter misread the protocol on the desk.",
+    "rationale": "The experimenter explains that silicon L-particles are being added specifically because they are using the Nanoquick protocol, which differs from the Arcticquick protocol.",
+    "annotation_id": "e8e5f49f-3bf9-49d1-9373-38079b0a1f5f",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently dispensing a reagent into multiple tubes. At what point in the past did they prepare for the possibility that a single bottle might not contain enough of this reagent?",
+    "correct_answer": "1085s-1136s",
+    "incorrect_answer1": "131s-138s",
+    "incorrect_answer2": "438s-488s",
+    "annotation_id": "a01eb00d-c0c5-444b-9f4a-bba5131f4d51",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1238s-1383s"
+  },
+  {
+    "question": "What is the primary purpose of the action being performed on the bottle using the machine?",
+    "correct_answer": "To ensure the contents are thoroughly mixed.",
+    "incorrect_answer1": "To separate the liquid and solid components.",
+    "incorrect_answer2": "To separate the clear liquid at 1700 RPM.",
+    "rationale": "The experimenter states they are performing this action to 'make sure really they mix well.'",
+    "annotation_id": "5fb3b1d1-60ef-4dbe-a658-6d4fdce2235f",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is gently pipetting the nanoparticles to ensure they are thoroughly mixed. At what point in the video did they state their intention to use this specific mixing technique?",
+    "correct_answer": "1085s-1136s",
+    "incorrect_answer1": "651s-675s",
+    "incorrect_answer2": "962s-968s",
+    "annotation_id": "5fb3b1d1-60ef-4dbe-a658-6d4fdce2235f",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1136s-1233s"
+  },
+  {
+    "question": "Why does the experimenter intend to mix the solution repeatedly?",
+    "correct_answer": "As a precautionary measure.",
+    "incorrect_answer1": "To speed up dissolution.",
+    "incorrect_answer2": "To break the plastic seal.",
+    "rationale": "The experimenter states that they mix repeatedly \"just in case.\"",
+    "annotation_id": "80840b9c-2be4-440a-b45e-b5b334c8a21b",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is pouring the remaining contents of a bottle. At what point earlier in the experiment did they state their intention to transfer these leftovers?",
+    "correct_answer": "1136s-1233s",
+    "incorrect_answer1": "264s-330s",
+    "incorrect_answer2": "3975s-3994s",
+    "annotation_id": "79f3205d-5b1c-4f1b-8972-3b3bd8e3ed99",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4656s-4658s"
+  },
+  {
+    "question": "What is the experimenter's goal when pipetting from the small square bottle?",
+    "correct_answer": "To extract the entire volume of liquid from the bottle.",
+    "incorrect_answer1": "To measure a specific volume of the chemical reagent accurately.",
+    "incorrect_answer2": "To extract only the top layer of the clear liquid.",
+    "rationale": "The experimenter states they think they took everything out, indicating their goal was to extract all the liquid.",
+    "annotation_id": "9783f3c9-70bb-4d1b-82b8-83f063d58abb",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the experimenter doing when they hold the bottle up and look at it?",
+    "correct_answer": "Checking the volume of the liquid.",
+    "incorrect_answer1": "Observing the color of the solution.",
+    "incorrect_answer2": "Looking for precipitates in the clear liquid.",
+    "rationale": "The experimenter states, \"Now I'm just checking the volume again.\"",
+    "annotation_id": "6b544d54-fd71-44cf-8066-ce38842adcda",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "Based on the equipment visible at the new station, what measurement is the experimenter preparing to take, and what is the likely purpose of this measurement?",
+    "correct_answer": "pH; to adjust the solution to an optimal level for the experiment.",
+    "incorrect_answer1": "Temperature; to ensure the reaction mixture stays within safe thermal limits.",
+    "incorrect_answer2": "Absorbance; to determine the concentration of the solution using the Eppendorf spectrophotometer.",
+    "rationale": "The experimenter states they are going to measure the pH and match it to 6.3 because they found it to be optimal for their experiment.",
+    "annotation_id": "8814408e-b667-45aa-9a6f-b1e22693b884",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter choose to prepare these specific samples first?",
+    "correct_answer": "Because they require a lengthy centrifugation step before the final procedures can be completed.",
+    "incorrect_answer1": "Because they require an extended incubation period before the next chemicals can be added.",
+    "incorrect_answer2": "Because they bypass the centrifuge entirely and require immediate sealing with the cut Parafilm.",
+    "rationale": "The experimenter explains that they are preparing these samples first because they will need to \"centrifuge for a while\" before moving on to the final steps. This tests the student's understanding of workflow optimization and anticipating time-consuming steps in a protocol.",
+    "annotation_id": "c1552a44-9a24-45e9-b40a-4dbc87b6df14",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter retrieve ice to thaw the urine and seeds that are currently being centrifuged?",
+    "correct_answer": "1360s-1415s",
+    "incorrect_answer1": "138s-165s",
+    "incorrect_answer2": "56s-110s",
+    "annotation_id": "c1552a44-9a24-45e9-b40a-4dbc87b6df14",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3078s-3182s"
+  },
+  {
+    "question": "Why is the experimenter putting on the white garment taken from the drawer?",
+    "correct_answer": "To protect against materials that have a low potential to cause Parkinson's disease.",
+    "incorrect_answer1": "To protect against corrosive acids that could easily cause severe burns upon contact.",
+    "incorrect_answer2": "To stay warm after placing the small plastic bottle into the glass-door refrigerator.",
+    "rationale": "The experimenter explains that they are putting on a disposable lab coat as a precaution because the materials they are handling are considered slightly dangerous and carry a low risk of causing Parkinson's disease.",
+    "annotation_id": "be3fe688-2914-4ee5-bd40-ab58ab1efe2f",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the primary purpose of the upcoming steps in this procedure?",
+    "correct_answer": "To perform a dilution in order to spike the urine.",
+    "incorrect_answer1": "To extract the target metabolites from the raw urine sample.",
+    "incorrect_answer2": "To incubate the grey tube in order to grow bacteria.",
+    "rationale": "The experimenter notes that they need to perform a dilution to spike the urine. Test whether the student anticipates this next step.",
+    "annotation_id": "e4bb20ec-812c-4497-9c2a-cf2da38a8e21",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the experimenter planning to perform multiple dilution steps?",
+    "correct_answer": "Because the initial concentration of the substance is much higher than the desired target concentration.",
+    "incorrect_answer1": "Because measuring a very small volume in a single step would introduce significant experimental error.",
+    "incorrect_answer2": "Because they are preparing a series of different concentrations in the blue rack's small tubes.",
+    "rationale": "The experimenter states they are diluting in several steps because the current concentration is high compared to the seed concentration they want to try, aiming for a very low concentration.",
+    "annotation_id": "b632a36d-a5a2-4e0e-ad9b-0c9afdd537da",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently performing serial dilutions. At what point in the past did they begin setting up the empty tubes required for these multiple steps?",
+    "correct_answer": "1518s-1568s",
+    "incorrect_answer1": "330s-433s",
+    "incorrect_answer2": "596s-651s",
+    "annotation_id": "b632a36d-a5a2-4e0e-ad9b-0c9afdd537da",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2439s-2713s"
+  },
+  {
+    "question": "At what point in the past did the experimenter arrange the microcentrifuge tubes into racks to prepare for these serial dilutions?",
+    "correct_answer": "1518s-1568s",
+    "incorrect_answer1": "330s-433s",
+    "incorrect_answer2": "596s-651s",
+    "annotation_id": "1402f075-79c0-4349-9851-afe971216ba6",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2439s-2713s"
+  },
+  {
+    "question": "The experimenter is now transferring leftover sample into smaller microcentrifuge tubes. At what point earlier in the video did the experimenter accidentally take out an extra tube and decide to keep it in the rack for later use?",
+    "correct_answer": "1568s-1659s",
+    "incorrect_answer1": "330s-433s",
+    "incorrect_answer2": "675s-735s",
+    "annotation_id": "9c7ab2c0-56a4-4242-9927-e03e148687b2",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2853s-3072s"
+  },
+  {
+    "question": "The experimenter is checking the label on a tube to confirm its contents. At what previous point in the experiment did they label these tubes to prevent the negative outcome of having to dispose of them due to unknown origins?",
+    "correct_answer": "1659s-1884s",
+    "incorrect_answer1": "330s-433s",
+    "incorrect_answer2": "675s-735s",
+    "annotation_id": "7dd173bd-4f08-4510-9b1f-9d43fdd28639",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "2358s-2435s"
+  },
+  {
+    "question": "At what point in the past did the experimenter label the tubes they are currently filling?",
+    "correct_answer": "1659s-1884s",
+    "incorrect_answer1": "330s-433s",
+    "incorrect_answer2": "675s-735s",
+    "annotation_id": "ed5b86d5-b46b-4e5d-a4bb-b32ef6bcb728",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2439s-2713s"
+  },
+  {
+    "question": "The experimenter is checking the label on a tube to identify it. At what point in the past did they label these tubes to ensure they could be distinguished from one another?",
+    "correct_answer": "1659s-1884s",
+    "incorrect_answer1": "330s-433s",
+    "incorrect_answer2": "488s-518s",
+    "annotation_id": "f2c51d13-c812-456b-ab9b-fb603339c7d1",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "2358s-2435s"
+  },
+  {
+    "question": "What specific information is being recorded on the microcentrifuge tubes during this labeling step?",
+    "correct_answer": "The concentration of the seed culture and the current date.",
+    "incorrect_answer1": "The name of the buffer solution and the sample number.",
+    "incorrect_answer2": "The exact buffer volumes from the attached printed protocol sheet.",
+    "rationale": "The experimenter explicitly mentions writing the concentration of the seed and the date ('eight eighteen') on the tubes.",
+    "annotation_id": "b98608ff-e0c9-4126-8e81-53cc9a2848a8",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is organizing and storing these diluted seed samples in the freezer for potential future use. At what point in the video did they prepare for this by labeling the tubes with their concentration and the date so they could be easily identified later?",
+    "correct_answer": "1659s-1884s",
+    "incorrect_answer1": "2497s-2566s",
+    "incorrect_answer2": "3906s-3953s",
+    "annotation_id": "b98608ff-e0c9-4126-8e81-53cc9a2848a8",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "3183s-3335s"
+  },
+  {
+    "question": "What is the recommended course of action if the writing on a seed tube is erased or unknown?",
+    "correct_answer": "Consult the protocol file for details, but preferably use a new seed to ensure accuracy.",
+    "incorrect_answer1": "Discard the tube immediately and prepare a fresh sample to avoid contaminating the main experiment.",
+    "incorrect_answer2": "Check the printed sheet on the glass and rewrite the label with the black marker.",
+    "rationale": "The experimenter notes that if the pen is erased, one can check the protocol file, but recommends using a new seed to make sure everything is fine. Test whether the student knows this best practice.",
+    "annotation_id": "62a24aee-ba33-4ba1-80fd-58d6d6bf1982",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter label these tubes to prevent confusion in case the markings faded?",
+    "correct_answer": "1659s-1884s",
+    "incorrect_answer1": "330s-433s",
+    "incorrect_answer2": "651s-675s",
+    "annotation_id": "62a24aee-ba33-4ba1-80fd-58d6d6bf1982",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "3183s-3335s"
+  },
+  {
+    "question": "Why is the experimenter writing multiple pieces of data on the tubes?",
+    "correct_answer": "Because their handwriting is poor, they are writing redundant information so that others can still identify the sample, possibly by checking a digital record.",
+    "incorrect_answer1": "Because the samples are part of a time-course experiment, they are recording the exact date and time alongside the sample ID for accurate tracking.",
+    "incorrect_answer2": "Because the protocol demands it, they are copying distinct parameters from the taped sheet onto the tubes so that they can add the correct volumes.",
+    "rationale": "The experimenter notes that their handwriting is poor, so they are writing 'both of the data' to ensure someone else can identify the sample, possibly by checking a saved file.",
+    "annotation_id": "4d8ed079-af74-4a52-ad22-59be14cf4fee",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter take precautions to ensure that other researchers would be able to identify these samples, even if their handwriting was difficult to read?",
+    "correct_answer": "1659s-1884s",
+    "incorrect_answer1": "2853s-3002s",
+    "incorrect_answer2": "0s-56s",
+    "annotation_id": "4d8ed079-af74-4a52-ad22-59be14cf4fee",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "3183s-3335s"
+  },
+  {
+    "question": "What is the experimenter likely checking when they inspect the tube containing the yellow liquid?",
+    "correct_answer": "Whether the sample has completely thawed.",
+    "incorrect_answer1": "Whether the solid has fully dissolved.",
+    "incorrect_answer2": "Whether the yellow precipitate has formed.",
+    "rationale": "The experimenter notes that the urine is still not fully thawed.",
+    "annotation_id": "0548a906-2f07-47b7-ac91-935b4d023b1a",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that the primary biological sample is not yet ready for use?",
+    "correct_answer": "1909s-1912s",
+    "incorrect_answer1": "1482s-1485s",
+    "incorrect_answer2": "1012s-1015s",
+    "rationale": "The experimenter visually inspects the sample and sees it is still solid. The question tests the viewer's ability to recognize this inspection and infer its implication for the experiment's progress.",
+    "annotation_id": "0548a906-2f07-47b7-ac91-935b4d023b1a",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why does the experimenter pause their work with the small tubes to examine the larger conical tube and protocol sheet?",
+    "correct_answer": "They need to prepare a diluted sample before proceeding.",
+    "incorrect_answer1": "They want to verify the concentration of the stock solution.",
+    "incorrect_answer2": "They need to centrifuge the blue-capped tube before proceeding.",
+    "rationale": "The experimenter states that the current task is not urgent because they need to make a diluted sample. Test whether the student can infer this from the shift in activity.",
+    "annotation_id": "274de89a-b8fc-49c3-94d9-4303796ec17a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is checking a sample for ice before using it. At what point in the past did they notice this sample was not fully thawed, but decided it wasn't a problem because they had other dilutions to prepare in the meantime?",
+    "correct_answer": "1884s-1926s",
+    "incorrect_answer1": "1450s-1518s",
+    "incorrect_answer2": "1136s-1233s",
+    "annotation_id": "274de89a-b8fc-49c3-94d9-4303796ec17a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2439s-2713s"
+  },
+  {
+    "question": "What is an acceptable alternative to vortexing the buffer if it has been sitting for a while?",
+    "correct_answer": "Gently pipetting up and down.",
+    "incorrect_answer1": "Inverting the tube several times.",
+    "incorrect_answer2": "Vigorously shaking the blue-capped tube.",
+    "rationale": "The experimenter mentions that if the buffer has been sitting for a while, one can either vortex it or gently pipette up and down to mix it. Test whether the student knows this alternative method.",
+    "annotation_id": "831899f9-4c86-4c0d-aed1-aa7406a4b159",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the most likely reason the scientist decides against using the pipette they are examining?",
+    "correct_answer": "Its maximum volume capacity is lower than the volume required for the next step.",
+    "incorrect_answer1": "The glass tip is visibly chipped, which would prevent an accurate and tight seal.",
+    "incorrect_answer2": "The orange-topped pipette's minimum volume setting is too high for the next required addition.",
+    "rationale": "The experimenter states 'this is too small' while selecting a pipette, indicating the pipette's volume range is insufficient for the intended transfer. Test whether the student understands the practical criteria for pipette selection.",
+    "annotation_id": "3339515b-f8ad-4eef-9f42-919230f67027",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that the chosen container lacks the capacity needed for the upcoming mixture?",
+    "correct_answer": "2108s-2112s",
+    "incorrect_answer1": "3748s-3752s",
+    "incorrect_answer2": "3454s-3458s",
+    "rationale": "The experimenter visually evaluates the small tube and infers it will not hold the required volume, leading to the selection of a larger tube. This tests the ability to recognize practical experimental adjustments based on visual assessment of equipment.",
+    "annotation_id": "3339515b-f8ad-4eef-9f42-919230f67027",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the primary reason for the experimenter's current actions of moving and rearranging the items in the hood?",
+    "correct_answer": "To maintain an organized workspace.",
+    "incorrect_answer1": "To avoid spilling dangerous chemicals.",
+    "incorrect_answer2": "To align the pipette boxes for UV light sterilization.",
+    "rationale": "The experimenter states 'I prefer everything to be, um, organized' while rearranging the pipette tip boxes and pipettes.",
+    "annotation_id": "eab0fda4-7d38-4bc8-bfa8-8633ddd23ba9",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "What type of molecules are being used as the starting material for the upcoming procedure?",
+    "correct_answer": "Oligomers",
+    "incorrect_answer1": "Monomers",
+    "incorrect_answer2": "Monomers in the microcentrifuge tubes",
+    "rationale": "The experimenter explicitly states, \"We're going to start from oligomers.\"",
+    "annotation_id": "54d7d6a9-aaef-455d-bb33-7d87dba46591",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the experimenter likely to use a volume greater than one microliter for this transfer?",
+    "correct_answer": "To ensure a higher probability of capturing a seed in the sample.",
+    "incorrect_answer1": "To minimize the relative error associated with pipetting very small liquid volumes.",
+    "incorrect_answer2": "To ensure a lower probability of transferring seeds into the microcentrifuge tube.",
+    "rationale": "The experimenter notes that using a smaller volume like one microliter increases the risk of not getting a seed.",
+    "annotation_id": "20242456-ad45-4577-ba05-eb731df7b4b4",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is transferring a very small volume of liquid. At what previous point did they demonstrate a technique to verify that such small volumes are successfully drawn into the tip?",
+    "correct_answer": "2197s-2351s",
+    "incorrect_answer1": "2635s-2715s",
+    "incorrect_answer2": "767s-834s",
+    "annotation_id": "c37499fe-0617-4f13-a20f-3e6170df0380",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2355s-2358s"
+  },
+  {
+    "question": "What is the experimenter's intended procedure when transferring the liquid into the new tube?",
+    "correct_answer": "To spike the sample into a buffer solution and mix it thoroughly.",
+    "incorrect_answer1": "To layer the extract gently over a density gradient without mixing them.",
+    "incorrect_answer2": "To isolate the clear supernatant into an empty microcentrifuge tube without mixing.",
+    "rationale": "The experimenter states they will \"spike into the buffer... and shake it well\", indicating the purpose of the transfer and the subsequent mixing step.",
+    "annotation_id": "e7172508-dc4b-46e8-a3c2-20427c96791d",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter state their intention to check the label and mix the contents well?",
+    "correct_answer": "1884s-2625s",
+    "incorrect_answer1": "651s-675s",
+    "incorrect_answer2": "1085s-1136s",
+    "annotation_id": "e7172508-dc4b-46e8-a3c2-20427c96791d",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2358s-2435s"
+  },
+  {
+    "question": "What task has the experimenter just finished performing?",
+    "correct_answer": "Making a dilution of oligomers.",
+    "incorrect_answer1": "Filtering a suspension of crystals.",
+    "incorrect_answer2": "Discarding the small plastic tubes.",
+    "rationale": "The experimenter notes that they have finished making a dilution of the oligomers.",
+    "annotation_id": "a4ae4c52-2a92-4965-a9e4-fdbfd1ab1a70",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the experimenter preparing to do next?",
+    "correct_answer": "Make a dilution of 3.5 fibrils.",
+    "incorrect_answer1": "Filter the precipitate from the mixture.",
+    "incorrect_answer2": "Centrifuge the 1.5 mL sample tubes.",
+    "rationale": "The experimenter states they are going to make a dilution of 3.5 fibrils.",
+    "annotation_id": "69293a6f-7152-46fe-b4e9-85be4f1d47ad",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the video did the experimenter adjust the pipette volume in preparation for diluting the fibrils?",
+    "correct_answer": "2351s-2439s",
+    "incorrect_answer1": "518s-596s",
+    "incorrect_answer2": "2143s-2197s",
+    "annotation_id": "69293a6f-7152-46fe-b4e9-85be4f1d47ad",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2755s-2758s"
+  },
+  {
+    "question": "The experimenter is adjusting a pipette to a larger volume for a transfer. At what point in the past did they perform an initial step to ensure they wouldn't have to pipette an unreliably small volume of the original substance?",
+    "correct_answer": "2351s-2439s",
+    "incorrect_answer1": "1450s-1518s",
+    "incorrect_answer2": "1085s-1136s",
+    "annotation_id": "3f5393ca-9201-4bbe-9540-5b0a95d17385",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "2713s-2749s"
+  },
+  {
+    "question": "What is a crucial verification step the experimenter must remember to perform after finishing the pipetting action for a specific tube?",
+    "correct_answer": "Check the label on the tube.",
+    "incorrect_answer1": "Verify the correct volume was dispensed.",
+    "incorrect_answer2": "Confirm the clear liquid reaches the tube's rim.",
+    "rationale": "The experimenter explicitly states, 'After that, make sure to check the label,' highlighting this as a necessary step to ensure sample tracking and accuracy.",
+    "annotation_id": "e8cb5049-f91d-4ca6-a5bf-54c6a7be1f55",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is checking the labels on the tubes. At what point in the video did they prepare for this by writing the labels?",
+    "correct_answer": "1659s-1884s",
+    "incorrect_answer1": "330s-433s",
+    "incorrect_answer2": "651s-675s",
+    "annotation_id": "e8cb5049-f91d-4ca6-a5bf-54c6a7be1f55",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2358s-2435s"
+  },
+  {
+    "question": "What volume is the experimenter likely setting the new pipette to for the next step?",
+    "correct_answer": "5 microliters",
+    "incorrect_answer1": "10 microliters",
+    "incorrect_answer2": "1000 microliters on the black pipette",
+    "rationale": "The experimenter states they need 5 microliters for the next dilution, explaining why they switch to a smaller pipette and adjust its volume.",
+    "annotation_id": "5cab13a8-0892-486a-b44c-cee66c317e6c",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "After mixing the solution in the tube, why does the experimenter pick up a different pipette and adjust it?",
+    "correct_answer": "To set it to 10 microliters for the next step in the protocol.",
+    "incorrect_answer1": "To change the volume setting before adding the enzyme to the mixture.",
+    "incorrect_answer2": "To tighten the new clear tip from the green box onto the black pipette.",
+    "rationale": "The experimenter states, 'And then change it to the 10 microliter as our protocol says.'",
+    "annotation_id": "a1664411-217c-40c0-a9f0-dd3d19d31c7f",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is it beneficial to include specific numbers when writing a protocol?",
+    "correct_answer": "It helps prevent confusion during the execution of the experiment.",
+    "incorrect_answer1": "It allows other scientists to accurately reproduce the published results.",
+    "incorrect_answer2": "It dictates the precise angle to hold the black micropipette.",
+    "rationale": "The experimenter mentions that writing everything down, including numbers, is good practice to avoid getting confused while doing experiments.",
+    "annotation_id": "5084fa35-eaf7-4865-a715-b904c8633c5a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is consulting a printed protocol sheet with highlighted sections and handwritten notes to determine the correct pipette volume, ensuring they do not get confused. At what point in the past was this protocol sheet shown being prepared or reviewed on a black desk?",
+    "correct_answer": "131s-138s",
+    "incorrect_answer1": "518s-596s",
+    "incorrect_answer2": "330s-433s",
+    "annotation_id": "5084fa35-eaf7-4865-a715-b904c8633c5a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2439s-2713s"
+  },
+  {
+    "question": "Why is the experimenter marking the tubes?",
+    "correct_answer": "To track the number of freeze-thaw cycles the samples have undergone, which could affect protein integrity and explain suboptimal results.",
+    "incorrect_answer1": "To indicate the specific time intervals at which each aliquot was extracted, which is necessary to calculate accurate reaction kinetics.",
+    "incorrect_answer2": "To track which microcentrifuge tubes have already received liquid from the black pipette, which prevents accidental double-loading of reagents.",
+    "rationale": "The experimenter notes that they are marking the tubes to record the number of freeze-thaw cycles (transcribed as 'sew cycle') because it might affect the proteins and could be a reason for poor results.",
+    "annotation_id": "899dcade-d4f6-4f11-b4fb-27939046495d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter mark the tubes with the number of thaw cycles to prepare for troubleshooting potential issues with the results?",
+    "correct_answer": "2497s-2566s",
+    "incorrect_answer1": "1659s-1884s",
+    "incorrect_answer2": "651s-675s",
+    "annotation_id": "899dcade-d4f6-4f11-b4fb-27939046495d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2789s-2851s"
+  },
+  {
+    "question": "What is the intended storage location for the dilutions?",
+    "correct_answer": "The freezer",
+    "incorrect_answer1": "The refrigerator",
+    "incorrect_answer2": "The white tube rack",
+    "rationale": "The experimenter mentions that the dilutions will be kept in the freezer just in case.",
+    "annotation_id": "964956bf-b415-4d07-82cf-9ad454875753",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently storing boxes of samples, including diluted oligomers and PFFs, in the freezer. At what point earlier in the experiment did they prepare these dilutions?",
+    "correct_answer": "2497s-2566s",
+    "incorrect_answer1": "1926s-2016s",
+    "incorrect_answer2": "2197s-2351s",
+    "annotation_id": "964956bf-b415-4d07-82cf-9ad454875753",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "3183s-3335s"
+  },
+  {
+    "question": "When the experimenter holds the tube up and inspects it closely after taking it from the white rack, what are they most likely looking for?",
+    "correct_answer": "They are checking to see if the contents have completely thawed by looking for any remaining ice.",
+    "incorrect_answer1": "They are checking to see if the solid has completely dissolved by looking for any remaining particles.",
+    "incorrect_answer2": "They are checking to see if the yellowish liquid has precipitated by looking for a solid pellet.",
+    "rationale": "The experimenter notes that there is 'a small like ice floating around'. This indicates they are checking the thawing status of the sample. The question tests whether the student can infer this purpose from the visual inspection.",
+    "annotation_id": "f0df34a5-4231-4d54-9d9d-d65a6ce52c84",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter visually determine that the sample is not yet fully thawed?",
+    "correct_answer": "2573s-2579s",
+    "incorrect_answer1": "1481s-1487s",
+    "incorrect_answer2": "1011s-1017s",
+    "rationale": "The experimenter notices a solid piece floating in the liquid and concludes it is ice, indicating the sample needs more time to thaw. This tests the viewer's ability to recognize when a visual check of a sample's physical state informs an assessment of its readiness.",
+    "annotation_id": "f0df34a5-4231-4d54-9d9d-d65a6ce52c84",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is vortexing the urine sample to ensure it is well mixed now that it has thawed. At what earlier point in the experiment did they check this sample and determine that it was not yet fully thawed?",
+    "correct_answer": "1884s-1926s",
+    "incorrect_answer1": "138s-165s",
+    "incorrect_answer2": "1085s-1136s",
+    "annotation_id": "3d2a7ecb-d543-4813-aad0-7ca600286fda",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "13s-20s"
+  },
+  {
+    "question": "What volume is the pipette being adjusted to, and what is the reason for this change?",
+    "correct_answer": "The pipette is being adjusted to 360 to prepare for spiking the samples with 440 of each seed.",
+    "incorrect_answer1": "The pipette is being adjusted to 200 to prepare for washing the precipitate with 150 of ethanol.",
+    "incorrect_answer2": "The pipette is being adjusted to 500 to prepare for diluting the samples with 200 of the buffer.",
+    "rationale": "The experimenter explicitly states they are changing the pipette volume to 360 because they will be spiking with 440 of each seed from now on. This tests the student's understanding of the specific volume adjustments being made for the upcoming steps.",
+    "annotation_id": "3147f953-7270-43a2-9525-abdb93428c8d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is adjusting a pipette to add a specific volume of a substance to the samples. At what previous point in the experiment did they prepare the tubes with the corresponding volume of the base liquid to accommodate this specific addition?",
+    "correct_answer": "2635s-2715s",
+    "incorrect_answer1": "596s-651s",
+    "incorrect_answer2": "4946s-5019s",
+    "annotation_id": "3147f953-7270-43a2-9525-abdb93428c8d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2713s-2749s"
+  },
+  {
+    "question": "The experimenter is organizing and storing the sample boxes in the freezer. At what point in the past did they set aside the finished sample in the white foam rack?",
+    "correct_answer": "2790s-2853s",
+    "incorrect_answer1": "2497s-2566s",
+    "incorrect_answer2": "3002s-3020s",
+    "annotation_id": "7f4b9ab8-e0a5-496c-8975-f5585ad078ad",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3183s-3335s"
+  },
+  {
+    "question": "What process will the samples undergo next?",
+    "correct_answer": "Centrifugation",
+    "incorrect_answer1": "Filtration",
+    "incorrect_answer2": "Incubation in the white rack",
+    "rationale": "The experimenter anticipates running the samples at 4000G for 30 minutes at 4 degrees Celsius. Test whether the student knows that centrifugation is the next step.",
+    "annotation_id": "2f5fe08f-7ba2-44a5-a562-5b8b78757986",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the scientist planning to transfer the leftover sample into a smaller tube?",
+    "correct_answer": "To save space because the storage box is small.",
+    "incorrect_answer1": "To minimize air exposure so the sample remains stable.",
+    "incorrect_answer2": "To dispose of it in the red biohazard bag.",
+    "rationale": "The experimenter notes that keeping the sample in a larger tube is difficult because their storage box is small, prompting the transfer to a smaller tube for -80 degree storage.",
+    "annotation_id": "bd385281-3a3d-442b-8f2c-a173b44ad151",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What information is the experimenter likely transferring from the old tube to the new tube?",
+    "correct_answer": "The exact same details, including the expiration date.",
+    "incorrect_answer1": "The chemical name and its specific molar concentration.",
+    "incorrect_answer2": "Only the volume from the large conical tube.",
+    "rationale": "The experimenter states they are writing \"everything as the same details in the previous tube... and then you have to also write the expire date just in case\".",
+    "annotation_id": "a87083e7-da94-40d3-9f7c-5b274fde6c77",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "While the experimenter is organizing and storing sample boxes in the freezer, they rely on the labels on the tubes to identify them. At what point in the past did the experimenter label these tubes with detailed information, such as contents and expiry date, to ensure they could be easily identified during this storage process?",
+    "correct_answer": "2853s-3002s",
+    "incorrect_answer1": "1659s-1884s",
+    "incorrect_answer2": "1884s-1926s",
+    "annotation_id": "a87083e7-da94-40d3-9f7c-5b274fde6c77",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3183s-3335s"
+  },
+  {
+    "question": "Why is it acceptable for the experimenter to reuse the same pipette tip in this specific step?",
+    "correct_answer": "They are transferring the same sample and precise volume is not critical.",
+    "incorrect_answer1": "They are pipetting from the lowest concentration to the highest concentration solution.",
+    "incorrect_answer2": "They are transferring different samples, but the held tube contains sterilizing acid.",
+    "rationale": "The experimenter states that they are using the same sample and the volume doesn't matter much, so they will use the same tip.",
+    "annotation_id": "3a84acfe-53db-4eff-ba9d-31a9121712de",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "While transferring the supernatant, the experimenter must avoid disturbing the pellet. At what point earlier in the experiment did they orient the tubes to ensure the pellet would form in a predictable location?",
+    "correct_answer": "3072s-3139s",
+    "incorrect_answer1": "4863s-4918s",
+    "incorrect_answer2": "5134s-5153s",
+    "annotation_id": "7715301d-2874-41d1-bee6-9f5fd7468dbe",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "5153s-5309s"
+  },
+  {
+    "question": "Why does the experimenter state they need to be careful not to touch other items while retrieving the boxes?",
+    "correct_answer": "Because they are currently wearing a gown.",
+    "incorrect_answer1": "Because their gloves are covered in chemicals.",
+    "incorrect_answer2": "Because the purple gloves might tear on the frosty shelves.",
+    "rationale": "The experimenter explicitly states they must be careful not to touch other items because they are wearing a gown, likely to prevent cross-contamination.",
+    "annotation_id": "b1587bd8-362d-4049-87f4-eeca76dca90c",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point did the experimenter put on gloves to prepare for taking off their lab coat?",
+    "correct_answer": "3335s-3386s",
+    "incorrect_answer1": "0s-56s",
+    "incorrect_answer2": "1360s-1415s",
+    "annotation_id": "26b272a7-9828-4dc3-aeb1-b83ab8ddce4b",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "3345s-3382s"
+  },
+  {
+    "question": "Why does the experimenter discard their current gloves and retrieve a new pair?",
+    "correct_answer": "To prevent cross-contamination after interacting with the balance.",
+    "incorrect_answer1": "To replace a glove that has a visible tear.",
+    "incorrect_answer2": "To prevent cross-contamination before handling the white lab coat.",
+    "rationale": "The experimenter explicitly states they are getting fresh gloves because they \"touched the balance,\" indicating a conscious effort to maintain a clean workspace and avoid transferring any potential contaminants to their next task.",
+    "annotation_id": "e19af0ef-a839-49c7-aaad-0e687413cdb4",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the recommended frequency for calibrating the pH meter?",
+    "correct_answer": "Every week",
+    "incorrect_answer1": "Before each use",
+    "incorrect_answer2": "Before every blue rack",
+    "rationale": "The experimenter recommends calibrating the pH meter every week. Test whether the student knows this standard maintenance procedure.",
+    "annotation_id": "5c141d19-3e8c-42b5-954c-0e4b02525251",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is a potential consequence if the liquid level inside the electrode is too low?",
+    "correct_answer": "The instrument may produce erratic or inaccurate readings.",
+    "incorrect_answer1": "The sample fluid may contaminate the internal electrode.",
+    "incorrect_answer2": "The Mettler Toledo meter will produce perfectly accurate readings.",
+    "rationale": "The experimenter notes that if there isn't enough filling solution, 'they will have very strange values.'",
+    "annotation_id": "ca315d98-4656-4e59-b622-232829ac1196",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter check the probe to try to prevent these anomalous readings?",
+    "correct_answer": "3480s-3562s",
+    "incorrect_answer1": "3953s-3994s",
+    "incorrect_answer2": "438s-488s",
+    "annotation_id": "ca315d98-4656-4e59-b622-232829ac1196",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4302s-4384s"
+  },
+  {
+    "question": "What is the primary motivation for the experimenter seeking a seat before proceeding?",
+    "correct_answer": "The subsequent steps of the protocol are time-consuming.",
+    "incorrect_answer1": "The upcoming procedure requires a highly steady hand.",
+    "incorrect_answer2": "They must read the white scale at eye level.",
+    "rationale": "The experimenter explicitly states that the upcoming task 'takes a long time,' which is the reason they need a place to sit. The question tests the student's ability to infer this practical consideration from the experimenter's actions.",
+    "annotation_id": "bad3b430-f80e-4b9d-9efd-3c128eb88191",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter prepare for this lengthy process by getting a chair to sit on?",
+    "correct_answer": "3562s-3635s",
+    "incorrect_answer1": "3139s-3183s",
+    "incorrect_answer2": "1518s-1568s",
+    "annotation_id": "bad3b430-f80e-4b9d-9efd-3c128eb88191",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4704s-4752s"
+  },
+  {
+    "question": "The experimenter later notes a discrepancy between a previous pH measurement and the current reading. At what point in the video did they anticipate this by warning that the pH meter is highly sensitive and its value can change if the setup is touched during measurement?",
+    "correct_answer": "0s-56s",
+    "incorrect_answer1": "3562s-3635s",
+    "incorrect_answer2": "3480s-3562s",
+    "annotation_id": "20b5aa92-af42-49d1-a7fe-798e4cbd92fc",
+    "category": [
+      "PLAN",
+      "RISK_MANAGEMENT"
+    ],
+    "stage": "stage2",
+    "current_point": "3593s-3635s"
+  },
+  {
+    "question": "The experimenter is checking if the pH of the solution falls within a strict acceptable range of 0.05. At what earlier point in the video did they calibrate the pH meter to correct a minor discrepancy and ensure this level of accuracy?",
+    "correct_answer": "3562s-3635s",
+    "incorrect_answer1": "3386s-3432s",
+    "incorrect_answer2": "4520s-4608s",
+    "annotation_id": "efbe3a9e-c36a-4d89-b40b-e7dff1844c4a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4704s-4752s"
+  },
+  {
+    "question": "What visual cue indicates that the first measurement is complete?",
+    "correct_answer": "The scientist presses a button on the meter, and it displays 'SAVEd'.",
+    "incorrect_answer1": "The numerical value on the screen stabilizes, and a green light flashes.",
+    "incorrect_answer2": "The scientist removes the probe, and the white meter displays '2ndPt'.",
+    "rationale": "The experimenter states they just finished the first measurement. Test whether the student can identify the action that signifies this completion.",
+    "annotation_id": "f17f2a37-0091-4159-8f4f-00e447bea6f0",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why is the experimenter preparing tubes at this moment?",
+    "correct_answer": "They are waiting for a pH measurement to complete.",
+    "incorrect_answer1": "They are waiting for the hotplate to reach temperature.",
+    "incorrect_answer2": "They are waiting for the Ohaus balance to stabilize.",
+    "rationale": "The experimenter states they are waiting for a pH measurement. The question tests if the student understands that the current action (preparing tubes) is being done during this waiting period.",
+    "annotation_id": "4b53e89b-4c81-4f18-b885-b3c7acbe90d2",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the experimenter's perspective on the necessity of filtering the buffers?",
+    "correct_answer": "It is generally considered unimportant and is sometimes omitted entirely.",
+    "incorrect_answer1": "It is absolutely crucial for preventing damage to the equipment.",
+    "incorrect_answer2": "He considers it strictly required for the Falcon tube buffer.",
+    "rationale": "The experimenter notes that filtering buffers is 'not that important stuff' and that 'some people don't even filter it'.",
+    "annotation_id": "ec3fc1b8-897c-4f45-9047-80ed7ef1020b",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter anticipate finding small cubes in the tube currently being labeled?",
+    "correct_answer": "The planned filtration step will separate the particles by size, allowing only the smaller cubes to pass through into the collection tube.",
+    "incorrect_answer1": "The rapid cooling process applied to this specific tube will force the dissolved compound to crystallize quickly, forming numerous small cubic structures.",
+    "incorrect_answer2": "The 1% solution marked on the blue-capped 50mL tube is designed to precipitate into small cubic crystals when stored in the nearby digital incubator.",
+    "rationale": "The experimenter explicitly states that filtering will result in the small cubes being in the tube instead of the big ones. This tests the student's understanding of the physical separation process being planned.",
+    "annotation_id": "a52f5684-bcc8-4a42-a5bc-3b39d2b33137",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "The presence of a colleague here highlights that the lab is a shared environment. At what point in the past did the experimenter take action to prevent future confusion for others who might encounter the reagents they prepared?",
+    "correct_answer": "3858s-3906s",
+    "incorrect_answer1": "1659s-1884s",
+    "incorrect_answer2": "651s-675s",
+    "annotation_id": "da25bf5d-4c60-4a1e-ad5d-1c0fd20ad81f",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4237s-4262s"
+  },
+  {
+    "question": "What is the likely status of the calibration process at this point?",
+    "correct_answer": "It is finished.",
+    "incorrect_answer1": "It is beginning.",
+    "incorrect_answer2": "It is calibrating to 4.16.",
+    "rationale": "The experimenter notes that the calibration is done. Test whether the student knows this.",
+    "annotation_id": "25e51246-b894-47de-8a32-71f998b962eb",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the experimenter plan to use a beaker for preparing a large amount of the upcoming mixture?",
+    "correct_answer": "To prevent the need to repeatedly transfer liquid back and forth with a pipette tip.",
+    "incorrect_answer1": "To provide enough space to safely use a magnetic stir bar for continuous, vigorous mixing.",
+    "incorrect_answer2": "To accommodate the wide black pH probe, which will not fit inside the microcentrifuge tubes.",
+    "rationale": "The experimenter states they will use a beaker to avoid \"tip come back and forth\" when making a large amount of a mixture.",
+    "annotation_id": "110ac9a9-8c1d-4b9e-ae50-58a037f127ed",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is pouring liquid into a beaker to create a larger reservoir, which prevents them from having to repeatedly insert their pipette into a smaller tube. At what point in the past did the experimenter retrieve this beaker?",
+    "correct_answer": "3994s-4028s",
+    "incorrect_answer1": "438s-488s",
+    "incorrect_answer2": "433s-438s",
+    "annotation_id": "110ac9a9-8c1d-4b9e-ae50-58a037f127ed",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4608s-4654s"
+  },
+  {
+    "question": "Why does the experimenter choose to use a beaker to collect the water?",
+    "correct_answer": "To demonstrate an alternative option for the procedure.",
+    "incorrect_answer1": "To provide a wider opening for catching liquid.",
+    "incorrect_answer2": "To precisely measure 150 mL of purified water.",
+    "rationale": "The experimenter states, \"I just want to show that you have another option for using beaker,\" indicating that using the beaker is for demonstration purposes rather than a strict requirement.",
+    "annotation_id": "bdcf21d8-7527-4744-987c-d5264f07c852",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "Why does the scientist retrieve a new chemical after checking the pH meter?",
+    "correct_answer": "To lower the pH of the solution.",
+    "incorrect_answer1": "To calibrate the pH meter for accuracy.",
+    "incorrect_answer2": "To raise the pH of the 7.01 solution.",
+    "rationale": "The experimenter states they need to lower the pH and are retrieving HCl for this purpose. Test whether the student understands this intended action based on the workflow.",
+    "annotation_id": "3c587a88-a698-4d18-9e50-8690979eda8e",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently using a glass pipette to transfer liquid from a small white bottle. At what point in the past did they retrieve these specific items?",
+    "correct_answer": "0s-56s",
+    "incorrect_answer1": "1085s-1136s",
+    "incorrect_answer2": "3994s-4028s",
+    "annotation_id": "3c587a88-a698-4d18-9e50-8690979eda8e",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4265s-4272s"
+  },
+  {
+    "question": "The experimenter is currently vortexing a tube and then measuring its pH. At what point in the past did they state this sequence of actions as part of their procedure?",
+    "correct_answer": "4094s-4162s",
+    "incorrect_answer1": "3480s-3562s",
+    "incorrect_answer2": "264s-330s",
+    "annotation_id": "34d28c00-4d85-42cd-ba15-117d9a029283",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "4384s-4413s"
+  },
+  {
+    "question": "Why does the experimenter hold the glass pipette near the end where the bulb is attached?",
+    "correct_answer": "To prevent contamination of the pipette.",
+    "incorrect_answer1": "To avoid breaking the glass stem.",
+    "incorrect_answer2": "To increase the yellow bulb's suction.",
+    "rationale": "The experimenter states that they grab the pipette at the end to avoid contamination. Test whether the student understands this best practice.",
+    "annotation_id": "5a276faf-0482-420b-8345-6e699103a754",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter realize that the pipette volume has not been set correctly?",
+    "correct_answer": "4563s-4566s",
+    "incorrect_answer1": "556s-559s",
+    "incorrect_answer2": "3972s-3975s",
+    "rationale": "The experimenter's sudden pause to check and adjust the pipette dial indicates they noticed the volume was incorrect. Testing this evaluates the student's ability to recognize corrective actions during routine lab procedures.",
+    "annotation_id": "82252919-fe05-452f-8f59-db586fde5d30",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what moment does the experimenter visually confirm that the pH meter is successfully calibrated and functioning correctly in measurement mode?",
+    "correct_answer": "4609s-4611s",
+    "incorrect_answer1": "3598s-3600s",
+    "incorrect_answer2": "3520s-3522s",
+    "rationale": "The experimenter observes the pH meter screen switch to measurement mode and display the expected pH value for the buffer, concluding that the calibration was successful despite skipping the fourth buffer. This tests the viewer's ability to interpret the instrument's display and connect it to the experimenter's assessment of its status.",
+    "annotation_id": "f005019f-41fe-448e-be23-0bc250494808",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what point in the video did the experimenter prepare to add a minimal volume of liquid to avoid changing the overall volume of the solution?",
+    "correct_answer": "4302s-4384s",
+    "incorrect_answer1": "4094s-4162s",
+    "incorrect_answer2": "3975s-3994s",
+    "annotation_id": "4ee2678b-71ec-4deb-ab1d-f6772de0848c",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4654s-4707s"
+  },
+  {
+    "question": "The experimenter is now carefully retrieving the centrifuged samples, ensuring the pellet and supernatant remain separated. At what point in the past did the experimenter prepare for this outcome by configuring the centrifuge settings and tube orientation?",
+    "correct_answer": "3072s-3139s",
+    "incorrect_answer1": "4863s-4918s",
+    "incorrect_answer2": "5019s-5071s",
+    "annotation_id": "763608e3-aaf1-4a26-afaa-91a32d36cd9b",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4946s-5134s"
+  },
+  {
+    "question": "What is the purpose of transferring the supernatant to new tubes and discarding the pellets?",
+    "correct_answer": "To remove dirt and inhibitors that collected in the pellets during the slow centrifugation.",
+    "incorrect_answer1": "To separate the soluble proteins in the liquid from the heavy, unlysed cell debris.",
+    "incorrect_answer2": "To maximize the supernatant's contact with the ice bath by removing the solid pellet mass.",
+    "rationale": "The experimenter notes that the slow centrifuge caused dirt and inhibitors to settle in the pellet, so they will discard it and keep the supernatant. Test whether the student understands this reasoning.",
+    "annotation_id": "c9995663-4d95-4396-bdb1-cffd37264bc7",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter perform the action that caused the dirt and inhibitors to form the pellet being left behind here?",
+    "correct_answer": "3072s-3139s",
+    "incorrect_answer1": "5019s-5071s",
+    "incorrect_answer2": "4800s-4863s",
+    "annotation_id": "c9995663-4d95-4396-bdb1-cffd37264bc7",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "5199s-5309s"
+  },
+  {
+    "question": "The experimenter deliberately adds the aggregation seeds as the very last component to the reaction mixtures. What is the primary kinetic reason for delaying this addition until the end of the preparation?",
+    "correct_answer": "To minimize the time the mixture spends at room temperature, thereby reducing the likelihood of spontaneous, unseeded aggregation occurring before the assay begins.",
+    "incorrect_answer1": "To ensure the seeds enter a fully homogeneous environment, preventing localized concentration spikes of salt or monomer from prematurely altering the aggregation rate.",
+    "incorrect_answer2": "To maximize the 0.06 mg/ml monomer's time at room temperature, thereby promoting the spontaneous, unseeded aggregation required before the 0.1 ng/ml seeds are added.",
+    "rationale": "Students might assume that the order of addition in a mixture is arbitrary as long as all components are present. However, in aggregation assays, proteins can spontaneously aggregate at room temperature, making it crucial to add the seeds last to ensure the observed aggregation is actually seed-induced rather than a spontaneous background process.",
+    "annotation_id": "5cebc28b-1ea6-4d7d-b5cf-e7aaf3379dba:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "Why does the experimenter label the empty tubes before adding any liquid to them?",
+    "correct_answer": "To establish a clear tracking system that prevents the accidental addition of incorrect chemicals later in the procedure.",
+    "incorrect_answer1": "To ensure the marker ink adheres properly to the dry plastic before condensation forms on the tube surface.",
+    "incorrect_answer2": "To ensure the marker ink dries completely before the cold 5x pH 6.3 Phosphate Buffer causes surface condensation.",
+    "rationale": "Students might assume that labeling is primarily done to identify the contents of a tube after it has been filled. However, experienced scientists label empty tubes beforehand to prevent confusion and ensure the correct reagents are added to the correct tubes, safeguarding the experiment's integrity.",
+    "annotation_id": "cc66c371-3a46-48a5-8b3d-961cb3955459:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "The researcher is preparing several different master mixes in separate tubes. Which pipetting strategy is most efficient for adding the reagents that are common to all the mixes?",
+    "correct_answer": "Dispense one common reagent into all the tubes sequentially, then switch to the next common reagent.",
+    "incorrect_answer1": "Prepare a single large master mix containing all shared reagents, then aliquot it into separate tubes.",
+    "incorrect_answer2": "Pipette all common reagents into one blue 15 mL tube completely before moving to the next.",
+    "rationale": "Students might intuitively think it is best to prepare one complete mixture at a time to avoid confusion. However, the question targets the more efficient laboratory practice of adding reagents 'by chemical' rather than 'by mix', which minimizes the time spent adjusting pipettes and opening/closing reagent bottles.",
+    "annotation_id": "4dd8b60e-de85-494b-aa74-74572dbbbbc3:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "In the video, the experimenter is seen dispensing a reagent into several tubes one after another. What is the main practical reason for organizing the workflow this way?",
+    "correct_answer": "To reduce the frequency of adjusting the pipette's volume setting.",
+    "incorrect_answer1": "To minimize the overall number of disposable pipette tips used.",
+    "incorrect_answer2": "To prevent the alpha-synuclein monomer from aggregating in the tip.",
+    "rationale": "Students might not immediately appreciate the practical efficiency of batching pipetting tasks by volume or reagent. The question targets this workflow optimization, which minimizes the time and effort spent repeatedly changing the pipette volume.",
+    "annotation_id": "22293934-6622-4feb-bda1-f2d447defef8:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "What is the primary reason the experimenter vortexes this specific sample immediately before transferring liquid from it?",
+    "correct_answer": "To resuspend heavy nanoparticles that tend to settle out of solution over time.",
+    "incorrect_answer1": "To ensure the spiked alpha-synuclein seeds are evenly distributed throughout the urine sample.",
+    "incorrect_answer2": "To deliberately denature the alpha-synuclein monomers to accelerate their aggregation during the assay.",
+    "rationale": "Students might assume vortexing is solely for initially dissolving solutes or mixing miscible liquids. However, in this case, it is required because the heavy nanoparticles form a suspension that settles, necessitating immediate resuspension prior to any transfer to ensure an accurate concentration is pipetted.",
+    "annotation_id": "a23646c0-0aa9-4500-b1c2-7bf02becf1f8:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "When handling the nanoparticle suspensions, the experimenter chooses to transfer the residual liquid from a nearly depleted bottle into a newly opened bottle. What is the primary practical limitation that necessitates this transfer rather than pipetting directly from the nearly empty vessel?",
+    "correct_answer": "The residual volume is too small to be efficiently and accurately aspirated using a standard pipette.",
+    "incorrect_answer1": "The physical geometry of the depleted bottle prevents the pipette tip from reaching the remaining liquid.",
+    "incorrect_answer2": "The bulky barrel of the 1000 \u00b5L pipette prevents the tip from reaching the bottom of the square bottle.",
+    "rationale": "Students might assume the transfer is to ensure batch homogeneity or to prevent contamination, but the scientist's comment highlights a purely mechanical limitation: it is physically difficult to pipette very small volumes from the bottom of a standard reagent bottle.",
+    "annotation_id": "baabf399-c3a9-4c9d-be63-4e7e066e33ee:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "After mechanically shaking the bottle, the experimenter uses a pipette to repeatedly draw up and expel the liquid. What is the primary reason for this additional manual mixing step?",
+    "correct_answer": "To ensure the nanoparticles remain fully dispersed, as they are prone to rapid settling or aggregation.",
+    "incorrect_answer1": "To thoroughly integrate the viscous Triton X-100 detergent into the master mix before distributing to the wells.",
+    "incorrect_answer2": "To ensure the alpha-synuclein seeds are mechanically fragmented, as they are prone to forming long fibrils.",
+    "rationale": "Students might assume that mechanical shaking (vortexing) is sufficient to create a homogeneous mixture for any solution. However, in the context of nanoparticle suspensions, particles can settle or aggregate very quickly. The scientist's comment highlights the practical necessity of triturating (pipetting up and down) immediately before transfer to guarantee the nanoparticles are fully mixed and the dispensed volume contains the correct concentration.",
+    "annotation_id": "3f399036-2f3b-4112-8189-1d033aa646c0:1",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "At this stage, the experimenter is carefully pipetting the solution up and down gently. What is the primary reason for avoiding fast, forceful pipetting here?",
+    "correct_answer": "To prevent the formation of air bubbles, which would interfere with accurate volume measurement.",
+    "incorrect_answer1": "To avoid creating high shear forces, which could prematurely fragment the fragile protein fibrils.",
+    "incorrect_answer2": "To prevent the 1mM ThT fluorescent dye from degrading due to high shear forces.",
+    "rationale": "Students might assume gentle pipetting is necessary to avoid shearing delicate structures like nanoparticles or proteins. However, the primary practical concern here is avoiding bubbles (especially in detergent solutions) that would compromise the accuracy of subsequent pipetting steps.",
+    "annotation_id": "012a0fd6-72e2-4207-b57d-ad2ae4625017:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "The experimenter is using the warmth of their hands to finish thawing a sample. Why might they choose this manual method rather than using a laboratory oven or incubator?",
+    "correct_answer": "Transferring the sample outside the hood would pose a contamination risk to the external equipment.",
+    "incorrect_answer1": "Using body heat prevents the sensitive protein samples from overheating and spontaneously aggregating before use.",
+    "incorrect_answer2": "Placing the small tube in an incubator would denature the delicate alpha-synuclein oligomer seeds.",
+    "rationale": "Students might assume that standard heating equipment is always preferable for thawing samples. This question highlights the practical constraints of working within a containment hood and the priority of preventing cross-contamination of shared lab equipment.",
+    "annotation_id": "875782a0-3a78-4702-9ccf-d376ed44a7fb:1",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "As the experimenter carefully pipettes the spiked samples, they are highly focused on avoiding any spills. While the samples contain potentially hazardous materials, what is the primary practical reason the experimenter is so concerned about spilling at this specific stage?",
+    "correct_answer": "The total volume of the prepared liquid is strictly limited, and losing any would mean there is not enough to fill all the necessary wells to complete the experiment.",
+    "incorrect_answer1": "Spilling the liquid could cause the artificial fibrils to cross-contaminate the negative control wells, which would create false positive results and force them to completely restart the experiment.",
+    "incorrect_answer2": "The 0.1 ng/ml Oligomer seeds in the spiked samples are naturally highly fluorescent, and any spilled droplets on the plate's exterior would severely interfere with the VANTASTAR plate reader's sensors.",
+    "rationale": "Students might assume that the primary reason to avoid spilling in a biological lab is safety (especially with disease-causing seeds) or the high cost of reagents. However, the scientist emphasizes that the most immediate practical consequence of a spill is running out of the limited liquid, which would make it impossible to fill all the wells and finish the experiment.",
+    "annotation_id": "ce4b7849-de58-49b2-a07e-ce2b1b122db4:0",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "Why does the experimenter consider the handling of the 'seed' samples to be a particularly high-stakes part of the procedure?",
+    "correct_answer": "The seeds are expensive, time-consuming to prepare due to required centrifugation steps, and pose a potential biohazard related to Parkinson's disease.",
+    "incorrect_answer1": "Cross-contamination of the alpha-synuclein seeds into negative controls can cause false positives, meaning the entire optimization experiment would need restarting.",
+    "incorrect_answer2": "The seeds are highly exothermic and must remain in the white ice bucket to avoid melting the purple plastic tube racks.",
+    "rationale": "Students might not realize that the 'seeds' used in these assays (like RT-QuIC or PMCA for alpha-synuclein) are not just standard commercial reagents but are often lab-prepared, expensive, and require significant time (including ultracentrifugation) to generate, in addition to their biohazardous nature.",
+    "annotation_id": "ce4b7849-de58-49b2-a07e-ce2b1b122db4:1",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  },
+  {
+    "question": "During the supernatant collection step, the experimenter holds the microcentrifuge tube at a specific, tilted angle while pipetting. What is the primary purpose of holding the tube in this manner?",
+    "correct_answer": "To match the tube's orientation in the centrifuge rotor, which helps the experimenter mentally track the location of a pellet that is too small to see.",
+    "incorrect_answer1": "To ensure the pipette tip remains securely pressed against the opposite wall of the tube, keeping it as far away from the fragile pellet as possible.",
+    "incorrect_answer2": "To expose a larger surface area of the alpha-synuclein mixture, which prevents the 1% Triton X-100 detergent from creating unwanted bubbles while aspirating the supernatant.",
+    "rationale": "Students might assume that a centrifuged pellet is always visible or that the pipetting angle is merely for ergonomic comfort. The surprising element here is that the pellet is completely invisible, and the experimenter deliberately holds the tube at the same angle it rested in the centrifuge to use their understanding of physics to predict the pellet's location and avoid aspirating it.",
+    "annotation_id": "20b4ddc7-a2c5-43e8-8fcf-f97169295aaa:1",
+    "category": "INTERVIEW_INTENT",
+    "stage": "interview"
+  }
+]

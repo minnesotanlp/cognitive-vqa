@@ -1,0 +1,758 @@
+[
+  {
+    "question": "What is the experimenter's strategy for measuring out the highly specific volume of 18.569 mL of water?",
+    "correct_answer": "They will measure the bulk volume of 18 mL first, and then use a micropipette to add the precise remaining 569 \u00b5L.",
+    "incorrect_answer1": "They will use an analytical balance to measure the water by weight, adding drops until the mass reads exactly 18.569 grams.",
+    "incorrect_answer2": "They will use the squirt bottle to fill the graduated cylinder, relying on the smartphone camera to visually confirm exactly 18.569 mL.",
+    "rationale": "The experimenter explicitly breaks down the measurement into 'until 18' and then '569 microliter', demonstrating a strategy of combining bulk measurement with high-precision micropipetting to achieve the exact volume.",
+    "annotation_id": "4f134cdc-321e-4845-b6d8-cefbfd924410",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is adding a precise final volume of water to the solution. At what point earlier in the video were they planning the exact volumes needed for this step?",
+    "correct_answer": "252s-316s",
+    "incorrect_answer1": "62s-90s",
+    "incorrect_answer2": "90s-104s",
+    "annotation_id": "4f134cdc-321e-4845-b6d8-cefbfd924410",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "328s-348s"
+  },
+  {
+    "question": "At what point does the experimenter visually confirm the instability of the foam in the newly prepared solution?",
+    "correct_answer": "365s-374s",
+    "incorrect_answer1": "1220s-1229s",
+    "incorrect_answer2": "226s-235s",
+    "rationale": "The experimenter observes the rapidly popping bubbles after shaking the tube and concludes that the foam is unstable. This tests the viewer's ability to link the visual behavior of the bubbles to an assessment of foam stability.",
+    "annotation_id": "7272b02c-cc8b-4898-b191-afadb4e56712",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why does the experimenter apply compressed air to the vial containing the solution?",
+    "correct_answer": "To eliminate an unwanted bubble that has formed, ensuring the solution is properly prepared and free of air pockets before use.",
+    "incorrect_answer1": "To push the surfactant solution from the sealed vial into the microfluidic channels, allowing precise control over the fluid flow rate.",
+    "incorrect_answer2": "To rapidly evaporate excess continuous phase from the surfactant mixture, ensuring the emulsion is sufficiently concentrated before the microfluidic analysis.",
+    "rationale": "The experimenter explicitly notes that they are using a little bit of compressed air to 'pop up this bubble' in order to better prepare the solution for the experiment.",
+    "annotation_id": "69820405-be23-4e48-ba59-999f0e19d6ba",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "While preparing the syringe, the experimenter is carefully removing any air bubbles. At what earlier point in the video did they take action to remove bubbles from the solution itself?",
+    "correct_answer": "426s-457s",
+    "incorrect_answer1": "634s-652s",
+    "incorrect_answer2": "252s-316s",
+    "annotation_id": "69820405-be23-4e48-ba59-999f0e19d6ba",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "492s-550s"
+  },
+  {
+    "question": "At what point in the video did the experimenter display the prepared solution that is now being introduced into the microfluidic device?",
+    "correct_answer": "457s-470s",
+    "incorrect_answer1": "634s-652s",
+    "incorrect_answer2": "210s-252s",
+    "annotation_id": "23caea61-3d0e-46a6-b893-6649fbaf0fb3",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "882s-904s"
+  },
+  {
+    "question": "At what point in the past did the experimenter take action to prevent unwanted air from entering the system and disrupting the stable flow observed here?",
+    "correct_answer": "483s-512s",
+    "incorrect_answer1": "882s-906s",
+    "incorrect_answer2": "190s-210s",
+    "annotation_id": "3d705b5a-ff42-49bb-b8a0-5286ce01ffb9",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1208s-1246s"
+  },
+  {
+    "question": "Why does the experimenter connect the syringe directly to the tubing without washing the components first?",
+    "correct_answer": "The components were already washed prior to this step, making an additional wash unnecessary.",
+    "incorrect_answer1": "The syringe and tubing are brand new sterile consumables that do not require washing.",
+    "incorrect_answer2": "Washing would remove the pre-coated nonionic surfactants required to stabilize the microfluidic emulsion droplets.",
+    "rationale": "The experimenter notes, 'I washed it previously so I am not washing it again.' This tests if the student understands that the equipment was pre-washed, explaining why the experimenter proceeds directly to the connection.",
+    "annotation_id": "6a8a0817-734a-400a-bd3a-e292b43faf24",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "To ensure proper bubble formation here, at what point in the past did the experimenter stop the syringe pump to prevent air from leaking out prematurely?",
+    "correct_answer": "652s-692s",
+    "incorrect_answer1": "483s-512s",
+    "incorrect_answer2": "812s-843s",
+    "annotation_id": "df2b8d9a-2aa4-4f63-b5d9-bdbc8652f845",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1208s-1246s"
+  },
+  {
+    "question": "At what point in the video did the experimenter begin waiting for this outcome?",
+    "correct_answer": "843s-882s",
+    "incorrect_answer1": "1188s-1208s",
+    "incorrect_answer2": "1043s-1071s",
+    "annotation_id": "8ee2c720-2b83-4bec-be56-7f33508c1a43",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1208s-1246s"
+  },
+  {
+    "question": "At what point in the experiment did the experimenter open the software to prepare for this recording?",
+    "correct_answer": "906s-958s",
+    "incorrect_answer1": "210s-252s",
+    "incorrect_answer2": "2774s-2807s",
+    "annotation_id": "0b8f7cc3-a2ca-4e23-a533-74d9372463d1",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3160s-3192s"
+  },
+  {
+    "question": "The experimenter is currently observing the microfluidic device on the computer screen. At what earlier point did they adjust the microscope's brightness settings to ensure the device would be clearly visible?",
+    "correct_answer": "958s-992s",
+    "incorrect_answer1": "714s-731s",
+    "incorrect_answer2": "812s-843s",
+    "annotation_id": "7df09165-4810-4e00-a3a1-50ae3c6d417b",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1250s-1280s"
+  },
+  {
+    "question": "What is the experimenter identifying on the monitor, and why is it the focal point of the setup?",
+    "correct_answer": "The microfluidic channel, as it is the controlled environment where the coalescence of fluid interfaces will be observed.",
+    "incorrect_answer1": "The interacting air bubbles, because measuring their specific coalescence frequency is the primary objective of the experimental analysis.",
+    "incorrect_answer2": "The air-water interface, as it is the specific boundary where the adsorption dynamics of surfactants are measured.",
+    "rationale": "The experimenter points out the channel on the video feed. Test whether the student understands that this is the microfluidic channel where the core phenomena of the experiment (coalescence) will take place.",
+    "annotation_id": "1883d299-1af2-4053-8a76-65dcd3019d6a",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter determine that the microfluidic channel has been successfully located within the imaging system's field of view?",
+    "correct_answer": "988s-992s",
+    "incorrect_answer1": "826s-830s",
+    "incorrect_answer2": "1328s-1332s",
+    "rationale": "The experimenter's statement confirms that the structure now visible on the monitor is the target channel, indicating the completion of the lateral alignment phase. This tests the ability to link the appearance of the channel on the screen to the assessment that the setup is correctly positioned.",
+    "annotation_id": "1883d299-1af2-4053-8a76-65dcd3019d6a",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "At what moment does the experimenter first observe a formation in the microfluidic channel that leads them to conclude the current run is failing?",
+    "correct_answer": "992s-1000s",
+    "incorrect_answer1": "1456s-1464s",
+    "incorrect_answer2": "3914s-3922s",
+    "rationale": "The experimenter identifies a 'bridge' structure on the monitor and infers that the setup is 'not working'. This tests the viewer's ability to recognize structural anomalies in microfluidic channels that indicate experimental failure.",
+    "annotation_id": "af15a894-af48-417c-9a46-d498f8704a49",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why does the experimenter wipe the device under the microscope with a tissue?",
+    "correct_answer": "To remove water that is leaking from the air portion so the device can be seen clearly.",
+    "incorrect_answer1": "To wipe away condensation that formed on the microfluidic chip so the imaging remains sharp and accurate.",
+    "incorrect_answer2": "To press the microfluidic chip firmly against the Olympus microscope stage so the surfactant flow remains constant.",
+    "rationale": "The experimenter notes that water is coming out from the air portion and wipes it away to show the device clearly.",
+    "annotation_id": "33bb058b-9c47-4e4a-9585-d0230dc57736",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the past did the experimenter prepare to insert the airflow tube by adjusting the channel under the microscope?",
+    "correct_answer": "1122s-1164s",
+    "incorrect_answer1": "906s-958s",
+    "incorrect_answer2": "1346s-1390s",
+    "annotation_id": "3a14c36a-40b7-4baa-96b7-272f157d41cb",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1121s-1123s"
+  },
+  {
+    "question": "What is the experimenter observing about the microfluidic channel displayed on the monitor?",
+    "correct_answer": "There is currently a lack of bubble formation.",
+    "incorrect_answer1": "The air bubbles are merging together during flow.",
+    "incorrect_answer2": "There is currently a continuous generation of microbubbles.",
+    "rationale": "The experimenter explicitly notes that 'you cannot see any bubbles forming here' while pointing at the monitor.",
+    "annotation_id": "85f8528f-4399-4130-8b6f-d443257ffbf4",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter confirm the baseline, inactive state of the microfluidic system before starting the fluid flow?",
+    "correct_answer": "1164s-1170s",
+    "incorrect_answer1": "640s-646s",
+    "incorrect_answer2": "929s-935s",
+    "rationale": "The experimenter explicitly notes the absence of bubbles to establish that the system is currently inactive. Testing this requires the viewer to connect the empty microscopic channel on the monitor with the pre-flow state of the experiment.",
+    "annotation_id": "85f8528f-4399-4130-8b6f-d443257ffbf4",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why does the experimenter press a button on the syringe pump after checking the monitor?",
+    "correct_answer": "To induce the formation of bubbles, which have not yet appeared in the microfluidic channel.",
+    "incorrect_answer1": "To increase the flow rate, which alters the coalescence frequency of the observed emulsion droplets.",
+    "incorrect_answer2": "To stop the injection of surfactants, because coalescing air bubbles have already clogged the microfluidic channel.",
+    "rationale": "The experimenter explicitly states they are pressing the button because they are 'not seeing any bubbles yet,' indicating the action is intended to start or increase the flow to generate the expected bubbles.",
+    "annotation_id": "19c3dbe7-a9b9-410f-9de7-c5d370c11156",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter conclude that manual intervention is required to initiate bubble formation?",
+    "correct_answer": "1188s-1193s",
+    "incorrect_answer1": "1502s-1507s",
+    "incorrect_answer2": "1015s-1020s",
+    "rationale": "The experimenter inspects the chip, notes the absence of bubbles, and infers that they need to manually press the syringe pump to start the process. This tests the viewer's ability to link the visual inspection of the apparatus to the subsequent corrective action.",
+    "annotation_id": "19c3dbe7-a9b9-410f-9de7-c5d370c11156",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "As the experimenter points to the monitor displaying the chamber, what event are they anticipating, and what physical factor do they note will dictate the outcome?",
+    "correct_answer": "They are waiting to see if stable bubbles will form, noting that success depends on the disjoining pressure preventing immediate rupture.",
+    "incorrect_answer1": "They are anticipating the collision of two air bubbles, noting that the coalescence frequency is ultimately dictated by the fluid flow rate.",
+    "incorrect_answer2": "They are waiting to see if the microfluidic channel clogs, noting that this failure depends on the syringe pump's flow rate.",
+    "rationale": "The experimenter comments that they are watching the chamber to see if bubbles will form, noting that this depends on 'rupture' and 'disjoining pressure.' This tests whether the student understands that the experimenter is monitoring for bubble stability, which is governed by the disjoining pressure of the surfactant film.",
+    "annotation_id": "d3a7e3a7-f64c-4dc4-be09-ed38568576f4",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what earlier point was the experimenter pointing at the monitor and discussing their anticipation of the bubble formation and stability that is currently being observed?",
+    "correct_answer": "1241s-1263s",
+    "incorrect_answer1": "1522s-1560s",
+    "incorrect_answer2": "906s-958s",
+    "annotation_id": "d3a7e3a7-f64c-4dc4-be09-ed38568576f4",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "1250s-1280s"
+  },
+  {
+    "question": "When the experimenter notes that the objects on the screen are \"growing,\" what process are they observing and why is it relevant to the study?",
+    "correct_answer": "They are observing bubble coalescence, which serves as a measure of the kinetic resistance and stability of the surfactant-stabilized interfacial film.",
+    "incorrect_answer1": "They are observing Ostwald ripening of the emulsion droplets, which provides insight into the thermodynamic instability of the colloidal system over time.",
+    "incorrect_answer2": "They are observing Ostwald ripening within the microfluidic channel, which serves as a measure of gas diffusivity across the ionic surfactant-stabilized interfaces.",
+    "rationale": "The experimenter notes that something is \"growing\" on the screen. In the context of the experiment, this refers to the air bubbles coalescing, which is the primary phenomenon being studied to determine emulsion stability.",
+    "annotation_id": "ea5869e3-f17b-4503-8130-b4b686ea5cac",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter first observe that the newly generated bubbles are highly unstable and coalescing rapidly?",
+    "correct_answer": "1225s-1234s",
+    "incorrect_answer1": "2016s-2025s",
+    "incorrect_answer2": "2046s-2055s",
+    "rationale": "The experimenter concludes that the bubbles are 'collapsing a little bit fast' immediately after they first appear on the monitor. This tests the viewer's ability to recognize the onset of this specific, unstable bubble behavior.",
+    "annotation_id": "1fb6b26f-22bc-46cc-92d8-80283789747d",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is observing the formation of bubbles on the monitor. At what point did they place the device being observed onto the microscope stage?",
+    "correct_answer": "812s-843s",
+    "incorrect_answer1": "512s-550s",
+    "incorrect_answer2": "1241s-1263s",
+    "annotation_id": "f60023b9-b982-4a7d-8fcc-ac174bb93fb5",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1250s-1280s"
+  },
+  {
+    "question": "What characterizes the bubble formation process currently visible on the monitor?",
+    "correct_answer": "The formation of bubbles is not continuous.",
+    "incorrect_answer1": "The size of the bubbles is highly uniform.",
+    "incorrect_answer2": "The microfluidic channel displays a continuous bubble stream.",
+    "rationale": "The experimenter observes that the bubble formation is not continuous. Test whether the student can make the same observation from the video feed.",
+    "annotation_id": "afe21242-c2e9-4b81-8b26-a6770a01e911",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter visually determine that the generation of bubbles in the device is intermittent?",
+    "correct_answer": "1456s-1462s",
+    "incorrect_answer1": "4088s-4094s",
+    "incorrect_answer2": "1326s-1332s",
+    "rationale": "The experimenter observes the live feed on the monitor and concludes that the bubble formation is not continuous. This tests the viewer's ability to link the active observation of the monitor to an assessment of the process stability.",
+    "annotation_id": "afe21242-c2e9-4b81-8b26-a6770a01e911",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is currently observing continuous bubbles moving through the microfluidic chip. At what point in the past did the experimenter visually inspect the laboratory setup to plan adjustments for achieving this continuous bubble formation?",
+    "correct_answer": "1432s-1488s",
+    "incorrect_answer1": "1164s-1188s",
+    "incorrect_answer2": "1281s-1313s",
+    "annotation_id": "614aeb97-b99b-465a-839d-66935da977c6",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2830s-2836s"
+  },
+  {
+    "question": "The experimenter is currently adjusting the flow rate on the purple syringe pump. At what point in the past were they observing the laboratory setup while waiting to interact with this equipment?",
+    "correct_answer": "1522s-1560s",
+    "incorrect_answer1": "1346s-1390s",
+    "incorrect_answer2": "1313s-1346s",
+    "annotation_id": "1da52935-bf99-42fa-9711-ba06a159a376",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2390s-2440s"
+  },
+  {
+    "question": "At what point in the past did the experimenter state their intention to look into previous recordings to ensure consistency if the current data was good?",
+    "correct_answer": "1643s-1700s",
+    "incorrect_answer1": "1390s-1432s",
+    "incorrect_answer2": "2774s-2807s",
+    "annotation_id": "a8847114-4cb6-4196-b363-5a5c8fa1d01d",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3220s-3232s"
+  },
+  {
+    "question": "Why does the experimenter decide to record only two videos for the current flow rate, rather than the intended three?",
+    "correct_answer": "Time constraints require them to expedite the process and move on to testing the next flow rate.",
+    "incorrect_answer1": "The first two videos yield perfectly consistent data, making a third redundant for analyzing this flow rate.",
+    "incorrect_answer2": "The first two videos captured enough emulsion droplet coalescence events to adequately analyze the current flow rate.",
+    "rationale": "The experimenter notes that they usually record three videos per flow rate, but due to time constraints, they will only record two before changing the flow rate. Test whether the student understands the reason for this deviation from the planned protocol.",
+    "annotation_id": "4853a307-5489-41f9-9b5d-192723ccc000",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point does the experimenter indicate that the flow within the microfluidic device is visible to the naked eye?",
+    "correct_answer": "1777s-1794s",
+    "incorrect_answer1": "714s-731s",
+    "incorrect_answer2": "1452s-1469s",
+    "rationale": "The experimenter points to the physical chip to show that the bubbles can be seen moving through the channel directly. The question tests the viewer's ability to recognize this shift in focus from the magnified feed to the macroscopic physical apparatus.",
+    "annotation_id": "79f95b01-daba-459a-8e59-18c1d84de56f",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is checking their notebook for the concentration of the solution. At what point in the video did they perform the calculations for these concentrations?",
+    "correct_answer": "0s-62s",
+    "incorrect_answer1": "1281s-1313s",
+    "incorrect_answer2": "210s-252s",
+    "annotation_id": "420c02b6-a347-4799-b87f-151127413e96",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "1844s-1846s"
+  },
+  {
+    "question": "The experimenter is observing bubbles that appear to be connected. At what earlier point did they explain the specific geometric feature of the channel designed to reduce flow velocity and induce this connection?",
+    "correct_answer": "1965s-1998s",
+    "incorrect_answer1": "1071s-1094s",
+    "incorrect_answer2": "3118s-3160s",
+    "annotation_id": "b1ae1899-dfd6-4139-b1df-da40e7045bcf",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3562s-3620s"
+  },
+  {
+    "question": "Why do the bubbles have an increased opportunity to contact one another in the wider section of the channel shown on the screen?",
+    "correct_answer": "The fluid velocity is lower in the wider channel, which increases the time available for the bubbles to interact.",
+    "incorrect_answer1": "The wider channel allows bubbles to escape single-file confinement, enabling them to move side-by-side and collide more frequently.",
+    "incorrect_answer2": "The fluid velocity increases in the wider channel, creating turbulent shear forces that push the surfactant-stabilized bubbles together.",
+    "rationale": "The experimenter notes that the bubbles have more time to contact each other because the velocity is less in the wider channel. Test whether the student understands the relationship between channel width, fluid velocity, and contact time.",
+    "annotation_id": "442b5e9c-c04e-43f0-b86d-b595f5070b79",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "Now that the bubbles are observed to be connected, at what point in the video did the experimenter explain how the channel's design provides the bubbles with more time to make contact?",
+    "correct_answer": "1965s-1998s",
+    "incorrect_answer1": "1071s-1094s",
+    "incorrect_answer2": "2128s-2152s",
+    "annotation_id": "442b5e9c-c04e-43f0-b86d-b595f5070b79",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3562s-3620s"
+  },
+  {
+    "question": "At what earlier point did the experimenter predict that the thin film between the bubbles would rupture, leading to the formation of these larger, connected bubbles?",
+    "correct_answer": "1998s-2044s",
+    "incorrect_answer1": "1208s-1241s",
+    "incorrect_answer2": "1346s-1390s",
+    "annotation_id": "cdff7cce-dc4a-40af-8cad-130a7139d4cf",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "3562s-3620s"
+  },
+  {
+    "question": "When observing the bubbles traveling down the channel, what factors dictate whether coalescence will occur at the far end rather than just at the entry point?",
+    "correct_answer": "The concentration and type of the surfactant, along with the salt concentration.",
+    "incorrect_answer1": "The flow rate of the fluids, along with the surfactant adsorption dynamics.",
+    "incorrect_answer2": "The thermodynamic stability of air bubbles and the absence of interfacial films.",
+    "rationale": "The experimenter anticipates that the location of coalescence (entry vs. far end) is dependent on the surfactant and salt concentrations, as well as the surfactant type. This tests if the student understands the chemical factors governing interfacial stability and coalescence dynamics in the microfluidic channel.",
+    "annotation_id": "c04b17a5-e63a-46f1-9db6-1ea3ebc1e79a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is observing connected bubbles (coalescence) in the channel, which they previously noted is dependent on the salt concentration of the mixture. At what point in the video did the experimenter first handle the salt solution used to prepare these samples?",
+    "correct_answer": "62s-90s",
+    "incorrect_answer1": "190s-210s",
+    "incorrect_answer2": "252s-316s",
+    "annotation_id": "c04b17a5-e63a-46f1-9db6-1ea3ebc1e79a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3562s-3620s"
+  },
+  {
+    "question": "What phenomenon explains why the bubbles are observed to be getting bigger as they move through the channel?",
+    "correct_answer": "The bubbles are coalescing with one another.",
+    "incorrect_answer1": "The gas inside the bubbles is expanding.",
+    "incorrect_answer2": "The bubbles are expanding due to microfluidic pressure drop.",
+    "rationale": "The experimenter notes that the bubbles are getting bigger. Test whether the student understands that this increase in size is due to coalescence, which is the primary focus of the study.",
+    "annotation_id": "72401603-9524-4cab-bf71-1baf56d3a8d5",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter observe visual evidence on the monitor that bubble coalescence is actively occurring?",
+    "correct_answer": "2049s-2057s",
+    "incorrect_answer1": "2856s-2864s",
+    "incorrect_answer2": "3380s-3388s",
+    "rationale": "The experimenter infers that coalescence is happening because the bubbles on the screen are \"getting bigger and bigger\". This tests the viewer's ability to link the visual observation of the monitor feed to the physical phenomenon of coalescence.",
+    "annotation_id": "72401603-9524-4cab-bf71-1baf56d3a8d5",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "The experimenter is currently analyzing the recorded video to observe the size and connectivity of the circular shapes. At what earlier point in the experiment were they pointing at the screen to indicate the different regions of interest (the narrow entry channel and the wider chamber) that they are now comparing?",
+    "correct_answer": "2058s-2106s",
+    "incorrect_answer1": "1043s-1071s",
+    "incorrect_answer2": "992s-1043s",
+    "annotation_id": "bd67aa71-f404-4f32-aa5e-7d0bf26762ea",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3562s-3620s"
+  },
+  {
+    "question": "At what point in the past did the experimenter point out the entry and exit regions of the channel to prepare for calculating the bubble's residence time?",
+    "correct_answer": "2058s-2106s",
+    "incorrect_answer1": "1122s-1164s",
+    "incorrect_answer2": "992s-1043s",
+    "annotation_id": "f56d5f14-1d91-4d39-94bc-c1fb5c999dda",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "3944s-3968s"
+  },
+  {
+    "question": "What does the experimenter anticipate will happen to the currently unstable bubbles?",
+    "correct_answer": "They will stabilize after some time.",
+    "incorrect_answer1": "They will merge into larger bubbles.",
+    "incorrect_answer2": "They will completely dissolve into the continuous phase.",
+    "rationale": "The experimenter observes that the bubbles are currently unstable but anticipates that they will become stable after some time.",
+    "annotation_id": "bbeea1a0-57e6-4844-a671-87b1169ee7ff",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter visually recognize that the recent flow rate adjustments have temporarily destabilized the bubble formation?",
+    "correct_answer": "1241s-2150s",
+    "incorrect_answer1": "232s-1141s",
+    "incorrect_answer2": "3602s-4511s",
+    "rationale": "The experimenter connects the disrupted image on the screen to the bubbles being 'stuck' or 'unstable' due to the new flow rates. This tests the viewer's ability to link the change in the microscope feed to the physical state of the microfluidic system.",
+    "annotation_id": "bbeea1a0-57e6-4844-a671-87b1169ee7ff",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "What is the experimenter's strategy for adjusting the flow rates of the continuous and dispersed phases to study their effect?",
+    "correct_answer": "To change the total flow rate while maintaining a constant ratio between the two phases.",
+    "incorrect_answer1": "To keep the continuous phase flow rate constant while varying the dispersed phase flow rate.",
+    "incorrect_answer2": "To change the phase ratio by adjusting only the dispersed phase on the syringe pump.",
+    "rationale": "The experimenter notes they will change the total flow rate while keeping the flow rate ratio constant between the continuous and dispersed phases. Test whether the student understands this experimental control strategy.",
+    "annotation_id": "4359d4b2-98dc-45f2-8323-58319dc54510",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is adjusting the flow rate on the syringe pump. At what point earlier in the video did they state their intention to change the total flow rate while maintaining a constant flow rate ratio between the phases?",
+    "correct_answer": "2152s-2181s",
+    "incorrect_answer1": "652s-692s",
+    "incorrect_answer2": "1998s-2044s",
+    "annotation_id": "4359d4b2-98dc-45f2-8323-58319dc54510",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "2390s-2440s"
+  },
+  {
+    "question": "As the experimenter adjusts the syringe pumps, what specific sequence of flow rate changes are they implementing?",
+    "correct_answer": "They are systematically decreasing the flow rates, ensuring the air flow rate is adjusted prior to the liquid phase flow rate.",
+    "incorrect_answer1": "They are gradually increasing the flow rates, making sure the liquid phase flow rate is altered before the air flow rate.",
+    "incorrect_answer2": "They are systematically increasing the flow rates on the two syringe pumps, ensuring the surfactant solution is adjusted before the air.",
+    "rationale": "The experimenter explicitly states their strategy is to move from a higher flow rate to a lower flow rate, and that the air flow rate must be changed first before the continuous phase flow rate. This tests whether the student can anticipate the specific procedural sequence the experimenter is following to maintain stable bubble formation.",
+    "annotation_id": "951d070a-4705-403b-8b61-990d75d0bdc9",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter explains that the system is unstable and the flow rate cannot be lowered further. At what point in the past did they adjust the flow rate from a higher to a lower value?",
+    "correct_answer": "2420s-2448s",
+    "incorrect_answer1": "2688s-2710s",
+    "incorrect_answer2": "1346s-1390s",
+    "annotation_id": "951d070a-4705-403b-8b61-990d75d0bdc9",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "4110s-4198s"
+  },
+  {
+    "question": "Why is the air flow rate adjusted prior to the continuous phase flow rate?",
+    "correct_answer": "To maintain consistency and facilitate easier bubble formation.",
+    "incorrect_answer1": "To prevent the continuous phase from flooding the air channel.",
+    "incorrect_answer2": "To prevent any air bubbles from entering the microfluidic channels.",
+    "rationale": "The experimenter states, \"So I'll change the air flow rate first, then I'll change the continuous space flow rate to be consistent and also it helps us to form bubbles easier.\"",
+    "annotation_id": "bd2d9fb6-b42d-43e0-960c-874b6d7714fa",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter is currently observing that the system is unstable. At what earlier point did they explain the procedural cause of this type of instability?",
+    "correct_answer": "2448s-2500s",
+    "incorrect_answer1": "1432s-1488s",
+    "incorrect_answer2": "992s-1043s",
+    "annotation_id": "e4aef1f5-3299-4609-87d0-d3030002c23a",
+    "category": "PLAN",
+    "stage": "stage2",
+    "current_point": "4110s-4198s"
+  },
+  {
+    "question": "The experimenter is now browsing through a directory of saved video files. At what earlier point was the experimenter interacting with the software's processing interface to generate and save these recordings, preparing them for this later review?",
+    "correct_answer": "2578s-2599s",
+    "incorrect_answer1": "906s-958s",
+    "incorrect_answer2": "2710s-2774s",
+    "annotation_id": "38cb0434-a076-4f35-a879-c99d2b35da58",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3562s-3620s"
+  },
+  {
+    "question": "The progress bar for the video download is filling up very slowly. At what point in the past did the experimenter explain the software compatibility issue causing this delay?",
+    "correct_answer": "2599s-2646s",
+    "incorrect_answer1": "2952s-2981s",
+    "incorrect_answer2": "2420s-2448s",
+    "annotation_id": "3e18b79a-7ea6-4452-a59e-d5ecc0b89e5a",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3096s-3160s"
+  },
+  {
+    "question": "What is the experimenter verifying by reviewing this specific video file?",
+    "correct_answer": "They are checking if the bubbles are coalescing at this particular flow rate.",
+    "incorrect_answer1": "They are evaluating whether the emulsion droplets remain stable with this surfactant mixture.",
+    "incorrect_answer2": "They are checking if the surfactant mixture causes the air bubbles to completely dissolve.",
+    "rationale": "The experimenter states, \"this is a double check how it looks like at 126 microliter per minute seems like this it's really coalescing because it's coalescing here.\"",
+    "annotation_id": "b627ab71-8a16-4f22-8c72-1f90dd0e55a3",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "What factors are most likely responsible for the bubble coalescence behavior observed on the monitor?",
+    "correct_answer": "A combination of low surfactant concentration, electrostatic interactions from the presence of salt, and surface tension flows.",
+    "incorrect_answer1": "An increase in the microfluidic flow rate coupled with the slow adsorption dynamics of nonionic surfactant mixtures.",
+    "incorrect_answer2": "A combination of high nonionic surfactant concentration, steric hindrance effects, and excessively high microfluidic flow rates.",
+    "rationale": "The experimenter explicitly attributes the observed bubble coalescence to the low concentration of surfactants, electrostatic interactions caused by salt, and surface tension flows. This question tests whether the student can identify the physical and chemical factors driving the interfacial phenomena in this specific microfluidic setup.",
+    "annotation_id": "ff631109-de62-4374-bc5d-0333e81530b0",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "While observing the bubbles in the microfluidic channel, the experimenter's results are influenced by the use of a very low concentration of surfactant and the presence of salt. At what point earlier in the experiment did the experimenter gather the specific stock solutions (such as NaCl and SVS) needed to create this mixture?",
+    "correct_answer": "62s-90s",
+    "incorrect_answer1": "190s-210s",
+    "incorrect_answer2": "252s-316s",
+    "annotation_id": "ff631109-de62-4374-bc5d-0333e81530b0",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "2892s-2922s"
+  },
+  {
+    "question": "What does the experimenter conclude about the effect of hydrodynamics on the foams being observed?",
+    "correct_answer": "The flow rate significantly influences the rupture or coalescence of the foams.",
+    "incorrect_answer1": "High shear stress from the fluid motion prevents any coalescence from occurring.",
+    "incorrect_answer2": "The monitor's microfluidic images reveal that flow rate has no effect on coalescence.",
+    "rationale": "The experimenter notes that hydrodynamics (flow rate) matters a lot with the rupture (coalescence) of the foams.",
+    "annotation_id": "0427c995-9ee7-4fd6-9c10-182923c2645f",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what point in the video did the experimenter adjust the flow rate on the syringe pump, which affects the hydrodynamics and foam rupture currently being observed?",
+    "correct_answer": "2420s-2448s",
+    "incorrect_answer1": "2106s-2128s",
+    "incorrect_answer2": "2128s-2152s",
+    "annotation_id": "0427c995-9ee7-4fd6-9c10-182923c2645f",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "3436s-3451s"
+  },
+  {
+    "question": "What phenomenon is the experimenter anticipating will occur with the bubbles currently visible on the monitor?",
+    "correct_answer": "They will coalesce to form larger bubbles.",
+    "incorrect_answer1": "They will burst upon reaching the liquid interface.",
+    "incorrect_answer2": "They will fragment into smaller bubbles in the microfluidic channel.",
+    "rationale": "The experimenter states, \"it's kind of forming or bigger bubbles or coalescing,\" indicating an anticipation of bubble coalescence.",
+    "annotation_id": "2183918d-87d7-4979-a548-dd105b45d17e",
+    "category": "PLAN",
+    "stage": "stage1"
+  },
+  {
+    "question": "What is the experimenter referring to when they remark that \"it's pretty small\"?",
+    "correct_answer": "The size of the bubbles or droplets being generated in the microfluidic channel shown on the monitor.",
+    "incorrect_answer1": "The physical width of the microfluidic channel where the continuous and dispersed phases intersect during the experiment.",
+    "incorrect_answer2": "The physical width of the microfluidic channel being observed on the computer monitor during the experiment.",
+    "rationale": "The experimenter is evaluating the size of the bubbles/droplets generated in the microfluidic device, which are visible on the screen. Test whether the student understands what feature of the experiment is currently being assessed.",
+    "annotation_id": "c93fbec1-2531-4804-a4eb-0a368beeb8c9",
+    "category": "ASSESSMENT",
+    "stage": "stage1"
+  },
+  {
+    "question": "If the experimenter were to lower the flow rate, what change would likely be observed regarding the bubbles in the chamber?",
+    "correct_answer": "The bubble size would increase, resulting in a fewer number of bubbles present in the chamber.",
+    "incorrect_answer1": "The coalescence frequency of the bubbles would decrease, leading to a more stable interfacial film.",
+    "incorrect_answer2": "The air-water interfaces would lose stability, resulting in the bubbles instantly dissolving into the continuous phase.",
+    "rationale": "The experimenter notes that lowering the flow rate causes the bubble size to increase, which in turn leads to a decreased number of bubbles (or 'corals') in the chamber. This question tests whether the student understands the relationship between flow rate and bubble formation dynamics in the microfluidic device.",
+    "annotation_id": "b7c7a118-4d33-4910-ad77-b7c6ab974084",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "The experimenter concludes that the flow rate cannot be lowered further due to system instability. At what point earlier in the video did they discuss the expected effect that lowering the flow rate would have on bubble size?",
+    "correct_answer": "4040s-4072s",
+    "incorrect_answer1": "3404s-3436s",
+    "incorrect_answer2": "3436s-3468s",
+    "annotation_id": "b7c7a118-4d33-4910-ad77-b7c6ab974084",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage2",
+    "current_point": "4110s-4198s"
+  },
+  {
+    "question": "While waiting for the bubble formation to stabilize, what undesirable behavior must the experimenter monitor and try to prevent?",
+    "correct_answer": "The bubbles adhering to the walls of the microfluidic channel.",
+    "incorrect_answer1": "The air bubbles coalescing prematurely at the fluid injection nozzle.",
+    "incorrect_answer2": "The air bubbles dissolving completely into the surrounding surfactant mixture.",
+    "rationale": "The experimenter notes that the bubbles are getting more stable but are 'sticky,' and explicitly states they do not want the bubbles sticking to the wall.",
+    "annotation_id": "7099dee5-05df-46e3-b799-dad68810bab0",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  },
+  {
+    "question": "At what moment does the experimenter check the physical microfluidic chip to confirm that droplet generation has failed?",
+    "correct_answer": "4187s-4189s",
+    "incorrect_answer1": "1016s-1018s",
+    "incorrect_answer2": "2514s-2516s",
+    "rationale": "The experimenter infers the lack of bubble formation from the macroscopic appearance of the physical chip. The question tests if the viewer can identify this shift in observational focus to confirm the flow state.",
+    "annotation_id": "0567d1c3-0361-4436-b51f-ff674becc6e4",
+    "category": "ASSESSMENT",
+    "stage": "stage3"
+  },
+  {
+    "question": "Why is the experimenter unable to decrease the flow rate any further at this point?",
+    "correct_answer": "The system has become unstable, resulting in the formation of non-uniform bubbles.",
+    "incorrect_answer1": "The syringe pump has reached its minimum limit, preventing continuous fluid delivery.",
+    "incorrect_answer2": "The microfluidic channel is completely obstructed by a single coalesced air bubble.",
+    "rationale": "The experimenter notes that the system is 'not stable' and they are 'not getting uniform bubbles,' which prevents them from lowering the flow rate any further.",
+    "annotation_id": "19c8bdfe-041c-4c30-be4e-a66f866c0b53",
+    "category": [
+      "PLAN",
+      "INTENT_REASONING"
+    ],
+    "stage": "stage1"
+  }
+]
